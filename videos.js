@@ -31,7 +31,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "4:24",
     "embedUrl": "https://www.youtube.com/embed/gZOhNZ4MAYw",
-    "isNew": true,
+    "isNew": false,
     "summary": "A short, number-free introduction to the balance sheet and income statement, showing how the two connect and how managers can use them rather than just read them.",
     "takeaways": [
       "The balance sheet is a snapshot; the income statement covers a period.",
@@ -51,7 +51,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/8ngZ0zS73lg",
-    "isNew": true,
+    "isNew": false,
     "summary": "Explains why profit alone does not keep a company solvent, and how forecasting, working capital and scenario planning protect liquidity, using well-known company examples.",
     "takeaways": [
       "Profitable companies can still fail when cash runs out.",
@@ -71,7 +71,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/qp0HIF3SfI4",
-    "isNew": true,
+    "isNew": false,
     "summary": "Simon Sinek's model of why some leaders and organisations inspire people: start with why you do something, then how, then what.",
     "takeaways": [
       "People commit to the purpose behind a decision, not just the decision.",
@@ -91,7 +91,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/lmyZMtPVodo",
-    "isNew": true,
+    "isNew": false,
     "summary": "Sinek argues that great leaders create a circle of safety and trust, so people protect each other and the organisation instead of themselves.",
     "takeaways": [
       "Trust grows when people feel their leader has their back.",
@@ -111,7 +111,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "13:07",
     "embedUrl": "https://www.youtube.com/embed/3boKz0Exros",
-    "isNew": true,
+    "isNew": false,
     "summary": "Harvard professor Amy Edmondson explains how people who have never worked together can team up fast on urgent, unfamiliar problems, drawing on the 2010 Chilean mine rescue.",
     "takeaways": [
       "Teaming is a skill: situational humility, curiosity and fast learning.",
@@ -131,7 +131,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/bC4d7P0-sjA",
-    "isNew": true,
+    "isNew": false,
     "summary": "Defines procurement as obtaining goods and services for the business and shows it covers the sourcing steps before a purchase, not only the purchase itself.",
     "takeaways": [
       "Purchasing is one step; procurement is the full sourcing process.",
@@ -151,7 +151,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/tKez1btVrPo",
-    "isNew": true,
+    "isNew": false,
     "summary": "Eight practical SRM strategies, from segmenting suppliers with the Kraljic Matrix to contract standards, performance tracking, audits and knowing when to exit a supplier.",
     "takeaways": [
       "Segment suppliers so effort matches spend and risk.",
@@ -171,7 +171,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/aPEUKLxxh_k",
-    "isNew": true,
+    "isNew": false,
     "summary": "An overview of what HRM is, how it developed, its core activities and how it contributes to business performance and future trends.",
     "takeaways": [
       "HRM covers the full employee cycle: hire, develop, retain, exit.",
@@ -191,7 +191,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/rrkrvAUbU9Y",
-    "isNew": true,
+    "isNew": false,
     "summary": "Dan Pink examines why traditional rewards often fail to motivate people for complex work, and proposes autonomy, mastery and purpose instead.",
     "takeaways": [
       "If-then rewards work for simple tasks but can hurt creative work.",
@@ -211,7 +211,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "5:41",
     "embedUrl": "https://www.youtube.com/embed/kRvaXGWz4iY",
-    "isNew": true,
+    "isNew": false,
     "summary": "Introduces ISO 9001 as the international quality management framework: its history, seven quality principles and the operational benefits for businesses that adopt it.",
     "takeaways": [
       "ISO 9001 rests on seven quality management principles.",
@@ -231,7 +231,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "2:29",
     "embedUrl": "https://www.youtube.com/embed/xyANahuhGs0",
-    "isNew": true,
+    "isNew": false,
     "summary": "An animated guide from the UK HSE on the steps employers take to protect workers: identify hazards, assess the risks and control them.",
     "takeaways": [
       "Identify hazards before deciding on controls.",
@@ -251,7 +251,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/QutvW0Uv7Wg",
-    "isNew": true,
+    "isNew": false,
     "summary": "How leaders shape safety attitudes and behaviours, with practical ways to build a workplace culture that protects people's health and wellbeing.",
     "takeaways": [
       "Teams copy what leaders do, not what they say.",
@@ -271,7 +271,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "11:42",
     "embedUrl": "https://www.youtube.com/embed/bUY2xQg-rk8",
-    "isNew": true,
+    "isNew": false,
     "summary": "A practical guide to finding prospects and generating leads in business-to-business sales and business development.",
     "takeaways": [
       "Define your ideal customer before building a list.",
@@ -291,7 +291,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/Hc6yi_FtoNo",
-    "isNew": true,
+    "isNew": false,
     "summary": "William Ury, co-author of Getting to Yes, shares a simple but demanding approach to reaching agreement in even the most contentious situations.",
     "takeaways": [
       "Step back to see the wider context before reacting.",
@@ -311,7 +311,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "6:43",
     "embedUrl": "https://www.youtube.com/embed/c2W2V-apWbQ",
-    "isNew": true,
+    "isNew": false,
     "summary": "Shows how a budget sets fixed targets while a forecast is updated to reflect actual performance, covering rolling forecasts, assumptions, scenarios and variance review.",
     "takeaways": [
       "A budget is the plan; a forecast is the latest view of reality.",
@@ -331,7 +331,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/dUEDS4w3p28",
-    "isNew": true,
+    "isNew": false,
     "summary": "Explains how profit, EBITDA and cash differ, and how short-term, 13-week and long-range cash forecasts reveal timing gaps and funding needs before a liquidity crunch.",
     "takeaways": [
       "Profit and EBITDA are not cash in the bank.",
@@ -351,7 +351,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/Z2iSy4nnYZI",
-    "isNew": true,
+    "isNew": false,
     "summary": "Covers the cash conversion cycle and practical working-capital strategies such as tighter receivable terms, centralised treasury and stress testing, with examples from large companies.",
     "takeaways": [
       "The cash conversion cycle shows how long cash is tied up.",
@@ -371,7 +371,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/uYM2YnwO-20",
-    "isNew": true,
+    "isNew": false,
     "summary": "Worked examples showing how to calculate gross, operating and net profit margins from an income statement.",
     "takeaways": [
       "Gross margin shows profit after direct costs.",
@@ -391,7 +391,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/uAy6EawKKME",
-    "isNew": true,
+    "isNew": false,
     "summary": "Drew Dudley argues that leadership is found in small, everyday acts that change someone's day, not only in grand achievements.",
     "takeaways": [
       "Small acts of leadership happen every day.",
@@ -411,7 +411,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/i41cFYIMQlw",
-    "isNew": true,
+    "isNew": false,
     "summary": "Introduces why delegation is essential to management, and how to assess a task, match it to an employee's skills and support them to completion.",
     "takeaways": [
       "Delegation is a core management skill, not a favour.",
@@ -431,7 +431,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/UkLyv5Juq68",
-    "isNew": true,
+    "isNew": false,
     "summary": "Common delegation mistakes such as hovering or handing off tasks without ownership, and fixes like matching responsibility to readiness, setting checkpoints and sharing real authority.",
     "takeaways": [
       "Delegate ownership of outcomes, not just tasks.",
@@ -451,7 +451,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "10:54",
     "embedUrl": "https://www.youtube.com/embed/jhtwqK3iOV8",
-    "isNew": true,
+    "isNew": false,
     "summary": "HBR's guide to delivering critical feedback with empathy and clarity: common mistakes, a simple recipe, handling disagreement and practising difficult conversations.",
     "takeaways": [
       "Prepare the message; don't improvise hard feedback.",
@@ -471,7 +471,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/omCQr_HgCQ0",
-    "isNew": true,
+    "isNew": false,
     "summary": "Explains spend analysis from collecting and cleaning purchase data to building a spend cube, common pitfalls like messy data and tail spend, and turning insight into savings.",
     "takeaways": [
       "Clean, categorised data is the foundation of spend analysis.",
@@ -491,7 +491,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "4:46",
     "embedUrl": "https://www.youtube.com/embed/Ii2KC7P5IqY",
-    "isNew": true,
+    "isNew": false,
     "summary": "How negotiation shapes what you actually pay under construction and procurement contracts, with focus on payment terms, retention and the tender as the starting point.",
     "takeaways": [
       "Negotiation is about clarity, not winning.",
@@ -511,7 +511,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/3VorbAZu2cU",
-    "isNew": true,
+    "isNew": false,
     "summary": "Covers the full contract lifecycle from pre-award and scope design to performance monitoring, disputes, amendments and close-out, balancing commercial and legal goals.",
     "takeaways": [
       "Contract value is won or lost in the scope of work.",
@@ -531,7 +531,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/1YwMfHXArPg",
-    "isNew": true,
+    "isNew": false,
     "summary": "How structured interviews make hiring more consistent and less biased, with steps for standard questions, scoring rubrics and interviewer training.",
     "takeaways": [
       "Ask every candidate the same job-relevant questions.",
@@ -551,7 +551,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "13:21",
     "embedUrl": "https://www.youtube.com/embed/tgX607r_jZs",
-    "isNew": true,
+    "isNew": false,
     "summary": "Explains employee retention, how to calculate retention rates, the main causes of turnover and practical strategies to keep good people.",
     "takeaways": [
       "Track retention rate, not just headcount.",
@@ -571,7 +571,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/d0HPcpSnCyc",
-    "isNew": true,
+    "isNew": false,
     "summary": "Introduces training needs analysis at organisational, task and individual levels, the TNA process, data-collection methods and common mistakes.",
     "takeaways": [
       "Analyse needs at organisation, job and individual level.",
@@ -591,7 +591,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "3:58",
     "embedUrl": "https://www.youtube.com/embed/AbTza-1wn_A",
-    "isNew": true,
+    "isNew": false,
     "summary": "What performance appraisals are for and how to run them well, including SMART goals, the SBI feedback model and avoiding recency and halo bias.",
     "takeaways": [
       "Set SMART goals at the start of the period.",
@@ -611,7 +611,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/t7FcK8jV2yA",
-    "isNew": true,
+    "isNew": false,
     "summary": "How to use the 5 Whys technique to find the root cause of a problem, its strengths and limits, and how to apply countermeasures.",
     "takeaways": [
       "Keep asking why until you reach a process cause.",
@@ -631,7 +631,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/AyJ9iEOH0ZY",
-    "isNew": true,
+    "isNew": false,
     "summary": "Explains the fishbone (Ishikawa) diagram, its cause categories such as the 6Ms, and how to use it with the 5 Whys and brainstorming.",
     "takeaways": [
       "Group possible causes into categories like the 6Ms.",
@@ -651,7 +651,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "1:11:39",
     "embedUrl": "https://www.youtube.com/embed/18Fua7om8OA",
-    "isNew": true,
+    "isNew": false,
     "summary": "A webinar on planning and carrying out ISO 9001 internal audits, why they matter and what an internal audit programme must include.",
     "takeaways": [
       "Internal audits test whether the system works in practice.",
@@ -671,7 +671,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/MBBrEBWxdVk",
-    "isNew": true,
+    "isNew": false,
     "summary": "A six-step approach to tender responses that stand out: understand the client, follow instructions, involve the team, show capability, review and submit on time.",
     "takeaways": [
       "Understand the client's real needs before writing.",
@@ -691,7 +691,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "1:21:46",
     "embedUrl": "https://www.youtube.com/embed/9xT9F5_KSDQ",
-    "isNew": true,
+    "isNew": false,
     "summary": "A government-run session on preparing tender submissions that are more likely to succeed, with tested methods to improve win rates.",
     "takeaways": [
       "Read evaluation criteria first and answer to them.",
@@ -711,7 +711,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/7_VpQawHawo",
-    "isNew": true,
+    "isNew": false,
     "summary": "Former FBI negotiator Chris Voss on collaborative negotiation, spotting when you are only being used for price comparison, and building lasting client relationships.",
     "takeaways": [
       "Treat negotiation as collaboration, not a fight.",
@@ -731,7 +731,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/Ec2UspaZHSg",
-    "isNew": true,
+    "isNew": false,
     "summary": "A Bain partner outlines four keys to strategic account management: choosing focus accounts, setting a cadence, developing plays and keeping it simple.",
     "takeaways": [
       "Focus effort on the accounts with most potential.",
@@ -751,7 +751,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/wXOy82cSgcg",
-    "isNew": true,
+    "isNew": false,
     "summary": "Why key account programmes fail when treated as ordinary sales, and how to study a client's strategy, segment accounts and reach senior decision-makers.",
     "takeaways": [
       "Key accounts need a long-term business plan, not a sales push.",
@@ -771,7 +771,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "3:48",
     "embedUrl": "https://www.youtube.com/embed/Md0c86PnhXo",
-    "isNew": true,
+    "isNew": false,
     "summary": "A beginner's introduction to ITIL, the framework for running IT services that meet business needs, covering the Service Value System and the Four Dimensions Model.",
     "takeaways": [
       "ITIL treats IT as a service delivered to the business.",
@@ -791,7 +791,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "3:42",
     "embedUrl": "https://www.youtube.com/embed/yn6CPQ9RioA",
-    "isNew": true,
+    "isNew": false,
     "summary": "IBM explains the zero trust model: treat every user, device and connection as untrusted and verify each one continuously, supported by integrated security tools.",
     "takeaways": [
       "Never trust by default; always verify.",
@@ -811,7 +811,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/GqNbuwfLkzc",
-    "isNew": true,
+    "isNew": false,
     "summary": "A short explainer on computerised maintenance management systems: tracking work orders, assets and spare parts in one place, and using preventive schedules and building data to cut breakdowns.",
     "takeaways": [
       "A CMMS puts work orders, assets and spares in one system.",
@@ -831,7 +831,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/j7-maM24CmY",
-    "isNew": true,
+    "isNew": false,
     "summary": "Introduces computer-aided facilities management software, its core modules such as space, asset and building administration, and how CAFM compares with CMMS and IWMS.",
     "takeaways": [
       "CAFM covers space, assets and building administration.",
@@ -851,7 +851,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-24",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/9qkeU03QYjw",
-    "isNew": true,
+    "isNew": false,
     "summary": "Harvard Business School Online on leading AI transformation responsibly and at scale: rethinking systems, empowering teams, setting an AI strategy and overcoming cultural barriers.",
     "takeaways": [
       "AI value comes from redesigning work, not just adding tools.",
@@ -2417,5 +2417,186 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Organise document reviews against a checklist and timeline"
     ],
     "applyIt": "Package Al Bonian FM inspection and condition reports as the physical due-diligence component for investors and developers buying buildings in Dubai."
+  },
+  {
+    "id": "fin-013",
+    "title": "Working Capital, Liquidity and the Cash Conversion Cycle",
+    "department": "Finance",
+    "topic": "Working Capital",
+    "level": "Practitioner",
+    "source": "Training Academy",
+    "channel": "Understand Finance with Dr. Dicle",
+    "publishDate": "2026-11-01",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/8IsIM90gP0I",
+    "isNew": true,
+    "summary": "A lecture on how receivables, payables and inventory timing drive liquidity, using the operating cycle and cash conversion cycle to show why profitable firms can still run short of cash.",
+    "takeaways": [
+      "Profit is not cash: track when money leaves and when it returns",
+      "Cash conversion cycle = days inventory + days receivable − days payable",
+      "Growth consumes working capital, so forecast funding needs before expanding"
+    ],
+    "applyIt": "Track days-to-collect on each MEP maintenance contract against subcontractor payment terms, and forecast the working-capital needed before mobilising a large new site."
+  },
+  {
+    "id": "lead-014",
+    "title": "How to Take Blame Out of Leadership",
+    "department": "Leadership",
+    "topic": "Accountability",
+    "level": "Executive",
+    "source": "TED Talk",
+    "channel": "TEDx Talks (Michael Timms)",
+    "publishDate": "2026-11-01",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/-Tf-FhF1RVk",
+    "isNew": true,
+    "summary": "Michael Timms explains how blame cycles undermine results and outlines three personal-accountability habits that leaders can model to build ownership across an organisation.",
+    "takeaways": [
+      "Blame protects egos but stops learning and improvement",
+      "Leaders set the tone by owning their part in problems first",
+      "Ask 'what could I have done differently?' before looking at others"
+    ],
+    "applyIt": "In post-incident and missed-SLA reviews, have senior managers open by stating what they would change themselves before discussing site or subcontractor failures."
+  },
+  {
+    "id": "proc-012",
+    "title": "How to Manage Subcontractors Without Micromanaging",
+    "department": "Procurement",
+    "topic": "Subcontractor Management",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "Jesse Lane",
+    "publishDate": "2026-11-01",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/l3Sh2vax9zo",
+    "isNew": true,
+    "summary": "A contractor's practical guide to aligning subcontractors around shared goals, setting clear expectations and controlling quality without micromanaging every task.",
+    "takeaways": [
+      "Set scope, standards and deadlines clearly before work starts",
+      "Manage outcomes and checkpoints rather than every task",
+      "Build long-term relationships with reliable subcontractors"
+    ],
+    "applyIt": "Issue each MEP subcontractor a one-page scope and quality checklist at mobilisation and review progress at agreed checkpoints instead of daily chasing."
+  },
+  {
+    "id": "hr-013",
+    "title": "How to Conduct a Training Needs Analysis (TNA): Step-by-Step Guide",
+    "department": "HR",
+    "topic": "Training Needs Analysis",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "Unlock L&D With Samir Raj",
+    "publishDate": "2026-11-01",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/GMUKWleC3k4",
+    "isNew": true,
+    "summary": "A step-by-step walkthrough of running a training needs analysis to identify skill gaps, decide whether training is the right fix and prioritise L&D spend for real business results.",
+    "takeaways": [
+      "Gather data on skill and performance gaps before designing training",
+      "Check whether training is actually the right solution",
+      "Prioritise needs that link to business results to win management support"
+    ],
+    "applyIt": "Run a TNA across technicians and supervisors using CAFM job data (repeat faults, first-time-fix rates) to target training budget where it improves contract KPIs."
+  },
+  {
+    "id": "qhse-013",
+    "title": "Achieving Health and Safety Leadership Excellence in the Workplace",
+    "department": "Quality & HSE",
+    "topic": "Safety Leadership",
+    "level": "Executive",
+    "source": "Professional Body",
+    "channel": "NEBOSH",
+    "publishDate": "2026-11-01",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/SDvC53j7vTU",
+    "isNew": true,
+    "summary": "A NEBOSH webinar on what effective health and safety leadership looks like in practice, drawing on the UK HSE's leadership model that underpins NEBOSH's leadership qualification.",
+    "takeaways": [
+      "Safety leadership is shown through visible behaviour, not slogans",
+      "Leaders get the safety culture they role-model and reward",
+      "Use a clear leadership model to coach managers and supervisors"
+    ],
+    "applyIt": "Have senior managers carry out scheduled site safety walks on MEP and inspection sites, recognising good practice and following up openly on unsafe conditions."
+  },
+  {
+    "id": "bd-014",
+    "title": "Why You're Winning 3 in 10 Deals: Defining Your Ideal Client in FM",
+    "department": "Business Development",
+    "topic": "Target Clients (ICP)",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "Matt Harris",
+    "publishDate": "2026-11-01",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/a0a9f4hfw5k",
+    "isNew": true,
+    "summary": "An FM-focused growth episode explaining how unclear target-client definition wastes business development effort, and how matching your offer to each buyer's risk priorities lifts win rates.",
+    "takeaways": [
+      "Different buyers judge suppliers on different risks",
+      "Pitch to the client's decision criteria, not generic 'reliable service'",
+      "Review past wins and losses to define your ideal client profile"
+    ],
+    "applyIt": "Analyse the last 20 Al Bonian FM bids by client type (developers, owners, government) and focus BD effort on the segment where we win most with least discounting."
+  },
+  {
+    "id": "it-012",
+    "title": "Implementing a Building Automation System: Steps for Facility Managers",
+    "department": "IT",
+    "topic": "Smart Buildings & BMS",
+    "level": "Practitioner",
+    "source": "Training Academy",
+    "channel": "Smart Buildings Academy",
+    "publishDate": "2026-11-01",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/v2FUxirOFyA",
+    "isNew": true,
+    "summary": "A practical guide for facility managers on implementing a building automation system, from assessing needs and selecting a solution through commissioning, training and ongoing optimisation.",
+    "takeaways": [
+      "Define facility goals and needs before selecting a BAS",
+      "Plan commissioning, testing and staff training as part of the project",
+      "Keep monitoring and tuning the system after handover"
+    ],
+    "applyIt": "Use these steps when advising clients on BMS upgrades and link BMS alarms into our CAFM system so critical faults generate work orders automatically."
+  },
+  {
+    "id": "fm-018",
+    "title": "The Philosophy of Reliability Centred Maintenance (RCM)",
+    "department": "Facilities Management",
+    "topic": "Reliability-Centred Maintenance",
+    "level": "Executive",
+    "source": "Training Academy",
+    "channel": "Engineering Presentations",
+    "publishDate": "2026-11-01",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/tNYiCOGuuNA",
+    "isNew": true,
+    "summary": "Explains the thinking behind reliability-centred maintenance and how it evolved from earlier maintenance eras, as part of a CMRP-based course on equipment reliability.",
+    "takeaways": [
+      "RCM starts from the functions an asset must deliver, not the task list",
+      "Choose maintenance tasks based on failure modes and consequences",
+      "RCM is a strategy shift, not just another PM programme"
+    ],
+    "applyIt": "Apply RCM thinking to critical client assets such as chillers and fire pumps to justify which PPM, condition-monitoring or run-to-failure strategies we propose in contracts."
+  },
+  {
+    "id": "pv-019",
+    "title": "Reinstatement Costs: Ask the Insurance Experts (BCIS Webinar)",
+    "department": "Property Inspection & Valuation",
+    "topic": "Reinstatement Cost",
+    "level": "Foundation",
+    "format": "Process",
+    "source": "Professional Body",
+    "channel": "BCIS",
+    "publishDate": "2026-11-01",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/Y9P2aSYu-vM",
+    "isNew": true,
+    "summary": "A BCIS expert panel explains underinsurance, why reinstatement cost differs from market value, and why rebuild cost assessments need regular updating for inflation and building changes.",
+    "takeaways": [
+      "Reinstatement cost is the rebuild cost, not market value",
+      "Averaging clauses reduce payouts when sums insured are too low",
+      "Reassess regularly for inflation, extensions and new features"
+    ],
+    "applyIt": "Offer reinstatement cost assessments alongside condition surveys for owners and developers, and flag clients whose declared values are outdated."
   }
 ];
