@@ -8,7 +8,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="referrer" content="origin">
-  <meta name="description" content="Anas Nader — Personal Training: daily video training for Finance, Leadership, Procurement, HR, Quality & HSE, Business Development, IT, Facilities Management and Property Inspection & Valuation.">
+  <meta name="description" content="Anas Nader — Personal Training: daily video training for Finance, Leadership, Procurement, HR, Quality & HSE, Business Development, IT, Facilities Management, Property Inspection & Valuation and AI News.">
   <title>Anas Nader | Personal Training</title>
   <link rel="icon" type="image/png" href="logo-mark.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -44,6 +44,7 @@
       --d-it: #A6B3C4;
       --d-fm: #C9A27A;
       --d-pv: #B5C65A;
+      --d-ai: #A78BFA;
     }
 
     * { box-sizing: border-box; }
@@ -191,7 +192,7 @@
     .section-head p { margin: 2px 0 0; color: var(--muted); font-size: 13.5px; }
     .depts { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
     @media (min-width: 720px) { .depts { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
-    @media (min-width: 960px) { .depts { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+    @media (min-width: 1100px) { .depts { grid-template-columns: repeat(5, minmax(0, 1fr)); } }
         .dept {
       --c: var(--brand);
       position: relative; text-align: left; border: 1px solid var(--line); border-radius: 16px; padding: 14px 14px 13px;
@@ -377,7 +378,7 @@
       </div>
       <div class="gate-depts" aria-hidden="true">
         <span style="background:var(--d-finance)"></span><span style="background:var(--d-leadership)"></span><span style="background:var(--d-procurement)"></span>
-        <span style="background:var(--d-hr)"></span><span style="background:var(--d-qhse)"></span><span style="background:var(--d-bd)"></span><span style="background:var(--d-it)"></span><span style="background:var(--d-fm)"></span><span style="background:var(--d-pv)"></span>
+        <span style="background:var(--d-hr)"></span><span style="background:var(--d-qhse)"></span><span style="background:var(--d-bd)"></span><span style="background:var(--d-it)"></span><span style="background:var(--d-fm)"></span><span style="background:var(--d-pv)"></span><span style="background:var(--d-ai)"></span>
       </div>
       <form id="login-form" novalidate>
         <div>
@@ -621,6 +622,7 @@
             <dt>Speaker / channel</dt><dd id="m-channel"></dd>
             <dt>Topic</dt><dd id="m-topic"></dd>
             <dt>Posted</dt><dd id="m-date"></dd>
+            <dt id="m-aired-l">Aired on YouTube</dt><dd id="m-aired"></dd>
             <dt>Length</dt><dd id="m-dur"></dd>
           </dl>
           <div class="modal-actions">
@@ -707,7 +709,8 @@
       { key: "Business Development", short: "Business Dev.", color: "var(--d-bd)", icon: "bd" },
       { key: "IT", short: "IT", color: "var(--d-it)", icon: "it" },
       { key: "Facilities Management", short: "Facilities Mgmt", color: "var(--d-fm)", icon: "fm" },
-      { key: "Property Inspection & Valuation", short: "Inspection & Valuation", color: "var(--d-pv)", icon: "pv" }
+      { key: "Property Inspection & Valuation", short: "Inspection & Valuation", color: "var(--d-pv)", icon: "pv" },
+      { key: "AI News", short: "AI News", color: "var(--d-ai)", icon: "ai" }
     ];
     const ICONS = {
       finance: '<path d="M3 3v18h18"/><path d="M7 15l4-4 3 3 6-6"/><path d="M15 8h5v5"/>',
@@ -717,6 +720,7 @@
       qhse: '<path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/>',
       bd: '<path d="M20 7h-9M14 17H5"/><circle cx="17" cy="17" r="3"/><circle cx="7" cy="7" r="3"/>',
       it: '<rect x="2" y="4" width="20" height="13" rx="2"/><path d="M8 21h8M12 17v4"/>',
+      ai: '<path d="M12 3l1.8 4.7L18.5 9.5l-4.7 1.8L12 16l-1.8-4.7L5.5 9.5l4.7-1.8z"/><path d="M19 15l.8 2.2L22 18l-2.2.8L19 21l-.8-2.2L16 18l2.2-.8z"/>',
       fm: '<path d="M3 21h18"/><path d="M5 21V7l7-4 7 4v14"/><path d="M9 21v-5h6v5"/><path d="M9 10h.01M15 10h.01"/>',
       pv: '<path d="M3 11l8-7 8 7"/><path d="M5 10v10h7"/><circle cx="17" cy="17" r="3"/><path d="M19.2 19.2L22 22"/>'
     };
@@ -906,7 +910,7 @@
         }
         return true;
       });
-      const byNewest = (a, b) => (b.publishDate || "").localeCompare(a.publishDate || "") || String(b.id).localeCompare(String(a.id));
+      const byNewest = (a, b) => (b.publishDate || "").localeCompare(a.publishDate || "") || (b.videoDate || "").localeCompare(a.videoDate || "") || String(b.id).localeCompare(String(a.id));
       list.sort((a, b) => {
         switch (f.sort) {
           case "OLDEST": return -byNewest(a, b);
@@ -984,7 +988,7 @@
           <h3><button data-open="${esc(v.id)}">${esc(v.title)}</button></h3>
           <p class="sum">${esc(v.summary)}</p>
           <div class="card-foot">
-            <span title="${esc(fmtDate(v.publishDate, true))}">Posted ${esc(relDate(v.publishDate).replace(/^[A-Z]/, c => c.toLowerCase()))}</span>
+            <span title="${esc(fmtDate(v.publishDate, true))}">Posted ${esc(relDate(v.publishDate).replace(/^[A-Z]/, c => c.toLowerCase()))}${v.videoDate ? ` · aired ${esc(fmtDate(v.videoDate))}` : ""}</span>
             <div class="acts">${actionButtons(v, saved)}</div>
           </div>
         </div>
@@ -1153,7 +1157,7 @@
       const id = ytId($("ad-url").value);
       if (!id) { $("ad-error").style.display = "block"; return; }
       const dept = $("ad-dept").value;
-      const prefix = { "Finance": "fin", "Leadership": "lead", "Procurement": "proc", "HR": "hr", "Quality & HSE": "qhse", "Business Development": "bd", "IT": "it", "Facilities Management": "fm", "Property Inspection & Valuation": "pv" }[dept] || "vid";
+      const prefix = { "Finance": "fin", "Leadership": "lead", "Procurement": "proc", "HR": "hr", "Quality & HSE": "qhse", "Business Development": "bd", "IT": "it", "Facilities Management": "fm", "Property Inspection & Valuation": "pv", "AI News": "ai" }[dept] || "vid";
       const v = {
         id: `${prefix}-local-${Date.now().toString(36)}`,
         title: $("ad-title").value.trim(),
@@ -1237,6 +1241,8 @@
       $("m-channel").textContent = v.channel || "—";
       $("m-topic").textContent = v.topic || "—";
       $("m-date").textContent = fmtDate(v.publishDate, true);
+      $("m-aired").textContent = v.videoDate ? fmtDate(v.videoDate, true) : "";
+      $("m-aired").classList.toggle("hidden", !v.videoDate); $("m-aired-l").classList.toggle("hidden", !v.videoDate);
       $("m-dur").textContent = v.duration || "See player";
       $("m-remove").classList.toggle("hidden", !isAdmin());
       updateModalButtons();
@@ -1279,7 +1285,7 @@
         text = `*Anas Nader — Personal Training*\n\n🎬 *${v.title}*\n📂 ${v.department} · ${v.level}\n\n${v.summary}\n\n💡 *Apply it:* ${v.applyIt || ""}\n\n▶️ Watch: ${watchUrl(v)}\n📚 Full library: ${portalUrl()}`;
       } else {
         const latest = [...activeVideos()].sort((a, b) => (b.publishDate || "").localeCompare(a.publishDate || "")).slice(0, 6);
-        text = `*Anas Nader — Personal Training*\nDaily video training for Finance, Leadership, Procurement, HR, Quality & HSE, Business Development, IT, Facilities Management and Property Inspection & Valuation.\n\n*Latest videos:*\n` +
+        text = `*Anas Nader — Personal Training*\nDaily video training for Finance, Leadership, Procurement, HR, Quality & HSE, Business Development, IT, Facilities Management, Property Inspection & Valuation and AI News.\n\n*Latest videos:*\n` +
           latest.map(x => `• ${x.title} (${x.department})`).join("\n") +
           `\n\n🔗 ${portalUrl()}\nAsk Anas for the password.`;
       }

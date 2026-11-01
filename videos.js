@@ -7,7 +7,8 @@
 //   department : "Finance" | "Leadership" | "Procurement" | "HR"
 //                | "Quality & HSE" | "Business Development" | "IT"
 //                | "Facilities Management" | "Property Inspection & Valuation"
-//   id prefix  : fin- | lead- | proc- | hr- | qhse- | bd- | it- | fm- | pv-
+//                | "AI News"
+//   id prefix  : fin- | lead- | proc- | hr- | qhse- | bd- | it- | fm- | pv- | ai-
 //   level      : "Foundation" | "Practitioner" | "Executive"
 //   source     : "TED Talk" | "Professional Body" | "Training Academy"
 //                | "Industry Expert" | "Regulator"
@@ -16,6 +17,7 @@
 //   duration   : "m:ss" or "" if unknown
 //   takeaways  : exactly 3 short points
 //   format     : optional — "Process" | "On-the-job" (used for Property Inspection & Valuation)
+//   videoDate  : optional — "YYYY-MM-DD" the video aired on YouTube (used for AI News)
 //   applyIt    : 1 sentence on applying the idea at Al Bonian FM
 // Keep valid JavaScript: commas between entries, quotes around text.
 // =====================================================================
@@ -2598,5 +2600,194 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Reassess regularly for inflation, extensions and new features"
     ],
     "applyIt": "Offer reinstatement cost assessments alongside condition surveys for owners and developers, and flag clients whose declared values are outdated."
+  },
+  {
+    "id": "ai-001",
+    "title": "AI News Recap: Nine Big Stories from Late October 2026",
+    "department": "AI News",
+    "topic": "Weekly Roundup",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "AI Revolution",
+    "publishDate": "2026-11-01",
+    "videoDate": "2026-10-27",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/Ht5gjvIAEsc",
+    "isNew": true,
+    "summary": "A fast recap of nine AI stories from late October 2026, covering new models from Anthropic and Google, AI-generated maths research from OpenAI, quantum computing news and an AI-linked cybersecurity crisis, as reported by the channel.",
+    "takeaways": [
+      "Frontier labs are releasing new models every few weeks.",
+      "AI is moving into research, maths and security work.",
+      "Treat bold headline claims with caution until confirmed."
+    ],
+    "applyIt": "Pick one story a week that could affect FM operations (e.g. AI security risks) and discuss it in the management meeting."
+  },
+  {
+    "id": "ai-002",
+    "title": "AI Weekly Recap: OpenAI, Claude and Google Workspace",
+    "department": "AI News",
+    "topic": "Weekly Roundup",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "AIwithPrathmesh",
+    "publishDate": "2026-11-01",
+    "videoDate": "2026-10-17",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/WZ11niTZvI4",
+    "isNew": true,
+    "summary": "A mid-October roundup focused on AI tools for productivity: OpenAI's latest models and always-on agents, Google's AI Playground, Grok agents and Claude working inside Google Workspace apps.",
+    "takeaways": [
+      "AI agents can now run tasks in the background.",
+      "Assistants are being built into everyday office apps.",
+      "Productivity gains come from connecting AI to your tools."
+    ],
+    "applyIt": "Test one AI assistant connected to email and documents for preparing a monthly client report."
+  },
+  {
+    "id": "ai-003",
+    "title": "How AI Is Changing Strategy — and 4 Skills Leaders Need Next",
+    "department": "AI News",
+    "topic": "AI Strategy",
+    "level": "Executive",
+    "source": "Professional Body",
+    "channel": "Harvard Business Review (Ethan Mollick)",
+    "publishDate": "2026-11-01",
+    "videoDate": "2026-10-09",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/9f3qnX6aiIE",
+    "isNew": true,
+    "summary": "Wharton professor Ethan Mollick argues leaders should redesign their organisations around what AI makes possible, explains how AI agents change the manager's role, and names four capabilities leaders need: deep knowledge, wide knowledge, taste and agency.",
+    "takeaways": [
+      "Redesign work around AI, don't just automate old tasks.",
+      "Agents change what managers supervise and how.",
+      "Deep expertise and judgement stay valuable."
+    ],
+    "applyIt": "Ask each department head to propose one process to redesign around AI, not just speed up."
+  },
+  {
+    "id": "ai-004",
+    "title": "Everything New in AI (October 2026) Explained",
+    "department": "AI News",
+    "topic": "Model Releases",
+    "level": "Foundation",
+    "source": "Training Academy",
+    "channel": "StudyZoom International",
+    "publishDate": "2026-11-01",
+    "videoDate": "2026-10-06",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/Pf6Fxj56XEM",
+    "isNew": true,
+    "summary": "An explainer of October 2026's main AI developments, including OpenAI's lower-cost GPT-6.1 Sol and always-on Dots agents, Claude Opus 5.5, and progress in reasoning, coding and agent workflows.",
+    "takeaways": [
+      "Cheaper models make AI practical for daily work.",
+      "Agents are shifting AI from answering to doing.",
+      "Coding and automation are improving fastest."
+    ],
+    "applyIt": "Review which AI subscriptions the company pays for and whether a newer, cheaper model now covers the same needs."
+  },
+  {
+    "id": "ai-005",
+    "title": "AI News: Gemini 4, GPT-6.1, Claude Sonnet 5.5 and More",
+    "department": "AI News",
+    "topic": "Model Releases",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "AI Search",
+    "publishDate": "2026-11-01",
+    "videoDate": "2026-10-03",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/lHmZoRHMZyM",
+    "isNew": true,
+    "summary": "A detailed weekly roundup, organised in chapters, of new models and tools including Gemini 4 Argon, GPT-6.1 Sol, Claude Sonnet 5.5, OpenAI Dots, Flux 3 and ElevenLabs V4, with links to each announcement.",
+    "takeaways": [
+      "Several major labs released new models the same week.",
+      "Image, voice and video tools are advancing alongside text.",
+      "Use the chapters to jump to the tools relevant to you."
+    ],
+    "applyIt": "Have the IT team shortlist one image or voice tool that could speed up training or marketing content."
+  },
+  {
+    "id": "ai-006",
+    "title": "Gemini 4, Sonnet 5.5, GPT-6.1 — What's Really Going On",
+    "department": "AI News",
+    "topic": "Weekly Roundup",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "AI Copium",
+    "publishDate": "2026-11-01",
+    "videoDate": "2026-10-02",
+    "duration": "15:08",
+    "embedUrl": "https://www.youtube.com/embed/W-vJvssrwh0",
+    "isNew": true,
+    "summary": "A weekly recap of the Gemini 4 Argon, Claude Sonnet 5.5 and GPT-6.1 Sol releases and their benchmarks, plus rising AI security incidents, regulatory scrutiny in the US and Anthropic's IPO plans.",
+    "takeaways": [
+      "Benchmarks help compare models but don't tell the whole story.",
+      "AI security incidents are rising as agents spread.",
+      "Regulators are paying closer attention to AI firms."
+    ],
+    "applyIt": "Add AI tool usage to the IT security policy: which tools are approved and what data may be shared."
+  },
+  {
+    "id": "ai-007",
+    "title": "GPT-6 and Claude Opus 5.5 Launch Week",
+    "department": "AI News",
+    "topic": "Model Releases",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "Compile Future",
+    "publishDate": "2026-11-01",
+    "videoDate": "2026-09-26",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/onMeBsN5sEI",
+    "isNew": true,
+    "summary": "A recap of the week GPT-6 and Claude Opus 5.5 launched, with price cuts, plus updates from Nvidia, YouTube, Windows Copilot, Gemini and Spotify.",
+    "takeaways": [
+      "Big model launches often come with price cuts.",
+      "AI features are landing in tools people already use.",
+      "Expect fast follow-up updates after major launches."
+    ],
+    "applyIt": "Check whether Microsoft 365 Copilot or Gemini features already included in current licences are being used."
+  },
+  {
+    "id": "ai-008",
+    "title": "The Most Hopeful (and Concerning) Moment Yet in AI",
+    "department": "AI News",
+    "topic": "AI Safety",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "Center for Humane Technology (Tristan Harris)",
+    "publishDate": "2026-11-01",
+    "videoDate": "2026-09-17",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/07JaHf4oW6I",
+    "isNew": true,
+    "summary": "Tristan Harris reviews a week of AI news including rogue-agent hacking incidents, researcher warnings about the pace of development and calls from AI leaders to slow down, and suggests practical steps to reduce risks.",
+    "takeaways": [
+      "AI risks are growing alongside AI capabilities.",
+      "Agents acting on their own need clear limits.",
+      "Leaders can shape safer adoption inside their organisations."
+    ],
+    "applyIt": "Set a rule that AI agents cannot send client communications or approve payments without human review."
+  },
+  {
+    "id": "ai-009",
+    "title": "Gartner's Top Strategic Technology Trends for 2026",
+    "department": "AI News",
+    "topic": "Tech Trends",
+    "level": "Executive",
+    "source": "Professional Body",
+    "channel": "Gartner",
+    "publishDate": "2026-11-01",
+    "videoDate": "2025-12-04",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/5dgpcQXq1eo",
+    "isNew": true,
+    "summary": "Gartner analysts present the top strategic technology trends for 2026 live from IT Symposium/Xpo, framed around building resilient foundations, orchestrating intelligent systems and protecting enterprise value.",
+    "takeaways": [
+      "Trends are grouped around foundations, intelligence and protection.",
+      "AI orchestration is a core theme for 2026.",
+      "Security and trust underpin every trend."
+    ],
+    "applyIt": "Use the Gartner trend list as a checklist when planning next year's IT and digital budget."
   }
 ];

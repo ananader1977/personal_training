@@ -1,6 +1,6 @@
 # Anas Nader — Personal Training
 
-Anas Nader's personal training portal (Media · Leadership · Fitness · Impact) — daily video training across: **Finance, Leadership, Procurement, HR, Quality & HSE, Business Development, IT, Facilities Management and Property Inspection & Valuation**.
+Anas Nader's personal training portal (Media · Leadership · Fitness · Impact) — daily video training across: **Finance, Leadership, Procurement, HR, Quality & HSE, Business Development, IT, Facilities Management, Property Inspection & Valuation and AI News**.
 
 Live site: https://ananader1977.github.io/personal_training/
 
