@@ -873,7 +873,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/1a2QxbHhTzk",
-    "isNew": true,
+    "isNew": false,
     "summary": "Walks through the layers of profit margin, from gross margin to EBITDA, EBIT and net profit, and what each reveals about pricing power, cost control and efficiency.",
     "takeaways": [
       "Gross margin shows how well pricing covers direct costs",
@@ -893,7 +893,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "4:21",
     "embedUrl": "https://www.youtube.com/embed/SGYmPMcgDPg",
-    "isNew": true,
+    "isNew": false,
     "summary": "Kotter's head of research explains John Kotter's eight-step model for leading organisational change and how it has evolved into a more agile set of accelerators.",
     "takeaways": [
       "Create a sense of urgency before launching change",
@@ -913,7 +913,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/czc-w9ztcOQ",
-    "isNew": true,
+    "isNew": false,
     "summary": "Explains what an RFQ is, how it differs from an RFP, the step-by-step process from preparation to evaluation, and common pitfalls to avoid.",
     "takeaways": [
       "Use an RFQ when requirements are clear and price is the main differentiator",
@@ -933,7 +933,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/CVFcJKCFHb0",
-    "isNew": true,
+    "isNew": false,
     "summary": "An HR consultant shows how to design an onboarding programme that gives new hires an engaging, well-organised start and supports retention.",
     "takeaways": [
       "Plan onboarding before day one, not on arrival",
@@ -953,7 +953,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/jzZuKptPUMo",
-    "isNew": true,
+    "isNew": false,
     "summary": "An explainer on the aims of ISO 45001:2018 and the business benefits of adopting an occupational health and safety management system.",
     "takeaways": [
       "ISO 45001 gives a recognised framework for managing OH&S risk",
@@ -973,7 +973,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/95inJDS5u0s",
-    "isNew": true,
+    "isNew": false,
     "summary": "Defines a sales pipeline as the sequence of stages a deal moves through from first lead assessment to close, and explains how to set up and track those stages.",
     "takeaways": [
       "Define clear stages that match how your deals actually progress",
@@ -993,7 +993,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/07EHsPuKXc0",
-    "isNew": true,
+    "isNew": false,
     "summary": "An IBM Cloud specialist compares backup and disaster recovery, explaining how they differ and how each supports a business continuity plan.",
     "takeaways": [
       "Backups protect data; disaster recovery restores whole services",
@@ -1013,7 +1013,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "2:59",
     "embedUrl": "https://www.youtube.com/embed/KIQdwKkg2V0",
-    "isNew": true,
+    "isNew": false,
     "summary": "Introduces SFG20, the maintenance standard that sets which building maintenance tasks are needed, the skills they require and how often they should be done.",
     "takeaways": [
       "SFG20 defines what to maintain, who does it and how often.",
@@ -1033,7 +1033,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/tA6CsoTc0a4",
-    "isNew": true,
+    "isNew": false,
     "summary": "How SFG20's red, amber and green codes classify maintenance tasks, with red for statutory and critical work, and how to use them to prioritise and prove compliance.",
     "takeaways": [
       "Red tasks are statutory or safety-critical: never skip them.",
@@ -1053,7 +1053,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/ol3bFkbWuFU",
-    "isNew": true,
+    "isNew": false,
     "summary": "How SFG20 underpins planned preventive maintenance to cut costs, meet legislation and keep buildings safe, and how the Facilities-iQ platform delivers the schedules.",
     "takeaways": [
       "A recognised standard strengthens FM tenders and contracts.",
@@ -1073,7 +1073,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/_dLeGqvfqL0",
-    "isNew": true,
+    "isNew": false,
     "summary": "How facilities managers plan and carry out preventive maintenance: scheduling, recording and analysing maintenance data, and coordinating with other departments.",
     "takeaways": [
       "PPM prevents breakdowns instead of reacting to them.",
@@ -1093,7 +1093,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/pocSio2ExNo",
-    "isNew": true,
+    "isNew": false,
     "summary": "Introduces predictive or condition-based maintenance and condition monitoring, using vibration monitoring as the main example, as part of a CMRP-aligned reliability course.",
     "takeaways": [
       "Maintain based on condition, not just the calendar.",
@@ -1113,7 +1113,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/VfO3EvE3asc",
-    "isNew": true,
+    "isNew": false,
     "summary": "How vibration sensors and analysis support predictive maintenance on rotating equipment such as bearings, motors, pumps, fans and compressors, with case studies.",
     "takeaways": [
       "Vibration reveals imbalance, misalignment and bearing wear.",
@@ -1133,7 +1133,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "3:29",
     "embedUrl": "https://www.youtube.com/embed/S8l56GRFEi8",
-    "isNew": true,
+    "isNew": false,
     "summary": "Compares scheduled preventive, condition-based predictive and reliability-centred maintenance on cost, complexity and risk, with a simple framework for choosing between them.",
     "takeaways": [
       "Not every asset needs the same strategy.",
@@ -1153,7 +1153,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "5:19",
     "embedUrl": "https://www.youtube.com/embed/EaXJF89TQqQ",
-    "isNew": true,
+    "isNew": false,
     "summary": "Compares preventive and reliability-centred maintenance: definitions, implementation steps, costs, benefits, drawbacks and the resources each needs.",
     "takeaways": [
       "Preventive maintenance is simple but can over-maintain.",
@@ -1173,7 +1173,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "6:26",
     "embedUrl": "https://www.youtube.com/embed/8WWRJbhm5hU",
-    "isNew": true,
+    "isNew": false,
     "summary": "Explains how a building management system monitors and controls temperature, lighting, airflow and energy, and its three levels: field devices, controllers and management software.",
     "takeaways": [
       "A BMS has field, automation and management levels.",
@@ -1193,7 +1193,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "8:43",
     "embedUrl": "https://www.youtube.com/embed/jYnv9SV_H9Q",
-    "isNew": true,
+    "isNew": false,
     "summary": "Treats a growing maintenance backlog as a sign of lost control and shows how to reduce it with KPIs, structured clean-up and better CMMS practice.",
     "takeaways": [
       "Backlog shows whether the team is in control.",
@@ -1213,7 +1213,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/7cQlAWJuaCA",
-    "isNew": true,
+    "isNew": false,
     "summary": "How tracking equipment usage and performance history guides maintenance decisions across an asset's life, from acquisition to disposal, to lower total cost of ownership.",
     "takeaways": [
       "Manage assets from purchase to disposal, not just repair.",
@@ -1233,7 +1233,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/eFHq7HjU-Ew",
-    "isNew": true,
+    "isNew": false,
     "summary": "Introduces the ISO 55000 asset management standards, the differences between 55000, 55001 and 55002, and how an asset management system and CMMS support compliance.",
     "takeaways": [
       "ISO 55000 links asset decisions to business goals.",
@@ -1254,7 +1254,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "2:19",
     "embedUrl": "https://www.youtube.com/embed/y-o7DAH-uNo",
-    "isNew": true,
+    "isNew": false,
     "summary": "A RICS chartered surveyor explains what a building condition inspection covers, so clients and new inspectors know what the process involves.",
     "takeaways": [
       "A condition survey records the state of each building element.",
@@ -1275,7 +1275,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "18:00",
     "embedUrl": "https://www.youtube.com/embed/kxOfw77EBeE",
-    "isNew": true,
+    "isNew": false,
     "summary": "Explains the RICS Home Survey Standard, comparing the Level 1 Condition Report and Level 2 survey, with or without a valuation.",
     "takeaways": [
       "Survey level should match the client's need and risk.",
@@ -1296,7 +1296,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/-JuAXaLQ4z4",
-    "isNew": true,
+    "isNew": false,
     "summary": "Shows how to carry out the preliminary walkthrough, the first stage of a commercial property inspection, as a step-by-step process.",
     "takeaways": [
       "Start with a full walkthrough before detailed checks.",
@@ -1317,7 +1317,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/h_zgUFPx22c",
-    "isNew": true,
+    "isNew": false,
     "summary": "Covers the three main valuation methods (sales comparison, cost and income) with formulas and examples, plus types of depreciation and how to calculate cap rates.",
     "takeaways": [
       "Three core methods: comparison, cost and income.",
@@ -1338,7 +1338,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/cXWZTxPRawg",
-    "isNew": true,
+    "isNew": false,
     "summary": "Explains how recently sold, similar properties in the same area are used and adjusted to estimate the value of a subject property.",
     "takeaways": [
       "Pick truly comparable, recent sales nearby.",
@@ -1359,7 +1359,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "4:59",
     "embedUrl": "https://www.youtube.com/embed/CUjnjXzhdUQ",
-    "isNew": true,
+    "isNew": false,
     "summary": "Defines the capitalisation rate, how to calculate net operating income and how cap rate links income to property value, with a worked example.",
     "takeaways": [
       "Value = net operating income ÷ cap rate.",
@@ -1380,7 +1380,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "9:55",
     "embedUrl": "https://www.youtube.com/embed/HBvOQ-aznMg",
-    "isNew": true,
+    "isNew": false,
     "summary": "A Savills director explains how a professional valuation is carried out under the RICS Red Book standard.",
     "takeaways": [
       "Red Book valuations follow strict RICS standards.",
@@ -1401,7 +1401,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "4:21",
     "embedUrl": "https://www.youtube.com/embed/kf2P7vVSOHE",
-    "isNew": true,
+    "isNew": false,
     "summary": "Guides landlords through preparing for a dilapidations claim at lease end: reviewing lease obligations, appointing a surveyor and mitigating loss.",
     "takeaways": [
       "Read the lease repair obligations first.",
@@ -1422,7 +1422,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "3:00",
     "embedUrl": "https://www.youtube.com/embed/JF5O7NcHxLk",
-    "isNew": true,
+    "isNew": false,
     "summary": "A real pre-handover walkthrough of a new Dubai studio and the snagging report that logged over 40 defects, including hidden moisture, drainage and ventilation checks.",
     "takeaways": [
       "Switch on DEWA and AC before inspecting.",
@@ -1443,7 +1443,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/IXsl0b2JZPQ",
-    "isNew": true,
+    "isNew": false,
     "summary": "Follows a certified inspector through a real house inspection under InterNACHI standards, showing how defects are identified and what to do when found.",
     "takeaways": [
       "Follow a fixed sequence so nothing is missed.",
@@ -1464,7 +1464,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/U6fJKaqjBMQ",
-    "isNew": true,
+    "isNew": false,
     "summary": "A training class where a certified commercial inspector teaches how commercial property inspections are carried out in practice.",
     "takeaways": [
       "Commercial inspections cover more systems and specialists.",
@@ -1485,7 +1485,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "35:41",
     "embedUrl": "https://www.youtube.com/embed/sP5SkBhFCIs",
-    "isNew": true,
+    "isNew": false,
     "summary": "A practical demonstration of using infrared cameras together with moisture meters to investigate moisture problems and find leaks.",
     "takeaways": [
       "Thermal images show patterns, not proof of moisture.",
@@ -1506,7 +1506,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-25",
     "duration": "1:32",
     "embedUrl": "https://www.youtube.com/embed/Zex2VNP-P2Q",
-    "isNew": true,
+    "isNew": false,
     "summary": "Short on-site examples of a surveyor using thermal imaging to reveal moisture and insulation issues in different building types.",
     "takeaways": [
       "Thermal imaging reveals hidden moisture and heat loss.",
@@ -2789,5 +2789,207 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Security and trust underpin every trend."
     ],
     "applyIt": "Use the Gartner trend list as a checklist when planning next year's IT and digital budget."
+  },
+  {
+    "id": "fin-014",
+    "title": "Rolling Forecasts: Why Companies Are Moving Away from Annual Budgeting",
+    "department": "Finance",
+    "topic": "Budgeting & Forecasting",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "AllFinTalk",
+    "publishDate": "2026-11-02",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/K3vs8-wiOSU",
+    "isNew": true,
+    "summary": "Explains how a rolling forecast differs from the annual budget, why some companies are shifting to continuous planning, and where the approach delivers benefits or falls short.",
+    "takeaways": [
+      "Annual budgets date quickly when conditions change",
+      "A rolling forecast keeps extending the planning horizon",
+      "Know the common pitfalls before dropping the budget"
+    ],
+    "applyIt": "Re-forecast the contract portfolio each quarter so margin, manpower and subcontractor costs reflect new awards and renewals rather than a fixed annual budget."
+  },
+  {
+    "id": "lead-015",
+    "title": "How to Give Constructive Feedback: Management Primer",
+    "department": "Leadership",
+    "topic": "Feedback",
+    "level": "Foundation",
+    "source": "Training Academy",
+    "channel": "Management Courses (Mike Clayton)",
+    "publishDate": "2026-11-02",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/2B2fyub1ZTY",
+    "isNew": true,
+    "summary": "A primer for managers on the principles of constructive feedback, using the Situation-Behaviour-Impact model and covering delivery and follow-up.",
+    "takeaways": [
+      "Describe the situation, the behaviour and its impact",
+      "Aim feedback at helping the person develop",
+      "Follow up after the conversation"
+    ],
+    "applyIt": "Have site supervisors use Situation-Behaviour-Impact when discussing a missed PPM or a poor client handover with a technician."
+  },
+  {
+    "id": "proc-013",
+    "title": "5 Mistakes in RFP Evaluation and How to Avoid Them",
+    "department": "Procurement",
+    "topic": "Tendering & RFQs",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "Euna Solutions",
+    "publishDate": "2026-11-02",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/tfCkcgtjlM0",
+    "isNew": true,
+    "summary": "A webinar on common RFP evaluation pitfalls in public procurement, covering price weighting, scoring scales, evaluation stages, conflict-of-interest declarations and consensus meetings.",
+    "takeaways": [
+      "Set price weighting and scoring scales before bids arrive",
+      "Declare conflicts of interest and protect confidentiality",
+      "Use consensus meetings to reconcile evaluator scores"
+    ],
+    "applyIt": "Agree a weighted scoring matrix before issuing subcontractor and supplier RFQs so that awards are defensible to clients and auditors."
+  },
+  {
+    "id": "hr-014",
+    "title": "The New Rules of Talent Retention with Steve Cadigan",
+    "department": "HR",
+    "topic": "Retention",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "SME Strategy (Steve Cadigan)",
+    "publishDate": "2026-11-02",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/EbTgFsKYYKo",
+    "isNew": true,
+    "summary": "Former LinkedIn CHRO Steve Cadigan argues that retention strategies built for longer careers need updating, and discusses shorter tenures, skills development and staying connected with former employees.",
+    "takeaways": [
+      "Plan talent strategy around shorter tenures",
+      "Build skills so that people grow while they stay",
+      "Keep former employees in your network"
+    ],
+    "applyIt": "Review how Al Bonian FM develops supervisors and engineers, and keep in touch with good leavers who may return to future contracts."
+  },
+  {
+    "id": "qhse-014",
+    "title": "How to Use Safety Leading Indicators",
+    "department": "Quality & HSE",
+    "topic": "Safety KPIs",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "Safety Geek",
+    "publishDate": "2026-11-02",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/yDOEE9pR8Ac",
+    "isNew": true,
+    "summary": "Covers two leading safety indicators that safety managers can track, one monthly and one weekly, and how to use them to identify problem areas.",
+    "takeaways": [
+      "Leading indicators show issues before an incident",
+      "Track a small set at a regular rhythm",
+      "Use the results to target problem areas"
+    ],
+    "applyIt": "Add one weekly and one monthly leading indicator to site HSE reports, alongside incident counts, and review them by contract."
+  },
+  {
+    "id": "bd-015",
+    "title": "How to Write a Business Proposal That Gets Accepted (Backed by Data)",
+    "department": "Business Development",
+    "topic": "Proposal Writing",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "Qwilr",
+    "publishDate": "2026-11-02",
+    "duration": "6:59",
+    "embedUrl": "https://www.youtube.com/embed/HSNHry3zmCY",
+    "isNew": true,
+    "summary": "Draws on an analysis of over one million proposals to set out pre-proposal alignment, data-backed behaviours that raise acceptance, and a recommended proposal structure.",
+    "takeaways": [
+      "Align with the client before writing the proposal",
+      "Keep proposals short and follow up quickly",
+      "Structure: summary, challenges, ROI, timeline, price, next step"
+    ],
+    "applyIt": "Rework FM proposals to open with the client's challenges and ROI, then follow up quickly after submission to developers and property owners."
+  },
+  {
+    "id": "it-013",
+    "title": "Build vs Buy: How Enterprise AI Leaders Actually Decide",
+    "department": "IT",
+    "topic": "AI for Business",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "Lambda",
+    "publishDate": "2026-11-02",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/V-h7vamqBJk",
+    "isNew": true,
+    "summary": "An AI Infra Summit 2026 panel with AI and technology leaders from U.S. Bank, Carrier and JLL on how large enterprises decide what to build and what to buy in their AI stacks.",
+    "takeaways": [
+      "Build-versus-buy is now a decision for each use case",
+      "Configuration is replacing heavy customisation",
+      "Watch AI usage costs as adoption grows"
+    ],
+    "applyIt": "Decide which AI features to buy within the CAFM and Zoho Creator platforms and which few workflows justify a custom build."
+  },
+  {
+    "id": "fm-019",
+    "title": "What Is Total Productive Maintenance (TPM)?",
+    "department": "Facilities Management",
+    "topic": "Total Productive Maintenance",
+    "level": "Foundation",
+    "source": "Training Academy",
+    "channel": "Educationleaves",
+    "publishDate": "2026-11-02",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/WzKV4h2pl0w",
+    "isNew": true,
+    "summary": "Introduces Total Productive Maintenance, explaining how it works, its eight pillars, the 5S method and its advantages.",
+    "takeaways": [
+      "TPM makes maintenance everyone's responsibility",
+      "Eight pillars cover maintenance, quality, training and safety",
+      "5S provides the workplace foundation"
+    ],
+    "applyIt": "Apply 5S to stores and plant rooms, and train site teams to carry out simple routine checks on the equipment they operate."
+  },
+  {
+    "id": "pv-020",
+    "title": "Commercial Property Roof Inspection Walkthrough",
+    "department": "Property Inspection & Valuation",
+    "topic": "Roof Inspection",
+    "level": "Practitioner",
+    "format": "On-the-job",
+    "source": "Professional Body",
+    "channel": "CCPIA (Rob Claus)",
+    "publishDate": "2026-11-02",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/Gm2WQtskYwc",
+    "isNew": true,
+    "summary": "Certified inspector Rob Claus inspects a commercial roof, covering access and safety, the roof surface, water runoff, rooftop equipment openings, flashing and parapet walls.",
+    "takeaways": [
+      "Start with safe roof access",
+      "Check surface, drainage and runoff paths",
+      "Look closely at penetrations, flashing and parapets"
+    ],
+    "applyIt": "Use this sequence as a roof section in inspection checklists for villas and commercial buildings, recording drainage and flashing defects with photos."
+  },
+  {
+    "id": "ai-010",
+    "title": "Anthropic's IPO Filing and the AI Boom (Bloomberg Daybreak: Asia)",
+    "department": "AI News",
+    "topic": "AI Industry",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "Bloomberg Podcasts",
+    "publishDate": "2026-11-02",
+    "videoDate": "2026-10-26",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/R4yyk8JJc80",
+    "isNew": true,
+    "summary": "The video reports on Anthropic's IPO filing, framing it as showing both rapid growth and uncertainty over AI demand and spending, and also covers wider markets and AI-driven debt.",
+    "takeaways": [
+      "The filing is a test of investor confidence in AI",
+      "Growth comes with uncertain demand and heavy spending",
+      "AI funding is now reaching debt markets"
+    ],
+    "applyIt": "Treat AI vendor pricing and roadmaps as still evolving, and avoid long lock-ins when choosing AI tools for FM operations."
   }
 ];
