@@ -1526,7 +1526,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-26",
     "duration": "13:49",
     "embedUrl": "https://www.youtube.com/embed/loszBKRYylY",
-    "isNew": true,
+    "isNew": false,
     "summary": "Compares setting prices from your own costs with setting them from the value customers perceive, using cross-industry examples and guidance on choosing the right model.",
     "takeaways": [
       "Cost-plus pricing protects margin but ignores what the client is willing to pay",
@@ -1546,7 +1546,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-26",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/D-x8iJieHjI",
-    "isNew": true,
+    "isNew": false,
     "summary": "Meetings researcher Steven Rogelberg discusses research on the \"meeting hangover\" effect of poor meetings and practical ways managers can make meetings shorter and more useful.",
     "takeaways": [
       "Badly run meetings cost productivity long after they end",
@@ -1566,7 +1566,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-26",
     "duration": "4:46",
     "embedUrl": "https://www.youtube.com/embed/0WyKUbZgx1Q",
-    "isNew": true,
+    "isNew": false,
     "summary": "Explains how category management moves procurement from order-by-order buying to managing each spend area like a business unit through a cycle of analysis, strategy, execution and review.",
     "takeaways": [
       "Group spend into categories instead of buying order by order",
@@ -1586,7 +1586,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-26",
     "duration": "9:36",
     "embedUrl": "https://www.youtube.com/embed/rNQ1V4DRYIw",
-    "isNew": true,
+    "isNew": false,
     "summary": "Introduces the core building blocks of strategic workforce planning, including internal supply, demand forecasting, scenario planning and closing skills gaps.",
     "takeaways": [
       "Compare the workforce you have with the workforce the strategy needs",
@@ -1606,7 +1606,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-26",
     "duration": "4:20",
     "embedUrl": "https://www.youtube.com/embed/Bi90TJ8lf0c",
-    "isNew": true,
+    "isNew": false,
     "summary": "Walks through the CAPA process from identifying a problem to verifying effectiveness, and explains how a quick correction differs from a true corrective action under standards like ISO 9001.",
     "takeaways": [
       "A correction fixes the symptom; a corrective action removes the cause",
@@ -1626,7 +1626,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-26",
     "duration": "16:53",
     "embedUrl": "https://www.youtube.com/embed/MesVZNLoSQ0",
-    "isNew": true,
+    "isNew": false,
     "summary": "Sets out a five-step approach to presenting a proposal to a client, covering preparation, slides, logistics and how to open and close the meeting with confidence.",
     "takeaways": [
       "Prepare the room, materials and attendees before the meeting",
@@ -1646,7 +1646,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-26",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/3OTu5KB7qNU",
-    "isNew": true,
+    "isNew": false,
     "summary": "MIT researcher George Westerman explains why leadership, not technology alone, determines whether a company's digital transformation succeeds.",
     "takeaways": [
       "Digital transformation is a leadership challenge, not just an IT project",
@@ -1666,7 +1666,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-26",
     "duration": "3:24",
     "embedUrl": "https://www.youtube.com/embed/D64pb8-RDsU",
-    "isNew": true,
+    "isNew": false,
     "summary": "Defines three core reliability metrics (MTBF, MTTF and MTTR) and shows how tracking them supports better preventive maintenance, spares planning and repair-or-replace decisions.",
     "takeaways": [
       "MTBF shows how long a repairable asset runs between failures",
@@ -1687,7 +1687,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-26",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/SyEWK8be3zk",
-    "isNew": true,
+    "isNew": false,
     "summary": "A working home inspector shows how he uses a thermal camera during real inspections to locate hidden plumbing leaks and spot moisture intrusion and other defects.",
     "takeaways": [
       "Thermal images reveal temperature patterns that point to hidden moisture",
@@ -2991,5 +2991,207 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "AI funding is now reaching debt markets"
     ],
     "applyIt": "Treat AI vendor pricing and roadmaps as still evolving, and avoid long lock-ins when choosing AI tools for FM operations."
+  },
+  {
+    "id": "fin-015",
+    "title": "Cash Flow Statement Basics Explained",
+    "department": "Finance",
+    "topic": "Cash Flow",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "Leila Gharani",
+    "publishDate": "2026-11-03",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/hMBN6yTIDb0",
+    "isNew": true,
+    "summary": "Walks through the three sections of the cash flow statement, the direct and indirect methods, and how the statement ties back to the balance sheet.",
+    "takeaways": [
+      "Separate cash from operations, investing and financing",
+      "Profit under accrual accounting is not the same as cash",
+      "Reconcile the statement to the balance sheet movement"
+    ],
+    "applyIt": "Review monthly operating cash flow alongside contract profit so that slow-paying MEP clients are spotted before they strain payroll and subcontractor payments."
+  },
+  {
+    "id": "lead-016",
+    "title": "How to Delegate: Delegation Strategies for People Leaders",
+    "department": "Leadership",
+    "topic": "Delegation",
+    "level": "Practitioner",
+    "source": "Training Academy",
+    "channel": "GoSkills.com (Carol Parker Walsh)",
+    "publishDate": "2026-11-03",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/__IruMEh7ZE",
+    "isNew": true,
+    "summary": "Shows people leaders how to delegate with clear expectations and follow-up, matching the approach to each person's skills and readiness while avoiding micromanagement.",
+    "takeaways": [
+      "Set clear expectations and agree how you will follow up",
+      "Match delegation to skill and readiness",
+      "Use delegation to develop people, not just to offload tasks"
+    ],
+    "applyIt": "Have site supervisors hand one recurring task, such as the weekly PPM report, to a technician with an agreed standard and check-in date."
+  },
+  {
+    "id": "proc-014",
+    "title": "Category Management: Cornerstone of Procurement Success",
+    "department": "Procurement",
+    "topic": "Category Management",
+    "level": "Executive",
+    "source": "Professional Body",
+    "channel": "CIPS (Daron Gibb)",
+    "publishDate": "2026-11-03",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/fiXG9__L2Vk",
+    "isNew": true,
+    "summary": "National Grid's VP of global procurement argues that category management is the foundation of procurement and that strategic sourcing works best when it starts from deep category analysis.",
+    "takeaways": [
+      "Treat category management as the foundation of procurement",
+      "Do deep category analysis before sourcing",
+      "Sourcing and other value levers depend on that analysis"
+    ],
+    "applyIt": "Build a category view of major spend such as HVAC spares, chemicals and subcontracted labour before the next round of supplier tenders."
+  },
+  {
+    "id": "hr-015",
+    "title": "How to Properly Onboard a New Employee",
+    "department": "HR",
+    "topic": "Onboarding",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "Adi Klevit",
+    "publishDate": "2026-11-03",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/IIgzQQltLNU",
+    "isNew": true,
+    "summary": "Explains how a structured onboarding experience that starts before day one and runs through a 90-day period, supported by checklists and SOPs, improves retention and productivity.",
+    "takeaways": [
+      "Start onboarding before the first day",
+      "Plan a 90-day period and build skills gradually",
+      "Use checklists and SOPs to avoid information overload"
+    ],
+    "applyIt": "Create a 90-day onboarding checklist for new site technicians covering safety induction, CAFM use and supervised work on each contract."
+  },
+  {
+    "id": "qhse-015",
+    "title": "Root Cause Problem Solving: Fishbone Analysis and 5 Whys",
+    "department": "Quality & HSE",
+    "topic": "Root Cause Analysis",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "Luca Balestrieri",
+    "publishDate": "2026-11-03",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/fuq0a_IFibY",
+    "isNew": true,
+    "summary": "A Lean Six Sigma lesson on using fishbone analysis and the 5 Whys together to move from a visible problem to its underlying root cause.",
+    "takeaways": [
+      "Use a fishbone diagram to map possible causes",
+      "Use the 5 Whys to drill down on the likely ones",
+      "Fix the root cause rather than the symptom"
+    ],
+    "applyIt": "Run a fishbone and 5 Whys review on repeat HVAC breakdown call-outs, and record the corrective action in the CAFM work order."
+  },
+  {
+    "id": "bd-016",
+    "title": "The Best Way to Win a Negotiation — Deepak Malhotra",
+    "department": "Business Development",
+    "topic": "Negotiation",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "Inc. (Deepak Malhotra)",
+    "publishDate": "2026-11-03",
+    "duration": "46:25",
+    "embedUrl": "https://www.youtube.com/embed/bUi5R54Oqig",
+    "isNew": true,
+    "summary": "Harvard Business School professor and Negotiation Genius co-author Deepak Malhotra sets out how to approach and win negotiations.",
+    "takeaways": [
+      "Prepare your approach before you negotiate",
+      "Treat negotiation as a learnable discipline",
+      "Apply a consistent approach to major deals"
+    ],
+    "applyIt": "Prepare a written negotiation plan before renewal talks on major FM contracts with developers and government clients."
+  },
+  {
+    "id": "it-014",
+    "title": "ITSM & ITIL Explained Simply: Beginner's Guide",
+    "department": "IT",
+    "topic": "IT Service Management",
+    "level": "Foundation",
+    "source": "Training Academy",
+    "channel": "Knewget",
+    "publishDate": "2026-11-03",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/c3QfSmKo4QA",
+    "isNew": true,
+    "summary": "A beginner's introduction to IT service management and ITIL, covering utility versus warranty, the Service Value System and the guiding principles.",
+    "takeaways": [
+      "ITIL works like a recipe book for delivering IT services",
+      "A service needs both utility and warranty",
+      "The Service Value System links activities to value"
+    ],
+    "applyIt": "Apply the same service thinking to Al Bonian FM's internal IT helpdesk and to CAFM and Zoho Creator support requests."
+  },
+  {
+    "id": "fm-020",
+    "title": "Understanding MTBF and MTTR: Reliability Metrics for Maintenance Teams",
+    "department": "Facilities Management",
+    "topic": "Maintenance KPIs",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "UpKeep (Ryan Chan)",
+    "publishDate": "2026-11-03",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/DtV5Ny50JMU",
+    "isNew": true,
+    "summary": "UpKeep's founder explains why MTBF and MTTR matter, how they vary, how to calculate them and how to improve them.",
+    "takeaways": [
+      "Track MTBF and MTTR to see reliability trends",
+      "Calculate both consistently across assets",
+      "Use the results to target improvement"
+    ],
+    "applyIt": "Pull MTBF and MTTR from CAFM work orders for critical assets such as chillers and report the trend in monthly client reviews."
+  },
+  {
+    "id": "pv-021",
+    "title": "Why ESG and Sustainability Matter in Commercial Property Valuation",
+    "department": "Property Inspection & Valuation",
+    "topic": "ESG in Valuation",
+    "level": "Executive",
+    "format": "Process",
+    "source": "Training Academy",
+    "channel": "APC Expert Webinars",
+    "publishDate": "2026-11-03",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/wZ_XlcVSTRM",
+    "isNew": true,
+    "summary": "Explains the RICS professional standard on sustainability and ESG in commercial property valuation, including how these factors affect value and how it relates to Red Book and IVS compliance.",
+    "takeaways": [
+      "ESG factors can affect commercial property value",
+      "The RICS standard took effect on 30 April 2026",
+      "Consider ESG as part of Red Book and IVS compliance"
+    ],
+    "applyIt": "Add ESG data such as energy performance and plant condition to inspection reports so that valuers and property owners have the evidence they need."
+  },
+  {
+    "id": "ai-011",
+    "title": "AI News Roundup: Gemini 4 Carbon, GPT-6.1 Terra, Anthropic IPO and More",
+    "department": "AI News",
+    "topic": "Weekly Roundup",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "AI Search",
+    "publishDate": "2026-11-03",
+    "videoDate": "2026-10-31",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/IGICYFyP_EI",
+    "isNew": true,
+    "summary": "The video reports on the week's AI developments, including Gemini 4 Carbon, Genie 4, GPT-6.1 Terra and the Anthropic IPO, alongside a range of research and product items.",
+    "takeaways": [
+      "New model releases are arriving at a rapid pace",
+      "Research and product news move together",
+      "Check claims in roundups against primary sources"
+    ],
+    "applyIt": "Use a short weekly AI update to help the IT team judge which new tools are worth a controlled trial for FM reporting and helpdesk work."
   }
 ];
