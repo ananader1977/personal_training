@@ -1707,7 +1707,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-27",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/KqT2Sm4ca6c",
-    "isNew": true,
+    "isNew": false,
     "summary": "An overview of how the UAE tax system works today, covering VAT, the newer corporate tax regime, customs duties and local fees, and what recent changes mean for businesses.",
     "takeaways": [
       "VAT and corporate tax are now both core compliance obligations for UAE businesses",
@@ -1727,7 +1727,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-27",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/f2M1GuhilR0",
-    "isNew": true,
+    "isNew": false,
     "summary": "Sir John Whitmore, co-creator of the GROW model, explains where the framework came from and how its four steps (Goal, Reality, Options, Will) structure coaching conversations that improve performance.",
     "takeaways": [
       "Start every coaching conversation by agreeing a clear goal",
@@ -1747,7 +1747,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-27",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/67gQEUtbjSE",
-    "isNew": true,
+    "isNew": false,
     "summary": "Explains the Kraljic Matrix for segmenting purchases by profit impact and supply risk, works through a real company example, and discusses the strengths and limits of the model.",
     "takeaways": [
       "Classify spend into strategic, leverage, bottleneck and non-critical items",
@@ -1767,7 +1767,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-27",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/qqMCcWXfSSI",
-    "isNew": true,
+    "isNew": false,
     "summary": "Introduces employee relations as the way an organisation manages its relationship with staff, including engagement, resolving conflict, workplace investigations and fair, consistent discipline.",
     "takeaways": [
       "Good employee relations rests on treating everyone fairly and consistently",
@@ -1787,7 +1787,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-27",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/faVpisJCX9w",
-    "isNew": true,
+    "isNew": false,
     "summary": "A safety training course on investigating near-misses, property damage and injuries without blame, finding root causes, setting corrective actions and communicating lessons learned.",
     "takeaways": [
       "Investigate near-misses as seriously as injuries",
@@ -1807,7 +1807,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-27",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/jrW6bXixH3I",
-    "isNew": true,
+    "isNew": false,
     "summary": "SugarCRM CEO David T. Roberts makes the case that customer loyalty drives B2B growth and explains how curiosity, process and data, including NPS feedback, turn customer focus into retention.",
     "takeaways": [
       "Retaining existing B2B clients is a growth strategy, not just a service task",
@@ -1827,7 +1827,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-27",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/iHetr8xTWIU",
-    "isNew": true,
+    "isNew": false,
     "summary": "A quick awareness video showing the common warning signs of phishing emails, such as urgency and pressure, suspicious sender addresses and unexpected links, plus simple steps to stay protected.",
     "takeaways": [
       "Be suspicious of urgent requests to pay, log in or share details",
@@ -1847,7 +1847,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-27",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/hT_UHv2Jyvk",
-    "isNew": true,
+    "isNew": false,
     "summary": "An eMaint webinar on why maintenance should be planned and scheduled, covering core planning principles, the tools and prerequisites needed, and practical steps to cut backlog and overtime.",
     "takeaways": [
       "Plan jobs fully (parts, tools, permits) before scheduling them",
@@ -1868,7 +1868,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-27",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/J9ldMWeQ3GA",
-    "isNew": true,
+    "isNew": false,
     "summary": "Explains how residual land value is found by taking the completed project value and deducting construction, financing and developer profit, and why the result is highly sensitive to key assumptions.",
     "takeaways": [
       "Residual value equals completed value minus all development costs and required profit",
@@ -1888,7 +1888,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-28",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/4Qd97lqDdb0",
-    "isNew": true,
+    "isNew": false,
     "summary": "Shows how to compare actual results with the budget and break the profit gap into volume, price and cost effects using a flexible budget and a profit bridge.",
     "takeaways": [
       "Use a flexible budget so you compare like with like at actual activity levels",
@@ -1908,7 +1908,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-28",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/DzErY5ynXXg",
-    "isNew": true,
+    "isNew": false,
     "summary": "Psychologist Gary Klein explains how experienced decision-makers such as firefighters act fast under pressure by recognising patterns from past experience, and what leaders can learn from it.",
     "takeaways": [
       "Under time pressure experts match cues to past patterns rather than compare options",
@@ -1928,7 +1928,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-28",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/LLKG2bs-HlA",
-    "isNew": true,
+    "isNew": false,
     "summary": "Explains what reorder points and safety stock are, how to calculate each, and how combining them prevents stock-outs without tying up cash in excess inventory.",
     "takeaways": [
       "Reorder point = demand during lead time plus safety stock",
@@ -1948,7 +1948,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-28",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/JmAvA_8Ftvc",
-    "isNew": true,
+    "isNew": false,
     "summary": "Introduces the parts of a compensation system — base pay, incentive pay and benefits — and why fair, competitive pay matters for attracting and keeping staff while controlling a major cost.",
     "takeaways": [
       "Total rewards combine base pay, incentives and benefits",
@@ -1968,7 +1968,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-28",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/0nXY_g4TXZg",
-    "isNew": true,
+    "isNew": false,
     "summary": "Gives leaders five practical tips for a lean transformation, from a blame-free culture and teaching people to solve problems to small PDCA improvements and daily stand-ups.",
     "takeaways": [
       "Model respect and build a blame-free environment",
@@ -1988,7 +1988,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-28",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/adtX8ifRdWs",
-    "isNew": true,
+    "isNew": false,
     "summary": "A pricing executive discusses why B2B firms rely on reactive discounts and flat annual increases, and how a value-based, data-driven pricing approach protects margin.",
     "takeaways": [
       "Reactive discounting and blanket increases erode margin",
@@ -2008,7 +2008,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-28",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/s_BzbDSVjxI",
-    "isNew": true,
+    "isNew": false,
     "summary": "A hands-on Power BI walkthrough that builds a KPI dashboard with KPI cards, line and bar charts, slicers, and bookmarks with buttons to switch views.",
     "takeaways": [
       "Start with a few clear KPI cards before adding charts",
@@ -2028,7 +2028,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-28",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/4tqsN9m7DrI",
-    "isNew": true,
+    "isNew": false,
     "summary": "Works through an example of applying life cycle costing within the ICMS framework, showing how construction, operation and maintenance costs can be structured and compared over an asset’s life.",
     "takeaways": [
       "Judge assets on whole-life cost, not purchase price alone",
@@ -2049,7 +2049,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-28",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/ggMuKVknsPw",
-    "isNew": true,
+    "isNew": false,
     "summary": "Surveyor Geoff Hunt demonstrates how damp meters work, how to read them properly and what they cannot reliably tell you during a property inspection.",
     "takeaways": [
       "Moisture meters give relative readings, not absolute moisture content",
@@ -3193,5 +3193,207 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Check claims in roundups against primary sources"
     ],
     "applyIt": "Use a short weekly AI update to help the IT team judge which new tools are worth a controlled trial for FM reporting and helpdesk work."
+  },
+  {
+    "id": "fin-016",
+    "title": "Finance KPIs That Actually Matter: Measuring the Finance Team's Impact",
+    "department": "Finance",
+    "topic": "Finance KPIs",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "Financial Leadership Foundations (Alysha Randall)",
+    "publishDate": "2026-11-05",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/5jnVEEGCsOk",
+    "isNew": true,
+    "summary": "A fractional CFO sets out ten KPIs for judging a finance team, such as month-end close time, forecast accuracy and automation rate, to show its efficiency and strategic value.",
+    "takeaways": [
+      "Measure the finance function itself, not only company results",
+      "Track close speed and forecast accuracy as core indicators",
+      "Use automation rate to show where manual work remains"
+    ],
+    "applyIt": "Set a short KPI scorecard for Al Bonian FM's finance team, covering month-end close time and contract forecast accuracy, and review it monthly with senior management."
+  },
+  {
+    "id": "lead-017",
+    "title": "5 Ways to Listen Better — Julian Treasure",
+    "department": "Leadership",
+    "topic": "Communication",
+    "level": "Foundation",
+    "source": "TED Talk",
+    "channel": "TED (Julian Treasure)",
+    "publishDate": "2026-11-05",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/cSohjlYQI2A",
+    "isNew": true,
+    "summary": "Sound expert Julian Treasure explains why people are losing the habit of careful listening and offers five simple exercises to rebuild it.",
+    "takeaways": [
+      "People retain only part of what they hear",
+      "Filters and intention shape what we actually notice",
+      "Listening improves with regular, deliberate practice"
+    ],
+    "applyIt": "Ask supervisors to open site toolbox talks by listening first, then summarising what technicians report before giving instructions."
+  },
+  {
+    "id": "proc-015",
+    "title": "Spend Analysis in Procurement: Six Practical Steps",
+    "department": "Procurement",
+    "topic": "Spend Analysis",
+    "level": "Practitioner",
+    "source": "Training Academy",
+    "channel": "Supply Chain Doctrine",
+    "publishDate": "2026-11-05",
+    "duration": "9:21",
+    "embedUrl": "https://www.youtube.com/embed/QXsZDgEK624",
+    "isNew": true,
+    "summary": "The video explains spend analysis as a six-step process running from data collection and categorisation through spend visibility and savings opportunities to supplier analysis and benchmarking.",
+    "takeaways": [
+      "Clean and categorise purchase data before analysing it",
+      "Use spend visibility to find savings opportunities",
+      "Benchmark suppliers and keep monitoring results"
+    ],
+    "applyIt": "Export a year of purchase orders, group spend by MEP category and subcontractor, and use the result to pick the first supplier agreements to renegotiate."
+  },
+  {
+    "id": "hr-016",
+    "title": "What Is Strategic Workforce Planning?",
+    "department": "HR",
+    "topic": "Workforce Planning",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "Tracey Smith, The Voice for Practical Analytics",
+    "publishDate": "2026-11-05",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/lU-B-4BIASk",
+    "isNew": true,
+    "summary": "The author of a guide on the subject introduces strategic workforce planning as putting the right people in the right place at the right time and cost.",
+    "takeaways": [
+      "Link workforce plans directly to business strategy",
+      "Plan for people, place, timing and cost together",
+      "Prepare back-up plans before gaps appear"
+    ],
+    "applyIt": "Map expected contract wins and renewals against technician headcount and skills so senior managers can decide early whether to hire, train or subcontract."
+  },
+  {
+    "id": "qhse-016",
+    "title": "The 5 Steps to Risk Assessment",
+    "department": "Quality & HSE",
+    "topic": "Risk Assessment",
+    "level": "Foundation",
+    "source": "Training Academy",
+    "channel": "HASpod",
+    "publishDate": "2026-11-05",
+    "duration": "5:20",
+    "embedUrl": "https://www.youtube.com/embed/BzkhrD33YvI",
+    "isNew": true,
+    "summary": "A short guide to the five stages of a risk assessment: identifying hazards, deciding who may be harmed, evaluating risks and precautions, recording findings, and reviewing.",
+    "takeaways": [
+      "Start by identifying hazards in the actual task",
+      "Decide who could be harmed and how",
+      "Record findings and review them when work changes"
+    ],
+    "applyIt": "Use the five steps as the standard format when supervisors prepare risk assessments for work at height, hot work and plant-room tasks on client sites."
+  },
+  {
+    "id": "bd-017",
+    "title": "Key Account Management Framework",
+    "department": "Business Development",
+    "topic": "Key Account Management",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "The KAM Club",
+    "publishDate": "2026-11-05",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/TRogoqdBBfQ",
+    "isNew": true,
+    "summary": "The video presents a ten-part key account management model that follows the customer lifecycle from implementation to retention, built around mutual value and risk contingencies.",
+    "takeaways": [
+      "Treat key accounts as a full lifecycle, not one sale",
+      "Build each account plan around mutual value",
+      "Plan contingencies for account risks in advance"
+    ],
+    "applyIt": "Choose the top developer and government clients and give each an account plan covering contract delivery, renewal risk and the next service to offer."
+  },
+  {
+    "id": "it-015",
+    "title": "How to Tell the Right Cyber-Story to Executives and Board Members",
+    "department": "IT",
+    "topic": "Cybersecurity",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "RSAC Cybersecurity (Ian Yip)",
+    "publishDate": "2026-11-05",
+    "duration": "27:30",
+    "embedUrl": "https://www.youtube.com/embed/OVRqrsR07dE",
+    "isNew": true,
+    "summary": "Avertro CEO Ian Yip uses real examples of cybersecurity reporting to show what executives and boards care about and which metrics answer their \"why\" and \"so what\" questions.",
+    "takeaways": [
+      "Report cyber risk in terms leaders care about",
+      "Choose metrics that answer why and so what",
+      "Use the story to justify strategy and investment"
+    ],
+    "applyIt": "Replace technical IT updates to senior management with a short cyber report showing the business impact of risks to CAFM, Zoho Creator and client data."
+  },
+  {
+    "id": "fm-021",
+    "title": "Maintenance Planning and Scheduling Basics",
+    "department": "Facilities Management",
+    "topic": "Planning & Scheduling",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "Project Engineering Management Ltd (Matthew Laskaj)",
+    "publishDate": "2026-11-05",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/MCKyv3LiMvI",
+    "isNew": true,
+    "summary": "A chartered engineer explains the difference between planning, which covers what work is needed, with what resources and how, and scheduling, which covers when and by whom.",
+    "takeaways": [
+      "Planning defines what, how and with what resources",
+      "Scheduling sets when the work happens and who does it",
+      "Aim for maximum uptime at minimum maintenance cost"
+    ],
+    "applyIt": "Have planners confirm scope, parts and tools in the CAFM system for each PPM work order before the scheduler assigns it to a technician and date."
+  },
+  {
+    "id": "pv-022",
+    "title": "How We Undertake a Dilapidations Assessment",
+    "department": "Property Inspection & Valuation",
+    "topic": "Dilapidations",
+    "level": "Practitioner",
+    "format": "Process",
+    "source": "Industry Expert",
+    "channel": "West One Surveyors",
+    "publishDate": "2026-11-05",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/QuL3GLwLaE4",
+    "isNew": true,
+    "summary": "A surveying firm walks through a terminal dilapidations assessment on a commercial lease, covering the lease, the schedule of dilapidations and the inspection.",
+    "takeaways": [
+      "Start with the lease and its repair obligations",
+      "Link each schedule item to a lease clause",
+      "Inspect systematically and record condition clearly"
+    ],
+    "applyIt": "Adapt the approach into an end-of-lease inspection service for property owners, tying every defect in the report to the relevant tenancy obligation."
+  },
+  {
+    "id": "ai-012",
+    "title": "Anthropic's S-1 Risk Warnings and AI at Work (Fortune AI Weekly)",
+    "department": "AI News",
+    "topic": "AI Risk & Governance",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "Fortune Magazine",
+    "publishDate": "2026-11-05",
+    "videoDate": "2026-11-03",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/lbKCC6njCVc",
+    "isNew": true,
+    "summary": "The video reports on the financial figures and risk factors in Anthropic's S-1 filing, a lawsuit against OpenAI over chatbot medical advice, and research on how AI influences professional judgement.",
+    "takeaways": [
+      "Read vendor risk disclosures before relying on a tool",
+      "Treat chatbot advice on safety or health as unverified",
+      "Human review only helps if reviewers challenge AI output"
+    ],
+    "applyIt": "Require a named person to check any AI-assisted inspection report or compliance advice before it goes to a client, and record who reviewed it."
   }
 ];
