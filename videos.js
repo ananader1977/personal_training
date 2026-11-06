@@ -2069,7 +2069,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-29",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/NJ2ajp9Nu4o",
-    "isNew": true,
+    "isNew": false,
     "summary": "A CFA charterholder explains how net present value discounts future cash flows to today and uses a worked example to show how to judge whether an investment creates value.",
     "takeaways": [
       "Money received later is worth less than money today, so discount future cash flows",
@@ -2089,7 +2089,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-29",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/Y7m9eNoB3NU",
-    "isNew": true,
+    "isNew": false,
     "summary": "Psychologist Daniel Goleman outlines the core abilities that make up emotional intelligence and why they matter for how people work and lead.",
     "takeaways": [
       "Emotional intelligence rests on self-awareness, self-management, empathy and social skill",
@@ -2109,7 +2109,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-29",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/8ppXU0hZ3xI",
-    "isNew": true,
+    "isNew": false,
     "summary": "Procurement Tactics walks through seven practical KPIs, from lead time and defect rate to on-time delivery and procurement ROI, for measuring and improving supplier performance.",
     "takeaways": [
       "Track lead time, on-time delivery, defect rate and compliance for each key supplier",
@@ -2129,7 +2129,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-29",
     "duration": "4:54",
     "embedUrl": "https://www.youtube.com/embed/8EdhaeDUddA",
-    "isNew": true,
+    "isNew": false,
     "summary": "The video explains Dave Ulrich's HR business partner model and how HR moves from personnel administration to a strategic role supporting business goals.",
     "takeaways": [
       "Ulrich describes four HR roles: strategic partner, change agent, employee champion and administrative expert",
@@ -2149,7 +2149,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-29",
     "duration": "24:20",
     "embedUrl": "https://www.youtube.com/embed/qiXdQ2M82iw",
-    "isNew": true,
+    "isNew": false,
     "summary": "A safety practitioner introduces permit-to-work systems, when they are needed and how to run them properly for high-risk tasks such as hot work, confined spaces and electrical isolation.",
     "takeaways": [
       "Use a permit to work for high-risk, non-routine jobs such as hot work, confined spaces and isolations",
@@ -2169,7 +2169,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-29",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/uZ2wL8PxEP4",
-    "isNew": true,
+    "isNew": false,
     "summary": "Management consultant Lawrence M. Miller explains consultative selling as a trust-based approach in which the seller helps the client solve their problem rather than pushing a product.",
     "takeaways": [
       "Start with the client's problems and goals, not your service list",
@@ -2189,7 +2189,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-29",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/zpZs06f_dak",
-    "isNew": true,
+    "isNew": false,
     "summary": "The video introduces IT governance and the COBIT framework, then outlines steps to tailor a governance system, find gaps and build an improvement roadmap.",
     "takeaways": [
       "IT governance aligns IT objectives, policies and processes with business goals",
@@ -2209,7 +2209,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-29",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/ZTTgeMBbR-w",
-    "isNew": true,
+    "isNew": false,
     "summary": "A short UK HSE demonstration video on hot water pipework, showing why keeping water systems clean is central to controlling legionella risk.",
     "takeaways": [
       "Clean water systems are a basic legionella control",
@@ -2230,7 +2230,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-29",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/CTNjS3asb10",
-    "isNew": true,
+    "isNew": false,
     "summary": "An APC training webinar introducing the International Property Measurement Standards and why consistent measurement matters for surveyors and valuers.",
     "takeaways": [
       "IPMS sets out a consistent, international way to measure buildings",
@@ -3395,5 +3395,207 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Human review only helps if reviewers challenge AI output"
     ],
     "applyIt": "Require a named person to check any AI-assisted inspection report or compliance advice before it goes to a client, and record who reviewed it."
+  },
+  {
+    "id": "fin-017",
+    "title": "The Income Statement Basics Explained",
+    "department": "Finance",
+    "topic": "Income Statement",
+    "level": "Foundation",
+    "source": "Training Academy",
+    "channel": "Financeable Training",
+    "publishDate": "2026-11-06",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/vBdPq64Z6w8",
+    "isNew": true,
+    "summary": "A simple visual walkthrough of how an income statement is built and what its main lines mean for people new to finance.",
+    "takeaways": [
+      "Read the statement top down from revenue to profit",
+      "Separate direct costs from overheads",
+      "Profit for a period is not the same as cash received"
+    ],
+    "applyIt": "Walk each contract manager through a one-page income statement for their site so they can see how labour, materials and subcontractor costs reduce margin."
+  },
+  {
+    "id": "lead-018",
+    "title": "Kotter's 8-Step Change Model Explained",
+    "department": "Leadership",
+    "topic": "Change Management",
+    "level": "Practitioner",
+    "source": "Training Academy",
+    "channel": "The Knowledge Academy",
+    "publishDate": "2026-11-06",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/-MTsoOUsU0Y",
+    "isNew": true,
+    "summary": "Explains why change programmes fade after a confident launch and how Kotter's eight steps give leaders a structured way to guide people through change.",
+    "takeaways": [
+      "Build urgency before announcing the plan",
+      "Form a coalition of respected people",
+      "Anchor new habits so teams do not slip back"
+    ],
+    "applyIt": "Use the eight steps as the checklist for the next system or process rollout, such as moving site teams onto a new Zoho Creator or CAFM workflow."
+  },
+  {
+    "id": "proc-016",
+    "title": "Strategies for Effective Contract Negotiation and Management",
+    "department": "Procurement",
+    "topic": "Contract Management",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "CPSCP",
+    "publishDate": "2026-11-06",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/4ddD6V6hIcI",
+    "isNew": true,
+    "summary": "Treats a contract as a working roadmap for cost, risk and performance rather than paperwork to file once signed.",
+    "takeaways": [
+      "Negotiate with cost, risk and performance in view",
+      "Manage the contract after signature, not only before",
+      "Assign clear ownership of obligations"
+    ],
+    "applyIt": "Review the largest subcontractor agreements each quarter against agreed cost, risk and performance terms, and name an owner for each one."
+  },
+  {
+    "id": "hr-017",
+    "title": "How To Do Performance Management (AIHR Learning Bite)",
+    "department": "HR",
+    "topic": "Performance Management",
+    "level": "Foundation",
+    "source": "Training Academy",
+    "channel": "AIHR - Academy to Innovate HR",
+    "publishDate": "2026-11-06",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/WjvHPdlKoEA",
+    "isNew": true,
+    "summary": "A short introduction to what performance management is and how organisations put it into practice.",
+    "takeaways": [
+      "Treat performance management as a process, not a form",
+      "Link individual goals to business goals",
+      "Keep feedback going between formal reviews"
+    ],
+    "applyIt": "Give supervisors and site engineers a short set of goals tied to contract KPIs and review progress with them regularly rather than only at year end."
+  },
+  {
+    "id": "qhse-017",
+    "title": "How to Conduct an Internal Audit: ISO 9001 Step-by-Step Guide",
+    "department": "Quality & HSE",
+    "topic": "Internal Audits",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "Sameh Herakly",
+    "publishDate": "2026-11-06",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/Se9aJVJBf08",
+    "isNew": true,
+    "summary": "A practical, step-by-step approach to planning and carrying out an ISO 9001 internal audit.",
+    "takeaways": [
+      "Plan audit scope and criteria before going on site",
+      "Base findings on objective evidence",
+      "Follow findings through to corrective action"
+    ],
+    "applyIt": "Schedule internal audits of site maintenance records against the management system and track each finding to closure in the CAFM or Zoho Creator log."
+  },
+  {
+    "id": "bd-018",
+    "title": "The New Sales Imperative",
+    "department": "Business Development",
+    "topic": "B2B Sales Strategy",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "Victor Antonio",
+    "publishDate": "2026-11-06",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/UnEwtnGNPl0",
+    "isNew": true,
+    "summary": "Discusses a Harvard Business Review article on selling in B2B markets and what it means for how sellers should engage buyers.",
+    "takeaways": [
+      "B2B buying decisions rarely rest with one person",
+      "Help buyers make the decision more easily",
+      "Review your sales approach against how clients really buy"
+    ],
+    "applyIt": "For developer and government tenders, map everyone who influences the FM award and give each of them what they need to support the decision."
+  },
+  {
+    "id": "it-016",
+    "title": "3-2-1 Backup Rule Explained: Protect Your Data from Disaster",
+    "department": "IT",
+    "topic": "Backup & Continuity",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "IBM Technology (Jeff Crume)",
+    "publishDate": "2026-11-06",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/WJzsX32qMJY",
+    "isNew": true,
+    "summary": "Explains the 3-2-1 backup approach, along with immutability and disaster recovery, as ways to protect data from loss.",
+    "takeaways": [
+      "Keep three copies of important data",
+      "Use two media types and one off-site copy",
+      "Immutable backups help resist tampering"
+    ],
+    "applyIt": "Confirm that CAFM data, Zoho Creator exports and inspection reports each have a tested backup copy held away from the main system."
+  },
+  {
+    "id": "fm-022",
+    "title": "Failure Modes and Effects Analysis (FMEA) Explained",
+    "department": "Facilities Management",
+    "topic": "FMEA",
+    "level": "Practitioner",
+    "source": "Training Academy",
+    "channel": "Invensis Learning",
+    "publishDate": "2026-11-06",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/U6xflqPW3QY",
+    "isNew": true,
+    "summary": "Explains what failure modes and effects analysis is, the main types of FMEA and how the method is used.",
+    "takeaways": [
+      "List how each asset could fail and the effect",
+      "Rank failures so effort goes to the highest risk",
+      "Act on the top risks and then re-score them"
+    ],
+    "applyIt": "Run an FMEA on critical plant such as chillers and pump sets at a key site, then adjust PPM tasks to target the highest-ranked failure modes."
+  },
+  {
+    "id": "pv-023",
+    "title": "Commercial Split-System HVAC Inspection",
+    "department": "Property Inspection & Valuation",
+    "topic": "HVAC Inspection",
+    "level": "Executive",
+    "format": "On-the-job",
+    "source": "Professional Body",
+    "channel": "CCPIA",
+    "publishDate": "2026-11-06",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/5-WCuEOzj_o",
+    "isNew": true,
+    "summary": "Follows an HVAC inspection of a multi-tenant office, comparing a solo approach with a team approach across the roof units and the occupied spaces.",
+    "takeaways": [
+      "Record data-plate details for each unit",
+      "Inspect rooftop and in-suite parts of split systems",
+      "Choose solo or team coverage to suit the building"
+    ],
+    "applyIt": "When scoping commercial inspections for owners, decide up front whether a solo inspector or a team is needed and price tenant access across the occupied floors accordingly."
+  },
+  {
+    "id": "ai-013",
+    "title": "AI Lurches Towards Recursive Self-Improvement",
+    "department": "AI News",
+    "topic": "AI Research",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "The AI Daily Brief",
+    "publishDate": "2026-11-06",
+    "videoDate": "2026-11-04",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/Es59icF3nZg",
+    "isNew": true,
+    "summary": "The video reports on Elon Musk's doubts about personal AI agents, an MIT paper in which a larger model edits a smaller model's weights, and how investors are weighing recursive self-improvement.",
+    "takeaways": [
+      "Recursive self-improvement means AI helping improve AI",
+      "Treat research claims as early, not settled",
+      "Check agent running costs before committing"
+    ],
+    "applyIt": "Before adopting AI agents for helpdesk or reporting work, estimate the running cost per task and pilot on one contract rather than rolling out across all sites."
   }
 ];
