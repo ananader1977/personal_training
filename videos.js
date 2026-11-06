@@ -23,26 +23,6 @@
 // =====================================================================
 window.ALBONIAN_MGMT_VIDEOS = [
   {
-    "id": "fin-001",
-    "title": "How to Read Financial Statements",
-    "department": "Finance",
-    "topic": "Financial Statements",
-    "level": "Foundation",
-    "source": "Industry Expert",
-    "channel": "BFrankCommunication",
-    "publishDate": "2026-10-24",
-    "duration": "4:24",
-    "embedUrl": "https://www.youtube.com/embed/gZOhNZ4MAYw",
-    "isNew": false,
-    "summary": "A short, number-free introduction to the balance sheet and income statement, showing how the two connect and how managers can use them rather than just read them.",
-    "takeaways": [
-      "The balance sheet is a snapshot; the income statement covers a period.",
-      "Profit on the income statement flows into equity on the balance sheet.",
-      "Read statements to ask questions about the business, not just to report."
-    ],
-    "applyIt": "Review your contract P&L alongside the balance sheet position of receivables to see where profit is tied up."
-  },
-  {
     "id": "fin-002",
     "title": "Cash Flow Management: Strategy, Forecasting and Liquidity",
     "department": "Finance",
@@ -121,26 +101,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Leaders frame the challenge and keep the group adaptive."
     ],
     "applyIt": "At mobilisation of a new site, run a short kick-off where every trade lead states one risk they see before work starts."
-  },
-  {
-    "id": "proc-001",
-    "title": "What is Procurement? Supply Chain Basics",
-    "department": "Procurement",
-    "topic": "Procurement Fundamentals",
-    "level": "Foundation",
-    "source": "Training Academy",
-    "channel": "MVC Logistics Academy",
-    "publishDate": "2026-10-24",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/bC4d7P0-sjA",
-    "isNew": false,
-    "summary": "Defines procurement as obtaining goods and services for the business and shows it covers the sourcing steps before a purchase, not only the purchase itself.",
-    "takeaways": [
-      "Purchasing is one step; procurement is the full sourcing process.",
-      "Clear requirements come before supplier selection.",
-      "Procurement decisions shape cost, quality and delivery risk."
-    ],
-    "applyIt": "Ask requesters to state specification, quantity and needed-by date on every material request before quotes are invited."
   },
   {
     "id": "proc-002",
@@ -243,46 +203,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "applyIt": "Check that every high-risk activity on your sites (work at height, hot work, confined space) has a current, signed risk assessment."
   },
   {
-    "id": "qhse-003",
-    "title": "Safety Leadership and a Culture of Safety",
-    "department": "Quality & HSE",
-    "topic": "Safety Culture",
-    "level": "Practitioner",
-    "source": "Industry Expert",
-    "channel": "HSEBox",
-    "publishDate": "2026-10-24",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/QutvW0Uv7Wg",
-    "isNew": false,
-    "summary": "How leaders shape safety attitudes and behaviours, with practical ways to build a workplace culture that protects people's health and wellbeing.",
-    "takeaways": [
-      "Teams copy what leaders do, not what they say.",
-      "Visible leadership walks build safety credibility.",
-      "Recognise safe behaviour as well as correcting unsafe acts."
-    ],
-    "applyIt": "Schedule one unannounced safety walk per month on a live site and close out every finding within the week."
-  },
-  {
-    "id": "bd-001",
-    "title": "Sales Prospecting and Lead Generation for B2B",
-    "department": "Business Development",
-    "topic": "Prospecting",
-    "level": "Foundation",
-    "source": "Industry Expert",
-    "channel": "Patrick Dang",
-    "publishDate": "2026-10-24",
-    "duration": "11:42",
-    "embedUrl": "https://www.youtube.com/embed/bUY2xQg-rk8",
-    "isNew": false,
-    "summary": "A practical guide to finding prospects and generating leads in business-to-business sales and business development.",
-    "takeaways": [
-      "Define your ideal customer before building a list.",
-      "Consistent outreach beats occasional big pushes.",
-      "Track leads through clear pipeline stages."
-    ],
-    "applyIt": "Build a target list of 20 building owners or property managers in one Dubai community and track outreach weekly."
-  },
-  {
     "id": "bd-002",
     "title": "The Walk from \"No\" to \"Yes\" — Negotiation",
     "department": "Business Development",
@@ -301,26 +221,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Involve third parties to widen the options."
     ],
     "applyIt": "Before your next contract renewal or deduction dispute, write down the client's underlying interests, not just their demands."
-  },
-  {
-    "id": "fin-003",
-    "title": "Budget vs Forecast: Financial Forecasting Explained",
-    "department": "Finance",
-    "topic": "Budgeting & Forecasting",
-    "level": "Foundation",
-    "source": "Training Academy",
-    "channel": "CandiMentor",
-    "publishDate": "2026-10-24",
-    "duration": "6:43",
-    "embedUrl": "https://www.youtube.com/embed/c2W2V-apWbQ",
-    "isNew": false,
-    "summary": "Shows how a budget sets fixed targets while a forecast is updated to reflect actual performance, covering rolling forecasts, assumptions, scenarios and variance review.",
-    "takeaways": [
-      "A budget is the plan; a forecast is the latest view of reality.",
-      "Rolling forecasts keep planning current as the year moves.",
-      "Variance review explains why results differ from plan."
-    ],
-    "applyIt": "Run a monthly budget-vs-actual review per contract and update the full-year forecast for any line off by more than 10%."
   },
   {
     "id": "fin-004",
@@ -361,26 +261,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Stress-test liquidity before it is needed."
     ],
     "applyIt": "Measure days sales outstanding per major client and agree a collection target for the three slowest payers."
-  },
-  {
-    "id": "fin-006",
-    "title": "Gross, Operating and Net Profit Margin",
-    "department": "Finance",
-    "topic": "Profitability",
-    "level": "Foundation",
-    "source": "Training Academy",
-    "channel": "The Organic Chemistry Tutor",
-    "publishDate": "2026-10-24",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/uYM2YnwO-20",
-    "isNew": false,
-    "summary": "Worked examples showing how to calculate gross, operating and net profit margins from an income statement.",
-    "takeaways": [
-      "Gross margin shows profit after direct costs.",
-      "Operating margin adds overheads to the picture.",
-      "Net margin is what is left after all costs and tax."
-    ],
-    "applyIt": "Compare gross margin by contract to spot which sites carry the company and which need repricing at renewal."
   },
   {
     "id": "lead-004",
@@ -463,46 +343,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "applyIt": "Before your next performance conversation, write down one specific example and the impact it had on the client or team."
   },
   {
-    "id": "proc-003",
-    "title": "The Ultimate Guide to Spend Analysis",
-    "department": "Procurement",
-    "topic": "Spend Analysis",
-    "level": "Practitioner",
-    "source": "Industry Expert",
-    "channel": "Suplari",
-    "publishDate": "2026-10-24",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/omCQr_HgCQ0",
-    "isNew": false,
-    "summary": "Explains spend analysis from collecting and cleaning purchase data to building a spend cube, common pitfalls like messy data and tail spend, and turning insight into savings.",
-    "takeaways": [
-      "Clean, categorised data is the foundation of spend analysis.",
-      "Tail spend hides savings across many small purchases.",
-      "Insights only matter when they lead to sourcing action."
-    ],
-    "applyIt": "Export last year's purchase orders, group them by category and supplier, and find the top 10 categories by spend."
-  },
-  {
-    "id": "proc-004",
-    "title": "Contract Negotiation Strategies for Procurement",
-    "department": "Procurement",
-    "topic": "Negotiation",
-    "level": "Practitioner",
-    "source": "Industry Expert",
-    "channel": "Master Contract Management",
-    "publishDate": "2026-10-24",
-    "duration": "4:46",
-    "embedUrl": "https://www.youtube.com/embed/Ii2KC7P5IqY",
-    "isNew": false,
-    "summary": "How negotiation shapes what you actually pay under construction and procurement contracts, with focus on payment terms, retention and the tender as the starting point.",
-    "takeaways": [
-      "Negotiation is about clarity, not winning.",
-      "Payment terms and retention matter as much as price.",
-      "The tender sets the frame for the whole negotiation."
-    ],
-    "applyIt": "In the next subcontract award, negotiate payment milestones and retention explicitly instead of only the lump-sum price."
-  },
-  {
     "id": "proc-005",
     "title": "Procurement Contracting: Commercial, Legal and Risk",
     "department": "Procurement",
@@ -521,126 +361,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "The contract manager coordinates procurement, legal, finance and operations."
     ],
     "applyIt": "Assign a named owner for each major subcontract and review their scope, KPIs and variations quarterly."
-  },
-  {
-    "id": "hr-003",
-    "title": "Structured Interviews Explained",
-    "department": "HR",
-    "topic": "Recruitment",
-    "level": "Practitioner",
-    "source": "Industry Expert",
-    "channel": "GoodHiresOnly",
-    "publishDate": "2026-10-24",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/1YwMfHXArPg",
-    "isNew": false,
-    "summary": "How structured interviews make hiring more consistent and less biased, with steps for standard questions, scoring rubrics and interviewer training.",
-    "takeaways": [
-      "Ask every candidate the same job-relevant questions.",
-      "Score answers against a rubric agreed in advance.",
-      "Train interviewers to reduce bias and gut-feel hiring."
-    ],
-    "applyIt": "Create a five-question interview guide with a scoring sheet for supervisor-level hires and use it for every candidate."
-  },
-  {
-    "id": "hr-004",
-    "title": "Employee Retention Strategies",
-    "department": "HR",
-    "topic": "Retention",
-    "level": "Foundation",
-    "source": "Training Academy",
-    "channel": "HR Trends",
-    "publishDate": "2026-10-24",
-    "duration": "13:21",
-    "embedUrl": "https://www.youtube.com/embed/tgX607r_jZs",
-    "isNew": false,
-    "summary": "Explains employee retention, how to calculate retention rates, the main causes of turnover and practical strategies to keep good people.",
-    "takeaways": [
-      "Track retention rate, not just headcount.",
-      "Know why people leave before trying to fix it.",
-      "Belonging, wellbeing and listening drive retention."
-    ],
-    "applyIt": "Calculate 12-month retention for each department and hold stay interviews with your top performers."
-  },
-  {
-    "id": "hr-005",
-    "title": "Training Needs Analysis Explained",
-    "department": "HR",
-    "topic": "Learning & Development",
-    "level": "Practitioner",
-    "source": "Training Academy",
-    "channel": "CodeLucky",
-    "publishDate": "2026-10-24",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/d0HPcpSnCyc",
-    "isNew": false,
-    "summary": "Introduces training needs analysis at organisational, task and individual levels, the TNA process, data-collection methods and common mistakes.",
-    "takeaways": [
-      "Analyse needs at organisation, job and individual level.",
-      "Base training on evidence of skill gaps.",
-      "Link every training plan to a business outcome."
-    ],
-    "applyIt": "Run a quick skills-gap survey for supervisors and use it to choose next quarter's training topics."
-  },
-  {
-    "id": "hr-006",
-    "title": "Performance Appraisals: A Guide for Managers and HR",
-    "department": "HR",
-    "topic": "Performance Management",
-    "level": "Foundation",
-    "source": "Training Academy",
-    "channel": "CodeLucky",
-    "publishDate": "2026-10-24",
-    "duration": "3:58",
-    "embedUrl": "https://www.youtube.com/embed/AbTza-1wn_A",
-    "isNew": false,
-    "summary": "What performance appraisals are for and how to run them well, including SMART goals, the SBI feedback model and avoiding recency and halo bias.",
-    "takeaways": [
-      "Set SMART goals at the start of the period.",
-      "Use Situation–Behaviour–Impact to give feedback.",
-      "Watch for recency and halo bias when rating."
-    ],
-    "applyIt": "Rewrite each direct report's annual objectives as SMART goals before the next review cycle."
-  },
-  {
-    "id": "qhse-004",
-    "title": "The 5 Whys: Root Cause Analysis",
-    "department": "Quality & HSE",
-    "topic": "Root Cause Analysis",
-    "level": "Foundation",
-    "source": "Training Academy",
-    "channel": "EPM",
-    "publishDate": "2026-10-24",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/t7FcK8jV2yA",
-    "isNew": false,
-    "summary": "How to use the 5 Whys technique to find the root cause of a problem, its strengths and limits, and how to apply countermeasures.",
-    "takeaways": [
-      "Keep asking why until you reach a process cause.",
-      "Fix the root cause, not the symptom.",
-      "Combine 5 Whys with data to avoid guesswork."
-    ],
-    "applyIt": "Use the 5 Whys on the next repeat breakdown or client complaint and record the countermeasure in the CAPA log."
-  },
-  {
-    "id": "qhse-005",
-    "title": "Fishbone Diagram for Root Cause Analysis",
-    "department": "Quality & HSE",
-    "topic": "Root Cause Analysis",
-    "level": "Practitioner",
-    "source": "Industry Expert",
-    "channel": "The Business Analysis Doctor",
-    "publishDate": "2026-10-24",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/AyJ9iEOH0ZY",
-    "isNew": false,
-    "summary": "Explains the fishbone (Ishikawa) diagram, its cause categories such as the 6Ms, and how to use it with the 5 Whys and brainstorming.",
-    "takeaways": [
-      "Group possible causes into categories like the 6Ms.",
-      "Use the team's knowledge to fill in the diagram.",
-      "Drill into the likeliest causes with the 5 Whys."
-    ],
-    "applyIt": "Run a fishbone session with the site team for the most frequent SLA breach on a key contract."
   },
   {
     "id": "qhse-006",
@@ -903,46 +623,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "applyIt": "Use the eight steps to plan a company-wide rollout such as a new CAFM workflow, starting with a clear case for urgency and a coalition of site and office leaders."
   },
   {
-    "id": "proc-006",
-    "title": "Request for Quotation (RFQ): Everything Procurement Teams Need to Know",
-    "department": "Procurement",
-    "topic": "Tendering & RFQs",
-    "level": "Foundation",
-    "source": "Industry Expert",
-    "channel": "PROKURIA",
-    "publishDate": "2026-10-25",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/czc-w9ztcOQ",
-    "isNew": false,
-    "summary": "Explains what an RFQ is, how it differs from an RFP, the step-by-step process from preparation to evaluation, and common pitfalls to avoid.",
-    "takeaways": [
-      "Use an RFQ when requirements are clear and price is the main differentiator",
-      "Send identical, well-defined specifications to every supplier",
-      "Compare quotes on a like-for-like basis and document the decision"
-    ],
-    "applyIt": "Standardise RFQ templates for spare parts and subcontracted MEP works so every supplier quotes against the same scope and evaluation is transparent."
-  },
-  {
-    "id": "hr-007",
-    "title": "How to Create an Employee Onboarding Process that New Hires Don't Hate",
-    "department": "HR",
-    "topic": "Onboarding",
-    "level": "Practitioner",
-    "source": "Industry Expert",
-    "channel": "Jennifer Mitchell Earley",
-    "publishDate": "2026-10-25",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/CVFcJKCFHb0",
-    "isNew": false,
-    "summary": "An HR consultant shows how to design an onboarding programme that gives new hires an engaging, well-organised start and supports retention.",
-    "takeaways": [
-      "Plan onboarding before day one, not on arrival",
-      "Make the first weeks welcoming and personal, not just paperwork",
-      "Treat onboarding as a retention tool with clear check-ins"
-    ],
-    "applyIt": "Build a structured first-30-days plan for new technicians and supervisors, covering site induction, safety, CAFM access and a named buddy."
-  },
-  {
     "id": "qhse-007",
     "title": "What Is ISO 45001 and How Does It Help Businesses?",
     "department": "Quality & HSE",
@@ -1061,46 +741,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Compliance evidence protects both client and contractor."
     ],
     "applyIt": "Reference SFG20-aligned schedules in the next FM tender to show compliance and justify the PPM price."
-  },
-  {
-    "id": "fm-004",
-    "title": "Planned Preventive Maintenance (PPM) in Facilities Management",
-    "department": "Facilities Management",
-    "topic": "Planned Maintenance",
-    "level": "Foundation",
-    "source": "Training Academy",
-    "channel": "My FM Guru",
-    "publishDate": "2026-10-25",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/_dLeGqvfqL0",
-    "isNew": false,
-    "summary": "How facilities managers plan and carry out preventive maintenance: scheduling, recording and analysing maintenance data, and coordinating with other departments.",
-    "takeaways": [
-      "PPM prevents breakdowns instead of reacting to them.",
-      "Good records turn maintenance history into decisions.",
-      "Coordinate PPM windows with the client's operations."
-    ],
-    "applyIt": "Review last month's PPM completion rate per contract and agree a recovery plan for any site below 95%."
-  },
-  {
-    "id": "fm-005",
-    "title": "What Is Predictive Maintenance? Condition Monitoring Basics",
-    "department": "Facilities Management",
-    "topic": "Predictive Maintenance",
-    "level": "Foundation",
-    "source": "Training Academy",
-    "channel": "Engineering Presentations",
-    "publishDate": "2026-10-25",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/pocSio2ExNo",
-    "isNew": false,
-    "summary": "Introduces predictive or condition-based maintenance and condition monitoring, using vibration monitoring as the main example, as part of a CMRP-aligned reliability course.",
-    "takeaways": [
-      "Maintain based on condition, not just the calendar.",
-      "Condition monitoring spots failure before it happens.",
-      "Vibration trends are a key early warning on rotating plant."
-    ],
-    "applyIt": "Choose five critical assets (chillers, pumps, AHUs) and start recording a monthly condition reading for each."
   },
   {
     "id": "fm-006",
@@ -1306,48 +946,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "applyIt": "Add a 30-minute preliminary walkthrough step to every commercial inspection before the detailed MEP checks begin."
   },
   {
-    "id": "pv-004",
-    "title": "Real Estate Valuation Methods: Sales, Cost and Income",
-    "department": "Property Inspection & Valuation",
-    "topic": "Valuation Methods",
-    "format": "Process",
-    "level": "Foundation",
-    "source": "Training Academy",
-    "channel": "Dee Kumar Real Estate",
-    "publishDate": "2026-10-25",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/h_zgUFPx22c",
-    "isNew": false,
-    "summary": "Covers the three main valuation methods (sales comparison, cost and income) with formulas and examples, plus types of depreciation and how to calculate cap rates.",
-    "takeaways": [
-      "Three core methods: comparison, cost and income.",
-      "Depreciation can be physical, functional or external.",
-      "Choose the method that fits the property type."
-    ],
-    "applyIt": "When advising a client on an asset, state which valuation method applies and why (e.g. income approach for a leased building)."
-  },
-  {
-    "id": "pv-005",
-    "title": "The Sales Comparison Approach",
-    "department": "Property Inspection & Valuation",
-    "topic": "Valuation Methods",
-    "format": "Process",
-    "level": "Foundation",
-    "source": "Training Academy",
-    "channel": "Tony Mesa Real Estate School",
-    "publishDate": "2026-10-25",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/cXWZTxPRawg",
-    "isNew": false,
-    "summary": "Explains how recently sold, similar properties in the same area are used and adjusted to estimate the value of a subject property.",
-    "takeaways": [
-      "Pick truly comparable, recent sales nearby.",
-      "Adjust comparables for differences, not the subject.",
-      "More good comparables give a more reliable value."
-    ],
-    "applyIt": "Build a comparables sheet using DLD transaction data for each unit type you value in a community."
-  },
-  {
     "id": "pv-006",
     "title": "Cap Rate in Commercial Real Estate",
     "department": "Property Inspection & Valuation",
@@ -1409,27 +1007,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Early communication speeds settlement."
     ],
     "applyIt": "Offer landlord clients a photographic condition record at tenant move-in and move-out as an FM service."
-  },
-  {
-    "id": "pv-009",
-    "title": "Snagging Inspection in Dubai: Professional Handover",
-    "department": "Property Inspection & Valuation",
-    "topic": "Snagging",
-    "format": "On-the-job",
-    "level": "Foundation",
-    "source": "Industry Expert",
-    "channel": "Nina Strenzel",
-    "publishDate": "2026-10-25",
-    "duration": "3:00",
-    "embedUrl": "https://www.youtube.com/embed/JF5O7NcHxLk",
-    "isNew": false,
-    "summary": "A real pre-handover walkthrough of a new Dubai studio and the snagging report that logged over 40 defects, including hidden moisture, drainage and ventilation checks.",
-    "takeaways": [
-      "Switch on DEWA and AC before inspecting.",
-      "Check hidden items: drainage, moisture, water heating.",
-      "Photograph and log every defect for the developer."
-    ],
-    "applyIt": "Use this as the model for Al Bonian snagging visits and build a Dubai handover checklist in Zoho Creator."
   },
   {
     "id": "pv-010",
@@ -1516,26 +1093,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "applyIt": "Add a thermal-imaging sweep of roofs and wet areas to villa inspections, especially before summer."
   },
   {
-    "id": "fin-008",
-    "title": "Cost-Based vs Value-Based Pricing",
-    "department": "Finance",
-    "topic": "Pricing",
-    "level": "Executive",
-    "source": "Training Academy",
-    "channel": "Mastering Up",
-    "publishDate": "2026-10-26",
-    "duration": "13:49",
-    "embedUrl": "https://www.youtube.com/embed/loszBKRYylY",
-    "isNew": false,
-    "summary": "Compares setting prices from your own costs with setting them from the value customers perceive, using cross-industry examples and guidance on choosing the right model.",
-    "takeaways": [
-      "Cost-plus pricing protects margin but ignores what the client is willing to pay",
-      "Value-based pricing needs a clear view of the outcomes the client actually values",
-      "Pick the pricing model that fits the business model and competitive position"
-    ],
-    "applyIt": "When pricing MEP maintenance and snagging bids, start from the full cost build-up, then test the price against the value delivered to the client (uptime, compliance, handover speed) before submitting."
-  },
-  {
     "id": "lead-009",
     "title": "Why Long Meetings Drain Productivity and How to Fix Them",
     "department": "Leadership",
@@ -1554,86 +1111,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Treat running meetings as a leadership skill you can improve"
     ],
     "applyIt": "Keep daily site coordination meetings to a fixed short slot with a set agenda (safety, priority work orders, blockers) and send actions through Zoho Creator instead of extending the meeting."
-  },
-  {
-    "id": "proc-007",
-    "title": "What Is Category Management and Why It Matters",
-    "department": "Procurement",
-    "topic": "Category Management",
-    "level": "Practitioner",
-    "source": "Industry Expert",
-    "channel": "Procurement Insights with Poonam",
-    "publishDate": "2026-10-26",
-    "duration": "4:46",
-    "embedUrl": "https://www.youtube.com/embed/0WyKUbZgx1Q",
-    "isNew": false,
-    "summary": "Explains how category management moves procurement from order-by-order buying to managing each spend area like a business unit through a cycle of analysis, strategy, execution and review.",
-    "takeaways": [
-      "Group spend into categories instead of buying order by order",
-      "Run each category through analysis, strategy, execution and feedback",
-      "Focus effort on categories with high spend or high supply risk"
-    ],
-    "applyIt": "Set up categories such as HVAC spares, electrical consumables and specialist subcontractors, and give each one an owner who agrees annual frame agreements instead of ad-hoc site purchases."
-  },
-  {
-    "id": "hr-008",
-    "title": "Strategic Workforce Planning 101",
-    "department": "HR",
-    "topic": "Workforce Planning",
-    "level": "Executive",
-    "source": "Industry Expert",
-    "channel": "Random Walks In HR",
-    "publishDate": "2026-10-26",
-    "duration": "9:36",
-    "embedUrl": "https://www.youtube.com/embed/rNQ1V4DRYIw",
-    "isNew": false,
-    "summary": "Introduces the core building blocks of strategic workforce planning, including internal supply, demand forecasting, scenario planning and closing skills gaps.",
-    "takeaways": [
-      "Compare the workforce you have with the workforce the strategy needs",
-      "Use scenarios to plan for different growth or contract outcomes",
-      "Close skills gaps through a mix of hiring, training and redeployment"
-    ],
-    "applyIt": "Before bidding on large new FM contracts, model technician and supervisor headcount by trade under win/lose scenarios so recruitment and training can start ahead of mobilisation."
-  },
-  {
-    "id": "qhse-008",
-    "title": "What Is CAPA? Corrective vs Preventive Action Explained",
-    "department": "Quality & HSE",
-    "topic": "CAPA",
-    "level": "Foundation",
-    "source": "Industry Expert",
-    "channel": "QT9 Software",
-    "publishDate": "2026-10-26",
-    "duration": "4:20",
-    "embedUrl": "https://www.youtube.com/embed/Bi90TJ8lf0c",
-    "isNew": false,
-    "summary": "Walks through the CAPA process from identifying a problem to verifying effectiveness, and explains how a quick correction differs from a true corrective action under standards like ISO 9001.",
-    "takeaways": [
-      "A correction fixes the symptom; a corrective action removes the cause",
-      "Preventive action addresses risks before they become problems",
-      "Close every CAPA only after checking that it actually worked"
-    ],
-    "applyIt": "For repeat client complaints or audit findings, log a CAPA in the CAFM/Zoho system with root cause, owner and an effectiveness check date rather than closing it once the immediate fix is done."
-  },
-  {
-    "id": "bd-009",
-    "title": "How to Present a Business Proposal to a Client",
-    "department": "Business Development",
-    "topic": "Presenting to Clients",
-    "level": "Practitioner",
-    "source": "Industry Expert",
-    "channel": "Angelique Rewers",
-    "publishDate": "2026-10-26",
-    "duration": "16:53",
-    "embedUrl": "https://www.youtube.com/embed/MesVZNLoSQ0",
-    "isNew": false,
-    "summary": "Sets out a five-step approach to presenting a proposal to a client, covering preparation, slides, logistics and how to open and close the meeting with confidence.",
-    "takeaways": [
-      "Prepare the room, materials and attendees before the meeting",
-      "Open by confirming the client's goals before showing your solution",
-      "Close with clear, agreed next steps"
-    ],
-    "applyIt": "When presenting FM or snagging proposals to developers and government clients, open by restating their handover and compliance goals, then show how the scope and SLAs deliver them."
   },
   {
     "id": "it-007",
@@ -1697,26 +1174,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "applyIt": "On villa and apartment snagging inspections, scan wet areas and ceilings below bathrooms with a thermal camera and confirm any anomalies with a moisture meter before adding them to the snag report."
   },
   {
-    "id": "fin-009",
-    "title": "The UAE Tax Landscape: VAT, Corporate Tax and More",
-    "department": "Finance",
-    "topic": "UAE Tax Basics",
-    "level": "Foundation",
-    "source": "Industry Expert",
-    "channel": "Business Boutique FZCO",
-    "publishDate": "2026-10-27",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/KqT2Sm4ca6c",
-    "isNew": false,
-    "summary": "An overview of how the UAE tax system works today, covering VAT, the newer corporate tax regime, customs duties and local fees, and what recent changes mean for businesses.",
-    "takeaways": [
-      "VAT and corporate tax are now both core compliance obligations for UAE businesses",
-      "Know which taxes and fees apply to your company before pricing or quoting",
-      "Recent rule changes mean tax assumptions should be reviewed regularly"
-    ],
-    "applyIt": "When preparing MEP maintenance quotations and contract budgets, managers should confirm VAT treatment and the corporate tax impact with finance so margins are calculated on the right basis."
-  },
-  {
     "id": "lead-010",
     "title": "The GROW Model for Coaching: Origins and Application",
     "department": "Leadership",
@@ -1737,46 +1194,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "applyIt": "Supervisors can use GROW in short one-to-ones with technicians to solve recurring site problems, such as repeat call-outs, instead of simply giving instructions."
   },
   {
-    "id": "proc-008",
-    "title": "The Kraljic Matrix Explained with Example",
-    "department": "Procurement",
-    "topic": "Sourcing Strategy",
-    "level": "Executive",
-    "source": "Training Academy",
-    "channel": "EPM",
-    "publishDate": "2026-10-27",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/67gQEUtbjSE",
-    "isNew": false,
-    "summary": "Explains the Kraljic Matrix for segmenting purchases by profit impact and supply risk, works through a real company example, and discusses the strengths and limits of the model.",
-    "takeaways": [
-      "Classify spend into strategic, leverage, bottleneck and non-critical items",
-      "Match the sourcing approach to each quadrant rather than treating all suppliers alike",
-      "Revisit the matrix as supply risk and business priorities change"
-    ],
-    "applyIt": "Map Al Bonian FM spend (chiller spares, specialist subcontractors, consumables, manpower supply) onto the Kraljic quadrants to decide where to build partnerships and where to tender aggressively."
-  },
-  {
-    "id": "hr-009",
-    "title": "What Is Employee Relations?",
-    "department": "HR",
-    "topic": "Employee Relations",
-    "level": "Foundation",
-    "source": "Training Academy",
-    "channel": "GreggU",
-    "publishDate": "2026-10-27",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/qqMCcWXfSSI",
-    "isNew": false,
-    "summary": "Introduces employee relations as the way an organisation manages its relationship with staff, including engagement, resolving conflict, workplace investigations and fair, consistent discipline.",
-    "takeaways": [
-      "Good employee relations rests on treating everyone fairly and consistently",
-      "Deal with conflict and complaints early, before they escalate",
-      "Document investigations and disciplinary steps clearly"
-    ],
-    "applyIt": "Site managers should log grievances and disciplinary actions for technicians in a consistent way in Zoho Creator so HR can apply the same standards across every site."
-  },
-  {
     "id": "qhse-009",
     "title": "Incident Investigation: Identifying Root Causes and Implementing Corrective Actions",
     "department": "Quality & HSE",
@@ -1795,26 +1212,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Track corrective actions to closure and share the lessons"
     ],
     "applyIt": "After any site incident or near-miss, such as a fall from a ladder or an electrical flash, the HSE team should run a blame-free investigation and record corrective actions in the CAFM system until closed."
-  },
-  {
-    "id": "bd-010",
-    "title": "Customer Retention Strategy: Making Loyalty the New Growth Engine",
-    "department": "Business Development",
-    "topic": "Client Retention",
-    "level": "Executive",
-    "source": "Industry Expert",
-    "channel": "ContentStrategies (David T. Roberts, SugarCRM)",
-    "publishDate": "2026-10-27",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/jrW6bXixH3I",
-    "isNew": false,
-    "summary": "SugarCRM CEO David T. Roberts makes the case that customer loyalty drives B2B growth and explains how curiosity, process and data, including NPS feedback, turn customer focus into retention.",
-    "takeaways": [
-      "Retaining existing B2B clients is a growth strategy, not just a service task",
-      "Turn client feedback scores into specific follow-up actions",
-      "Use CRM data to give account teams context about each client"
-    ],
-    "applyIt": "Review client satisfaction feedback for each FM contract quarterly and assign named actions to account managers well before renewal dates."
   },
   {
     "id": "it-008",
@@ -1857,27 +1254,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "applyIt": "Planners should prepare weekly PPM and corrective work packs in the CAFM system, with spares and permits ready, before allocating technicians across sites."
   },
   {
-    "id": "pv-015",
-    "title": "The Residual Land Value Method",
-    "department": "Property Inspection & Valuation",
-    "topic": "Residual Valuation",
-    "level": "Executive",
-    "format": "Process",
-    "source": "Industry Expert",
-    "channel": "Chad Griffiths",
-    "publishDate": "2026-10-27",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/J9ldMWeQ3GA",
-    "isNew": false,
-    "summary": "Explains how residual land value is found by taking the completed project value and deducting construction, financing and developer profit, and why the result is highly sensitive to key assumptions.",
-    "takeaways": [
-      "Residual value equals completed value minus all development costs and required profit",
-      "Small changes in rents, yields or build costs swing the land value sharply",
-      "Always run sensitivity tests before relying on the figure"
-    ],
-    "applyIt": "When advising developer clients in Dubai on land or redevelopment sites, present residual valuations with clear sensitivity ranges for sale prices, yields and construction costs."
-  },
-  {
     "id": "fin-010",
     "title": "What Is Variance Analysis? Budget vs Actual Explained",
     "department": "Finance",
@@ -1918,46 +1294,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "applyIt": "Use short scenario drills and post-incident debriefs with site supervisors so they build the experience to make fast, sound calls during critical breakdowns at client sites."
   },
   {
-    "id": "proc-009",
-    "title": "Reorder Point and Safety Stock in Inventory Management",
-    "department": "Procurement",
-    "topic": "Inventory & Stores",
-    "level": "Foundation",
-    "source": "Training Academy",
-    "channel": "Farhat Lectures",
-    "publishDate": "2026-10-28",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/LLKG2bs-HlA",
-    "isNew": false,
-    "summary": "Explains what reorder points and safety stock are, how to calculate each, and how combining them prevents stock-outs without tying up cash in excess inventory.",
-    "takeaways": [
-      "Reorder point = demand during lead time plus safety stock",
-      "Safety stock buffers against demand spikes and late deliveries",
-      "Too much stock ties up cash; too little stops the work"
-    ],
-    "applyIt": "Set reorder points and safety stock in the CAFM/stores system for critical MEP spares such as filters, belts and pump seals so site teams are never waiting on parts."
-  },
-  {
-    "id": "hr-010",
-    "title": "Introduction to Total Rewards and Compensation",
-    "department": "HR",
-    "topic": "Compensation",
-    "level": "Practitioner",
-    "source": "Training Academy",
-    "channel": "GreggU",
-    "publishDate": "2026-10-28",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/JmAvA_8Ftvc",
-    "isNew": false,
-    "summary": "Introduces the parts of a compensation system — base pay, incentive pay and benefits — and why fair, competitive pay matters for attracting and keeping staff while controlling a major cost.",
-    "takeaways": [
-      "Total rewards combine base pay, incentives and benefits",
-      "Pay fairness strongly drives job satisfaction and retention",
-      "Compensation is a large cost, so monitor it against the market"
-    ],
-    "applyIt": "Review technician and supervisor pay bands against the Dubai FM market and link incentives to measurable outcomes such as PPM compliance and first-time fix."
-  },
-  {
     "id": "qhse-010",
     "title": "Five Lean Transformation Tips for Leaders",
     "department": "Quality & HSE",
@@ -1996,46 +1332,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Pilot pricing changes in one market before rolling out widely"
     ],
     "applyIt": "When pricing FM tenders and renewals, build prices from the value delivered (uptime, compliance, response times) rather than discounting to match competitors."
-  },
-  {
-    "id": "it-009",
-    "title": "Power BI: Building a Basic KPI Dashboard with Filters",
-    "department": "IT",
-    "topic": "Data & Dashboards",
-    "level": "Practitioner",
-    "source": "Industry Expert",
-    "channel": "Abhishek Agarrwal",
-    "publishDate": "2026-10-28",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/s_BzbDSVjxI",
-    "isNew": false,
-    "summary": "A hands-on Power BI walkthrough that builds a KPI dashboard with KPI cards, line and bar charts, slicers, and bookmarks with buttons to switch views.",
-    "takeaways": [
-      "Start with a few clear KPI cards before adding charts",
-      "Use slicers so managers can filter by period or category",
-      "Bookmarks and buttons let users switch between saved views"
-    ],
-    "applyIt": "Build a Power BI dashboard on CAFM and Zoho Creator data showing PPM compliance, open work orders and SLA performance per contract, filterable by site."
-  },
-  {
-    "id": "fm-015",
-    "title": "Life Cycle Costing (LCC) with the International Construction Measurement Standard (ICMS)",
-    "department": "Facilities Management",
-    "topic": "Lifecycle Costing",
-    "level": "Executive",
-    "source": "Industry Expert",
-    "channel": "Dermot Kehily",
-    "publishDate": "2026-10-28",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/4tqsN9m7DrI",
-    "isNew": false,
-    "summary": "Works through an example of applying life cycle costing within the ICMS framework, showing how construction, operation and maintenance costs can be structured and compared over an asset’s life.",
-    "takeaways": [
-      "Judge assets on whole-life cost, not purchase price alone",
-      "A common standard (ICMS) makes cost comparisons consistent",
-      "Use LCC to support capex replacement and refurbishment decisions"
-    ],
-    "applyIt": "Use life cycle costing when advising clients on chiller or AHU replacement versus repair, presenting whole-life cost comparisons in capex planning reports."
   },
   {
     "id": "pv-016",
@@ -2119,86 +1415,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "applyIt": "Build a simple supplier scorecard in Zoho Creator for spare-parts suppliers and MEP subcontractors, reviewing on-time delivery and defects quarterly before renewing agreements."
   },
   {
-    "id": "hr-011",
-    "title": "HR Business Partner (HRBP) Model Explained - Strategic HR",
-    "department": "HR",
-    "topic": "HR Strategy",
-    "level": "Executive",
-    "source": "Training Academy",
-    "channel": "CodeLucky",
-    "publishDate": "2026-10-29",
-    "duration": "4:54",
-    "embedUrl": "https://www.youtube.com/embed/8EdhaeDUddA",
-    "isNew": false,
-    "summary": "The video explains Dave Ulrich's HR business partner model and how HR moves from personnel administration to a strategic role supporting business goals.",
-    "takeaways": [
-      "Ulrich describes four HR roles: strategic partner, change agent, employee champion and administrative expert",
-      "An HR business partner works alongside line leaders on business priorities",
-      "Strategic HR needs business, data and influencing skills, not just policy knowledge"
-    ],
-    "applyIt": "Assign HR to sit in monthly operations reviews so workforce, training and retention plans are tied directly to contract mobilisations and client SLAs."
-  },
-  {
-    "id": "qhse-011",
-    "title": "Mastering Permit to Work: Your Complete Introduction",
-    "department": "Quality & HSE",
-    "topic": "Permit to Work",
-    "level": "Foundation",
-    "source": "Industry Expert",
-    "channel": "Will On Safety",
-    "publishDate": "2026-10-29",
-    "duration": "24:20",
-    "embedUrl": "https://www.youtube.com/embed/qiXdQ2M82iw",
-    "isNew": false,
-    "summary": "A safety practitioner introduces permit-to-work systems, when they are needed and how to run them properly for high-risk tasks such as hot work, confined spaces and electrical isolation.",
-    "takeaways": [
-      "Use a permit to work for high-risk, non-routine jobs such as hot work, confined spaces and isolations",
-      "A permit is only effective if hazards, controls and isolations are checked on site",
-      "Permits must be formally handed back and closed before equipment returns to service"
-    ],
-    "applyIt": "Make sure every hot work, electrical isolation and confined-space job on client sites, including subcontractor work, runs on a formal permit logged in the CAFM system and closed out on completion."
-  },
-  {
-    "id": "bd-012",
-    "title": "What is Consultative Selling?",
-    "department": "Business Development",
-    "topic": "Consultative Selling",
-    "level": "Practitioner",
-    "source": "Industry Expert",
-    "channel": "Business Skills (Lawrence M. Miller)",
-    "publishDate": "2026-10-29",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/uZ2wL8PxEP4",
-    "isNew": false,
-    "summary": "Management consultant Lawrence M. Miller explains consultative selling as a trust-based approach in which the seller helps the client solve their problem rather than pushing a product.",
-    "takeaways": [
-      "Start with the client's problems and goals, not your service list",
-      "Ask questions and listen to build trust before proposing a solution",
-      "Position yourself as a partner in solving the problem"
-    ],
-    "applyIt": "In meetings with developers and property owners, ask about their asset issues, complaints and budget pressures before proposing a tailored maintenance or snagging package."
-  },
-  {
-    "id": "it-010",
-    "title": "What is IT Governance?",
-    "department": "IT",
-    "topic": "IT Governance & Risk",
-    "level": "Executive",
-    "source": "Industry Expert",
-    "channel": "Vaseem Nasiruddeen Mohamed",
-    "publishDate": "2026-10-29",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/zpZs06f_dak",
-    "isNew": false,
-    "summary": "The video introduces IT governance and the COBIT framework, then outlines steps to tailor a governance system, find gaps and build an improvement roadmap.",
-    "takeaways": [
-      "IT governance aligns IT objectives, policies and processes with business goals",
-      "COBIT provides a structured set of governance and management processes",
-      "Assess gaps, build a roadmap and keep measuring maturity over time"
-    ],
-    "applyIt": "Set a simple governance routine for Zoho Creator apps, the CAFM system and Microsoft 365 that covers ownership, access approvals, change control and a yearly risk review."
-  },
-  {
     "id": "fm-016",
     "title": "Legionnaires' Disease: Hot Water Pipes Demonstration",
     "department": "Facilities Management",
@@ -2240,26 +1456,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "applyIt": "State the measurement basis on every inspection and valuation report, and check developer-quoted areas against site measurements before relying on them."
   },
   {
-    "id": "fin-012",
-    "title": "How to Do a Profitability Analysis",
-    "department": "Finance",
-    "topic": "Contract Profitability",
-    "level": "Practitioner",
-    "source": "Industry Expert",
-    "channel": "I Hate Numbers",
-    "publishDate": "2026-10-31",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/nR88ZrP0AUw",
-    "isNew": true,
-    "summary": "A business finance coach shows how to analyse where a business really makes money by working out profit margins and the lifetime value of customers.",
-    "takeaways": [
-      "Calculate margin per customer or contract, not just for the business as a whole",
-      "Customer lifetime value shows which clients are worth investing in",
-      "Good, up-to-date accounting data makes profitability reviews quick and repeatable"
-    ],
-    "applyIt": "Run a quarterly margin review of each MEP maintenance contract and client, using CAFM labour and material costs, to spot loss-making sites before renewal."
-  },
-  {
     "id": "lead-013",
     "title": "Managing Conflict in Teams — Lindred Greer",
     "department": "Leadership",
@@ -2278,26 +1474,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Leaders set the norms for how disagreement is raised and resolved"
     ],
     "applyIt": "Set a clear escalation route for disputes between site teams, supervisors and subcontractors so conflicts are resolved within days rather than left to affect service delivery."
-  },
-  {
-    "id": "proc-011",
-    "title": "How to Select a Supplier: The Supplier Onboarding Process",
-    "department": "Procurement",
-    "topic": "Supplier Onboarding",
-    "level": "Foundation",
-    "source": "Training Academy",
-    "channel": "Procurement Academy",
-    "publishDate": "2026-10-31",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/DE_V-KluZc8",
-    "isNew": true,
-    "summary": "An introduction to the main factors buyers should weigh when selecting and onboarding a supplier for goods, works or services.",
-    "takeaways": [
-      "Define selection criteria before inviting suppliers",
-      "Check capability, compliance and financial stability, not only price",
-      "A structured onboarding step reduces risk once orders start"
-    ],
-    "applyIt": "Use a standard onboarding checklist (trade licence, insurance, HSE record, references) before any new MEP supplier or subcontractor is added to the approved vendor list."
   },
   {
     "id": "hr-012",
@@ -2320,46 +1496,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "applyIt": "Review Al Bonian FM offer letters, shift patterns and leave policies for site technicians against the federal labour law requirements covered here."
   },
   {
-    "id": "qhse-012",
-    "title": "What Is an Environmental Aspects and Impacts Register? (ISO 14001)",
-    "department": "Quality & HSE",
-    "topic": "ISO 14001",
-    "level": "Executive",
-    "source": "Industry Expert",
-    "channel": "Spire Safety Consultants",
-    "publishDate": "2026-10-31",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/uomX1R6Gpu8",
-    "isNew": true,
-    "summary": "Explains how an ISO 14001 aspects and impacts register maps an organisation’s interactions with the environment and helps decide which risks need controls.",
-    "takeaways": [
-      "List activities such as waste, emissions and resource use as environmental aspects",
-      "Rate the significance of each impact to prioritise action",
-      "Significant aspects drive objectives, controls and monitoring in the EMS"
-    ],
-    "applyIt": "Build an aspects register for FM operations (refrigerant handling, chemical use, waste oil, water and energy use) to steer environmental priorities and client reporting."
-  },
-  {
-    "id": "bd-013",
-    "title": "How to Sell B2B Services",
-    "department": "Business Development",
-    "topic": "B2B Services Selling",
-    "level": "Foundation",
-    "source": "Industry Expert",
-    "channel": "Angelique Rewers",
-    "publishDate": "2026-10-31",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/AavIFMk5EKU",
-    "isNew": true,
-    "summary": "Explains how selling services to businesses depends on understanding what the buyer values, creating urgency and balancing logic with emotion in the decision.",
-    "takeaways": [
-      "Lead with the client’s business problem, not your list of services",
-      "Create genuine urgency by linking your service to the client’s priorities",
-      "B2B buyers decide on both logic and emotion, so address risk and trust"
-    ],
-    "applyIt": "Frame FM proposals to property owners around their pain points (downtime, tenant complaints, compliance risk) rather than a generic list of MEP services."
-  },
-  {
     "id": "it-011",
     "title": "Low-Code/No-Code with Zoho Creator",
     "department": "IT",
@@ -2378,67 +1514,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "AI, analytics and process automation can be layered onto apps"
     ],
     "applyIt": "Identify one manual paper or spreadsheet process (e.g. site inspection checklists) and rebuild it as a Zoho Creator app linked to existing company data."
-  },
-  {
-    "id": "fm-017",
-    "title": "Using SLAs and KPIs for Effective Vendor Performance Management",
-    "department": "Facilities Management",
-    "topic": "SLA & Contract Management",
-    "level": "Executive",
-    "source": "Industry Expert",
-    "channel": "Venminder",
-    "publishDate": "2026-10-31",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/O_kJ6wtQDm4",
-    "isNew": true,
-    "summary": "A webinar on turning service expectations into formal SLAs and KPIs, reviewing vendor performance regularly and acting early when it slips.",
-    "takeaways": [
-      "Translate expectations into measurable SLAs and supporting KPIs",
-      "Set a regular review rhythm proportionate to contract risk",
-      "Watch for early signs of decline and act before failures escalate"
-    ],
-    "applyIt": "Align each client contract’s SLAs (response times, PPM compliance) with CAFM-reported KPIs and apply the same discipline to subcontractor performance reviews."
-  },
-  {
-    "id": "pv-018",
-    "title": "Due Diligence in Commercial Real Estate: Step-by-Step Guide",
-    "department": "Property Inspection & Valuation",
-    "topic": "Due Diligence",
-    "level": "Foundation",
-    "format": "Process",
-    "source": "Industry Expert",
-    "channel": "North Star Commercial Real Estate Advisors",
-    "publishDate": "2026-10-31",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/K03UTr5R_PU",
-    "isNew": true,
-    "summary": "Walks through the main stages of buying commercial property, including financing checks, environmental studies, physical inspections and document review.",
-    "takeaways": [
-      "Due diligence combines financial, legal, environmental and physical checks",
-      "Physical inspections uncover costs that affect price and negotiation",
-      "Organise document reviews against a checklist and timeline"
-    ],
-    "applyIt": "Package Al Bonian FM inspection and condition reports as the physical due-diligence component for investors and developers buying buildings in Dubai."
-  },
-  {
-    "id": "fin-013",
-    "title": "Working Capital, Liquidity and the Cash Conversion Cycle",
-    "department": "Finance",
-    "topic": "Working Capital",
-    "level": "Practitioner",
-    "source": "Training Academy",
-    "channel": "Understand Finance with Dr. Dicle",
-    "publishDate": "2026-11-01",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/8IsIM90gP0I",
-    "isNew": true,
-    "summary": "A lecture on how receivables, payables and inventory timing drive liquidity, using the operating cycle and cash conversion cycle to show why profitable firms can still run short of cash.",
-    "takeaways": [
-      "Profit is not cash: track when money leaves and when it returns",
-      "Cash conversion cycle = days inventory + days receivable − days payable",
-      "Growth consumes working capital, so forecast funding needs before expanding"
-    ],
-    "applyIt": "Track days-to-collect on each MEP maintenance contract against subcontractor payment terms, and forecast the working-capital needed before mobilising a large new site."
   },
   {
     "id": "lead-014",
@@ -2461,46 +1536,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "applyIt": "In post-incident and missed-SLA reviews, have senior managers open by stating what they would change themselves before discussing site or subcontractor failures."
   },
   {
-    "id": "proc-012",
-    "title": "How to Manage Subcontractors Without Micromanaging",
-    "department": "Procurement",
-    "topic": "Subcontractor Management",
-    "level": "Foundation",
-    "source": "Industry Expert",
-    "channel": "Jesse Lane",
-    "publishDate": "2026-11-01",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/l3Sh2vax9zo",
-    "isNew": true,
-    "summary": "A contractor's practical guide to aligning subcontractors around shared goals, setting clear expectations and controlling quality without micromanaging every task.",
-    "takeaways": [
-      "Set scope, standards and deadlines clearly before work starts",
-      "Manage outcomes and checkpoints rather than every task",
-      "Build long-term relationships with reliable subcontractors"
-    ],
-    "applyIt": "Issue each MEP subcontractor a one-page scope and quality checklist at mobilisation and review progress at agreed checkpoints instead of daily chasing."
-  },
-  {
-    "id": "hr-013",
-    "title": "How to Conduct a Training Needs Analysis (TNA): Step-by-Step Guide",
-    "department": "HR",
-    "topic": "Training Needs Analysis",
-    "level": "Practitioner",
-    "source": "Industry Expert",
-    "channel": "Unlock L&D With Samir Raj",
-    "publishDate": "2026-11-01",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/GMUKWleC3k4",
-    "isNew": true,
-    "summary": "A step-by-step walkthrough of running a training needs analysis to identify skill gaps, decide whether training is the right fix and prioritise L&D spend for real business results.",
-    "takeaways": [
-      "Gather data on skill and performance gaps before designing training",
-      "Check whether training is actually the right solution",
-      "Prioritise needs that link to business results to win management support"
-    ],
-    "applyIt": "Run a TNA across technicians and supervisors using CAFM job data (repeat faults, first-time-fix rates) to target training budget where it improves contract KPIs."
-  },
-  {
     "id": "qhse-013",
     "title": "Achieving Health and Safety Leadership Excellence in the Workplace",
     "department": "Quality & HSE",
@@ -2521,26 +1556,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "applyIt": "Have senior managers carry out scheduled site safety walks on MEP and inspection sites, recognising good practice and following up openly on unsafe conditions."
   },
   {
-    "id": "bd-014",
-    "title": "Why You're Winning 3 in 10 Deals: Defining Your Ideal Client in FM",
-    "department": "Business Development",
-    "topic": "Target Clients (ICP)",
-    "level": "Foundation",
-    "source": "Industry Expert",
-    "channel": "Matt Harris",
-    "publishDate": "2026-11-01",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/a0a9f4hfw5k",
-    "isNew": true,
-    "summary": "An FM-focused growth episode explaining how unclear target-client definition wastes business development effort, and how matching your offer to each buyer's risk priorities lifts win rates.",
-    "takeaways": [
-      "Different buyers judge suppliers on different risks",
-      "Pitch to the client's decision criteria, not generic 'reliable service'",
-      "Review past wins and losses to define your ideal client profile"
-    ],
-    "applyIt": "Analyse the last 20 Al Bonian FM bids by client type (developers, owners, government) and focus BD effort on the segment where we win most with least discounting."
-  },
-  {
     "id": "it-012",
     "title": "Implementing a Building Automation System: Steps for Facility Managers",
     "department": "IT",
@@ -2559,26 +1574,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Keep monitoring and tuning the system after handover"
     ],
     "applyIt": "Use these steps when advising clients on BMS upgrades and link BMS alarms into our CAFM system so critical faults generate work orders automatically."
-  },
-  {
-    "id": "fm-018",
-    "title": "The Philosophy of Reliability Centred Maintenance (RCM)",
-    "department": "Facilities Management",
-    "topic": "Reliability-Centred Maintenance",
-    "level": "Executive",
-    "source": "Training Academy",
-    "channel": "Engineering Presentations",
-    "publishDate": "2026-11-01",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/tNYiCOGuuNA",
-    "isNew": true,
-    "summary": "Explains the thinking behind reliability-centred maintenance and how it evolved from earlier maintenance eras, as part of a CMRP-based course on equipment reliability.",
-    "takeaways": [
-      "RCM starts from the functions an asset must deliver, not the task list",
-      "Choose maintenance tasks based on failure modes and consequences",
-      "RCM is a strategy shift, not just another PM programme"
-    ],
-    "applyIt": "Apply RCM thinking to critical client assets such as chillers and fire pumps to justify which PPM, condition-monitoring or run-to-failure strategies we propose in contracts."
   },
   {
     "id": "pv-019",
@@ -2602,48 +1597,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "applyIt": "Offer reinstatement cost assessments alongside condition surveys for owners and developers, and flag clients whose declared values are outdated."
   },
   {
-    "id": "ai-001",
-    "title": "AI News Recap: Nine Big Stories from Late October 2026",
-    "department": "AI News",
-    "topic": "Weekly Roundup",
-    "level": "Foundation",
-    "source": "Industry Expert",
-    "channel": "AI Revolution",
-    "publishDate": "2026-11-01",
-    "videoDate": "2026-10-27",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/Ht5gjvIAEsc",
-    "isNew": true,
-    "summary": "A fast recap of nine AI stories from late October 2026, covering new models from Anthropic and Google, AI-generated maths research from OpenAI, quantum computing news and an AI-linked cybersecurity crisis, as reported by the channel.",
-    "takeaways": [
-      "Frontier labs are releasing new models every few weeks.",
-      "AI is moving into research, maths and security work.",
-      "Treat bold headline claims with caution until confirmed."
-    ],
-    "applyIt": "Pick one story a week that could affect FM operations (e.g. AI security risks) and discuss it in the management meeting."
-  },
-  {
-    "id": "ai-002",
-    "title": "AI Weekly Recap: OpenAI, Claude and Google Workspace",
-    "department": "AI News",
-    "topic": "Weekly Roundup",
-    "level": "Foundation",
-    "source": "Industry Expert",
-    "channel": "AIwithPrathmesh",
-    "publishDate": "2026-11-01",
-    "videoDate": "2026-10-17",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/WZ11niTZvI4",
-    "isNew": true,
-    "summary": "A mid-October roundup focused on AI tools for productivity: OpenAI's latest models and always-on agents, Google's AI Playground, Grok agents and Claude working inside Google Workspace apps.",
-    "takeaways": [
-      "AI agents can now run tasks in the background.",
-      "Assistants are being built into everyday office apps.",
-      "Productivity gains come from connecting AI to your tools."
-    ],
-    "applyIt": "Test one AI assistant connected to email and documents for preparing a monthly client report."
-  },
-  {
     "id": "ai-003",
     "title": "How AI Is Changing Strategy — and 4 Skills Leaders Need Next",
     "department": "AI News",
@@ -2663,90 +1616,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Deep expertise and judgement stay valuable."
     ],
     "applyIt": "Ask each department head to propose one process to redesign around AI, not just speed up."
-  },
-  {
-    "id": "ai-004",
-    "title": "Everything New in AI (October 2026) Explained",
-    "department": "AI News",
-    "topic": "Model Releases",
-    "level": "Foundation",
-    "source": "Training Academy",
-    "channel": "StudyZoom International",
-    "publishDate": "2026-11-01",
-    "videoDate": "2026-10-06",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/Pf6Fxj56XEM",
-    "isNew": true,
-    "summary": "An explainer of October 2026's main AI developments, including OpenAI's lower-cost GPT-6.1 Sol and always-on Dots agents, Claude Opus 5.5, and progress in reasoning, coding and agent workflows.",
-    "takeaways": [
-      "Cheaper models make AI practical for daily work.",
-      "Agents are shifting AI from answering to doing.",
-      "Coding and automation are improving fastest."
-    ],
-    "applyIt": "Review which AI subscriptions the company pays for and whether a newer, cheaper model now covers the same needs."
-  },
-  {
-    "id": "ai-005",
-    "title": "AI News: Gemini 4, GPT-6.1, Claude Sonnet 5.5 and More",
-    "department": "AI News",
-    "topic": "Model Releases",
-    "level": "Practitioner",
-    "source": "Industry Expert",
-    "channel": "AI Search",
-    "publishDate": "2026-11-01",
-    "videoDate": "2026-10-03",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/lHmZoRHMZyM",
-    "isNew": true,
-    "summary": "A detailed weekly roundup, organised in chapters, of new models and tools including Gemini 4 Argon, GPT-6.1 Sol, Claude Sonnet 5.5, OpenAI Dots, Flux 3 and ElevenLabs V4, with links to each announcement.",
-    "takeaways": [
-      "Several major labs released new models the same week.",
-      "Image, voice and video tools are advancing alongside text.",
-      "Use the chapters to jump to the tools relevant to you."
-    ],
-    "applyIt": "Have the IT team shortlist one image or voice tool that could speed up training or marketing content."
-  },
-  {
-    "id": "ai-006",
-    "title": "Gemini 4, Sonnet 5.5, GPT-6.1 — What's Really Going On",
-    "department": "AI News",
-    "topic": "Weekly Roundup",
-    "level": "Practitioner",
-    "source": "Industry Expert",
-    "channel": "AI Copium",
-    "publishDate": "2026-11-01",
-    "videoDate": "2026-10-02",
-    "duration": "15:08",
-    "embedUrl": "https://www.youtube.com/embed/W-vJvssrwh0",
-    "isNew": true,
-    "summary": "A weekly recap of the Gemini 4 Argon, Claude Sonnet 5.5 and GPT-6.1 Sol releases and their benchmarks, plus rising AI security incidents, regulatory scrutiny in the US and Anthropic's IPO plans.",
-    "takeaways": [
-      "Benchmarks help compare models but don't tell the whole story.",
-      "AI security incidents are rising as agents spread.",
-      "Regulators are paying closer attention to AI firms."
-    ],
-    "applyIt": "Add AI tool usage to the IT security policy: which tools are approved and what data may be shared."
-  },
-  {
-    "id": "ai-007",
-    "title": "GPT-6 and Claude Opus 5.5 Launch Week",
-    "department": "AI News",
-    "topic": "Model Releases",
-    "level": "Foundation",
-    "source": "Industry Expert",
-    "channel": "Compile Future",
-    "publishDate": "2026-11-01",
-    "videoDate": "2026-09-26",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/onMeBsN5sEI",
-    "isNew": true,
-    "summary": "A recap of the week GPT-6 and Claude Opus 5.5 launched, with price cuts, plus updates from Nvidia, YouTube, Windows Copilot, Gemini and Spotify.",
-    "takeaways": [
-      "Big model launches often come with price cuts.",
-      "AI features are landing in tools people already use.",
-      "Expect fast follow-up updates after major launches."
-    ],
-    "applyIt": "Check whether Microsoft 365 Copilot or Gemini features already included in current licences are being used."
   },
   {
     "id": "ai-008",
@@ -2791,26 +1660,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "applyIt": "Use the Gartner trend list as a checklist when planning next year's IT and digital budget."
   },
   {
-    "id": "fin-014",
-    "title": "Rolling Forecasts: Why Companies Are Moving Away from Annual Budgeting",
-    "department": "Finance",
-    "topic": "Budgeting & Forecasting",
-    "level": "Executive",
-    "source": "Industry Expert",
-    "channel": "AllFinTalk",
-    "publishDate": "2026-11-02",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/K3vs8-wiOSU",
-    "isNew": true,
-    "summary": "Explains how a rolling forecast differs from the annual budget, why some companies are shifting to continuous planning, and where the approach delivers benefits or falls short.",
-    "takeaways": [
-      "Annual budgets date quickly when conditions change",
-      "A rolling forecast keeps extending the planning horizon",
-      "Know the common pitfalls before dropping the budget"
-    ],
-    "applyIt": "Re-forecast the contract portfolio each quarter so margin, manpower and subcontractor costs reflect new awards and renewals rather than a fixed annual budget."
-  },
-  {
     "id": "lead-015",
     "title": "How to Give Constructive Feedback: Management Primer",
     "department": "Leadership",
@@ -2831,26 +1680,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "applyIt": "Have site supervisors use Situation-Behaviour-Impact when discussing a missed PPM or a poor client handover with a technician."
   },
   {
-    "id": "proc-013",
-    "title": "5 Mistakes in RFP Evaluation and How to Avoid Them",
-    "department": "Procurement",
-    "topic": "Tendering & RFQs",
-    "level": "Practitioner",
-    "source": "Industry Expert",
-    "channel": "Euna Solutions",
-    "publishDate": "2026-11-02",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/tfCkcgtjlM0",
-    "isNew": true,
-    "summary": "A webinar on common RFP evaluation pitfalls in public procurement, covering price weighting, scoring scales, evaluation stages, conflict-of-interest declarations and consensus meetings.",
-    "takeaways": [
-      "Set price weighting and scoring scales before bids arrive",
-      "Declare conflicts of interest and protect confidentiality",
-      "Use consensus meetings to reconcile evaluator scores"
-    ],
-    "applyIt": "Agree a weighted scoring matrix before issuing subcontractor and supplier RFQs so that awards are defensible to clients and auditors."
-  },
-  {
     "id": "hr-014",
     "title": "The New Rules of Talent Retention with Steve Cadigan",
     "department": "HR",
@@ -2869,86 +1698,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Keep former employees in your network"
     ],
     "applyIt": "Review how Al Bonian FM develops supervisors and engineers, and keep in touch with good leavers who may return to future contracts."
-  },
-  {
-    "id": "qhse-014",
-    "title": "How to Use Safety Leading Indicators",
-    "department": "Quality & HSE",
-    "topic": "Safety KPIs",
-    "level": "Foundation",
-    "source": "Industry Expert",
-    "channel": "Safety Geek",
-    "publishDate": "2026-11-02",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/yDOEE9pR8Ac",
-    "isNew": true,
-    "summary": "Covers two leading safety indicators that safety managers can track, one monthly and one weekly, and how to use them to identify problem areas.",
-    "takeaways": [
-      "Leading indicators show issues before an incident",
-      "Track a small set at a regular rhythm",
-      "Use the results to target problem areas"
-    ],
-    "applyIt": "Add one weekly and one monthly leading indicator to site HSE reports, alongside incident counts, and review them by contract."
-  },
-  {
-    "id": "bd-015",
-    "title": "How to Write a Business Proposal That Gets Accepted (Backed by Data)",
-    "department": "Business Development",
-    "topic": "Proposal Writing",
-    "level": "Practitioner",
-    "source": "Industry Expert",
-    "channel": "Qwilr",
-    "publishDate": "2026-11-02",
-    "duration": "6:59",
-    "embedUrl": "https://www.youtube.com/embed/HSNHry3zmCY",
-    "isNew": true,
-    "summary": "Draws on an analysis of over one million proposals to set out pre-proposal alignment, data-backed behaviours that raise acceptance, and a recommended proposal structure.",
-    "takeaways": [
-      "Align with the client before writing the proposal",
-      "Keep proposals short and follow up quickly",
-      "Structure: summary, challenges, ROI, timeline, price, next step"
-    ],
-    "applyIt": "Rework FM proposals to open with the client's challenges and ROI, then follow up quickly after submission to developers and property owners."
-  },
-  {
-    "id": "it-013",
-    "title": "Build vs Buy: How Enterprise AI Leaders Actually Decide",
-    "department": "IT",
-    "topic": "AI for Business",
-    "level": "Executive",
-    "source": "Industry Expert",
-    "channel": "Lambda",
-    "publishDate": "2026-11-02",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/V-h7vamqBJk",
-    "isNew": true,
-    "summary": "An AI Infra Summit 2026 panel with AI and technology leaders from U.S. Bank, Carrier and JLL on how large enterprises decide what to build and what to buy in their AI stacks.",
-    "takeaways": [
-      "Build-versus-buy is now a decision for each use case",
-      "Configuration is replacing heavy customisation",
-      "Watch AI usage costs as adoption grows"
-    ],
-    "applyIt": "Decide which AI features to buy within the CAFM and Zoho Creator platforms and which few workflows justify a custom build."
-  },
-  {
-    "id": "fm-019",
-    "title": "What Is Total Productive Maintenance (TPM)?",
-    "department": "Facilities Management",
-    "topic": "Total Productive Maintenance",
-    "level": "Foundation",
-    "source": "Training Academy",
-    "channel": "Educationleaves",
-    "publishDate": "2026-11-02",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/WzKV4h2pl0w",
-    "isNew": true,
-    "summary": "Introduces Total Productive Maintenance, explaining how it works, its eight pillars, the 5S method and its advantages.",
-    "takeaways": [
-      "TPM makes maintenance everyone's responsibility",
-      "Eight pillars cover maintenance, quality, training and safety",
-      "5S provides the workplace foundation"
-    ],
-    "applyIt": "Apply 5S to stores and plant rooms, and train site teams to carry out simple routine checks on the equipment they operate."
   },
   {
     "id": "pv-020",
@@ -3053,46 +1802,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "applyIt": "Build a category view of major spend such as HVAC spares, chemicals and subcontracted labour before the next round of supplier tenders."
   },
   {
-    "id": "hr-015",
-    "title": "How to Properly Onboard a New Employee",
-    "department": "HR",
-    "topic": "Onboarding",
-    "level": "Foundation",
-    "source": "Industry Expert",
-    "channel": "Adi Klevit",
-    "publishDate": "2026-11-03",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/IIgzQQltLNU",
-    "isNew": true,
-    "summary": "Explains how a structured onboarding experience that starts before day one and runs through a 90-day period, supported by checklists and SOPs, improves retention and productivity.",
-    "takeaways": [
-      "Start onboarding before the first day",
-      "Plan a 90-day period and build skills gradually",
-      "Use checklists and SOPs to avoid information overload"
-    ],
-    "applyIt": "Create a 90-day onboarding checklist for new site technicians covering safety induction, CAFM use and supervised work on each contract."
-  },
-  {
-    "id": "qhse-015",
-    "title": "Root Cause Problem Solving: Fishbone Analysis and 5 Whys",
-    "department": "Quality & HSE",
-    "topic": "Root Cause Analysis",
-    "level": "Practitioner",
-    "source": "Industry Expert",
-    "channel": "Luca Balestrieri",
-    "publishDate": "2026-11-03",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/fuq0a_IFibY",
-    "isNew": true,
-    "summary": "A Lean Six Sigma lesson on using fishbone analysis and the 5 Whys together to move from a visible problem to its underlying root cause.",
-    "takeaways": [
-      "Use a fishbone diagram to map possible causes",
-      "Use the 5 Whys to drill down on the likely ones",
-      "Fix the root cause rather than the symptom"
-    ],
-    "applyIt": "Run a fishbone and 5 Whys review on repeat HVAC breakdown call-outs, and record the corrective action in the CAFM work order."
-  },
-  {
     "id": "bd-016",
     "title": "The Best Way to Win a Negotiation — Deepak Malhotra",
     "department": "Business Development",
@@ -3111,26 +1820,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Apply a consistent approach to major deals"
     ],
     "applyIt": "Prepare a written negotiation plan before renewal talks on major FM contracts with developers and government clients."
-  },
-  {
-    "id": "it-014",
-    "title": "ITSM & ITIL Explained Simply: Beginner's Guide",
-    "department": "IT",
-    "topic": "IT Service Management",
-    "level": "Foundation",
-    "source": "Training Academy",
-    "channel": "Knewget",
-    "publishDate": "2026-11-03",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/c3QfSmKo4QA",
-    "isNew": true,
-    "summary": "A beginner's introduction to IT service management and ITIL, covering utility versus warranty, the Service Value System and the guiding principles.",
-    "takeaways": [
-      "ITIL works like a recipe book for delivering IT services",
-      "A service needs both utility and warranty",
-      "The Service Value System links activities to value"
-    ],
-    "applyIt": "Apply the same service thinking to Al Bonian FM's internal IT helpdesk and to CAFM and Zoho Creator support requests."
   },
   {
     "id": "fm-020",
@@ -3174,47 +1863,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "applyIt": "Add ESG data such as energy performance and plant condition to inspection reports so that valuers and property owners have the evidence they need."
   },
   {
-    "id": "ai-011",
-    "title": "AI News Roundup: Gemini 4 Carbon, GPT-6.1 Terra, Anthropic IPO and More",
-    "department": "AI News",
-    "topic": "Weekly Roundup",
-    "level": "Foundation",
-    "source": "Industry Expert",
-    "channel": "AI Search",
-    "publishDate": "2026-11-03",
-    "videoDate": "2026-10-31",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/IGICYFyP_EI",
-    "isNew": true,
-    "summary": "The video reports on the week's AI developments, including Gemini 4 Carbon, Genie 4, GPT-6.1 Terra and the Anthropic IPO, alongside a range of research and product items.",
-    "takeaways": [
-      "New model releases are arriving at a rapid pace",
-      "Research and product news move together",
-      "Check claims in roundups against primary sources"
-    ],
-    "applyIt": "Use a short weekly AI update to help the IT team judge which new tools are worth a controlled trial for FM reporting and helpdesk work."
-  },
-  {
-    "id": "fin-016",
-    "title": "Finance KPIs That Actually Matter: Measuring the Finance Team's Impact",
-    "department": "Finance",
-    "topic": "Finance KPIs",
-    "level": "Executive",
-    "source": "Industry Expert",
-    "channel": "Financial Leadership Foundations (Alysha Randall)",
-    "publishDate": "2026-11-05",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/5jnVEEGCsOk",
-    "isNew": true,
-    "summary": "A fractional CFO sets out ten KPIs for judging a finance team, such as month-end close time, forecast accuracy and automation rate, to show its efficiency and strategic value.",
-    "takeaways": [
-      "Measure the finance function itself, not only company results",
-      "Track close speed and forecast accuracy as core indicators",
-      "Use automation rate to show where manual work remains"
-    ],
-    "applyIt": "Set a short KPI scorecard for Al Bonian FM's finance team, covering month-end close time and contract forecast accuracy, and review it monthly with senior management."
-  },
-  {
     "id": "lead-017",
     "title": "5 Ways to Listen Better — Julian Treasure",
     "department": "Leadership",
@@ -3233,66 +1881,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Listening improves with regular, deliberate practice"
     ],
     "applyIt": "Ask supervisors to open site toolbox talks by listening first, then summarising what technicians report before giving instructions."
-  },
-  {
-    "id": "proc-015",
-    "title": "Spend Analysis in Procurement: Six Practical Steps",
-    "department": "Procurement",
-    "topic": "Spend Analysis",
-    "level": "Practitioner",
-    "source": "Training Academy",
-    "channel": "Supply Chain Doctrine",
-    "publishDate": "2026-11-05",
-    "duration": "9:21",
-    "embedUrl": "https://www.youtube.com/embed/QXsZDgEK624",
-    "isNew": true,
-    "summary": "The video explains spend analysis as a six-step process running from data collection and categorisation through spend visibility and savings opportunities to supplier analysis and benchmarking.",
-    "takeaways": [
-      "Clean and categorise purchase data before analysing it",
-      "Use spend visibility to find savings opportunities",
-      "Benchmark suppliers and keep monitoring results"
-    ],
-    "applyIt": "Export a year of purchase orders, group spend by MEP category and subcontractor, and use the result to pick the first supplier agreements to renegotiate."
-  },
-  {
-    "id": "hr-016",
-    "title": "What Is Strategic Workforce Planning?",
-    "department": "HR",
-    "topic": "Workforce Planning",
-    "level": "Executive",
-    "source": "Industry Expert",
-    "channel": "Tracey Smith, The Voice for Practical Analytics",
-    "publishDate": "2026-11-05",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/lU-B-4BIASk",
-    "isNew": true,
-    "summary": "The author of a guide on the subject introduces strategic workforce planning as putting the right people in the right place at the right time and cost.",
-    "takeaways": [
-      "Link workforce plans directly to business strategy",
-      "Plan for people, place, timing and cost together",
-      "Prepare back-up plans before gaps appear"
-    ],
-    "applyIt": "Map expected contract wins and renewals against technician headcount and skills so senior managers can decide early whether to hire, train or subcontract."
-  },
-  {
-    "id": "qhse-016",
-    "title": "The 5 Steps to Risk Assessment",
-    "department": "Quality & HSE",
-    "topic": "Risk Assessment",
-    "level": "Foundation",
-    "source": "Training Academy",
-    "channel": "HASpod",
-    "publishDate": "2026-11-05",
-    "duration": "5:20",
-    "embedUrl": "https://www.youtube.com/embed/BzkhrD33YvI",
-    "isNew": true,
-    "summary": "A short guide to the five stages of a risk assessment: identifying hazards, deciding who may be harmed, evaluating risks and precautions, recording findings, and reviewing.",
-    "takeaways": [
-      "Start by identifying hazards in the actual task",
-      "Decide who could be harmed and how",
-      "Record findings and review them when work changes"
-    ],
-    "applyIt": "Use the five steps as the standard format when supervisors prepare risk assessments for work at height, hot work and plant-room tasks on client sites."
   },
   {
     "id": "bd-017",
@@ -3333,26 +1921,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Use the story to justify strategy and investment"
     ],
     "applyIt": "Replace technical IT updates to senior management with a short cyber report showing the business impact of risks to CAFM, Zoho Creator and client data."
-  },
-  {
-    "id": "fm-021",
-    "title": "Maintenance Planning and Scheduling Basics",
-    "department": "Facilities Management",
-    "topic": "Planning & Scheduling",
-    "level": "Foundation",
-    "source": "Industry Expert",
-    "channel": "Project Engineering Management Ltd (Matthew Laskaj)",
-    "publishDate": "2026-11-05",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/MCKyv3LiMvI",
-    "isNew": true,
-    "summary": "A chartered engineer explains the difference between planning, which covers what work is needed, with what resources and how, and scheduling, which covers when and by whom.",
-    "takeaways": [
-      "Planning defines what, how and with what resources",
-      "Scheduling sets when the work happens and who does it",
-      "Aim for maximum uptime at minimum maintenance cost"
-    ],
-    "applyIt": "Have planners confirm scope, parts and tools in the CAFM system for each PPM work order before the scheduler assigns it to a technician and date."
   },
   {
     "id": "pv-022",
@@ -3397,26 +1965,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "applyIt": "Require a named person to check any AI-assisted inspection report or compliance advice before it goes to a client, and record who reviewed it."
   },
   {
-    "id": "fin-017",
-    "title": "The Income Statement Basics Explained",
-    "department": "Finance",
-    "topic": "Income Statement",
-    "level": "Foundation",
-    "source": "Training Academy",
-    "channel": "Financeable Training",
-    "publishDate": "2026-11-06",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/vBdPq64Z6w8",
-    "isNew": true,
-    "summary": "A simple visual walkthrough of how an income statement is built and what its main lines mean for people new to finance.",
-    "takeaways": [
-      "Read the statement top down from revenue to profit",
-      "Separate direct costs from overheads",
-      "Profit for a period is not the same as cash received"
-    ],
-    "applyIt": "Walk each contract manager through a one-page income statement for their site so they can see how labour, materials and subcontractor costs reduce margin."
-  },
-  {
     "id": "lead-018",
     "title": "Kotter's 8-Step Change Model Explained",
     "department": "Leadership",
@@ -3437,26 +1985,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "applyIt": "Use the eight steps as the checklist for the next system or process rollout, such as moving site teams onto a new Zoho Creator or CAFM workflow."
   },
   {
-    "id": "proc-016",
-    "title": "Strategies for Effective Contract Negotiation and Management",
-    "department": "Procurement",
-    "topic": "Contract Management",
-    "level": "Executive",
-    "source": "Industry Expert",
-    "channel": "CPSCP",
-    "publishDate": "2026-11-06",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/4ddD6V6hIcI",
-    "isNew": true,
-    "summary": "Treats a contract as a working roadmap for cost, risk and performance rather than paperwork to file once signed.",
-    "takeaways": [
-      "Negotiate with cost, risk and performance in view",
-      "Manage the contract after signature, not only before",
-      "Assign clear ownership of obligations"
-    ],
-    "applyIt": "Review the largest subcontractor agreements each quarter against agreed cost, risk and performance terms, and name an owner for each one."
-  },
-  {
     "id": "hr-017",
     "title": "How To Do Performance Management (AIHR Learning Bite)",
     "department": "HR",
@@ -3475,46 +2003,6 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Keep feedback going between formal reviews"
     ],
     "applyIt": "Give supervisors and site engineers a short set of goals tied to contract KPIs and review progress with them regularly rather than only at year end."
-  },
-  {
-    "id": "qhse-017",
-    "title": "How to Conduct an Internal Audit: ISO 9001 Step-by-Step Guide",
-    "department": "Quality & HSE",
-    "topic": "Internal Audits",
-    "level": "Practitioner",
-    "source": "Industry Expert",
-    "channel": "Sameh Herakly",
-    "publishDate": "2026-11-06",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/Se9aJVJBf08",
-    "isNew": true,
-    "summary": "A practical, step-by-step approach to planning and carrying out an ISO 9001 internal audit.",
-    "takeaways": [
-      "Plan audit scope and criteria before going on site",
-      "Base findings on objective evidence",
-      "Follow findings through to corrective action"
-    ],
-    "applyIt": "Schedule internal audits of site maintenance records against the management system and track each finding to closure in the CAFM or Zoho Creator log."
-  },
-  {
-    "id": "bd-018",
-    "title": "The New Sales Imperative",
-    "department": "Business Development",
-    "topic": "B2B Sales Strategy",
-    "level": "Executive",
-    "source": "Industry Expert",
-    "channel": "Victor Antonio",
-    "publishDate": "2026-11-06",
-    "duration": "",
-    "embedUrl": "https://www.youtube.com/embed/UnEwtnGNPl0",
-    "isNew": true,
-    "summary": "Discusses a Harvard Business Review article on selling in B2B markets and what it means for how sellers should engage buyers.",
-    "takeaways": [
-      "B2B buying decisions rarely rest with one person",
-      "Help buyers make the decision more easily",
-      "Review your sales approach against how clients really buy"
-    ],
-    "applyIt": "For developer and government tenders, map everyone who influences the FM award and give each of them what they need to support the decision."
   },
   {
     "id": "it-016",
@@ -3597,5 +2085,408 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Check agent running costs before committing"
     ],
     "applyIt": "Before adopting AI agents for helpdesk or reporting work, estimate the running cost per task and pilot on one contract rather than rolling out across all sites."
+  },
+  {
+    "id": "fin-018",
+    "title": "How to Prepare a Cash Flow Statement",
+    "department": "Finance",
+    "topic": "Cash Flow",
+    "level": "Foundation",
+    "source": "Professional Body",
+    "channel": "HBS Online (Harvard Business School)",
+    "publishDate": "2026-11-06",
+    "duration": "2:35",
+    "embedUrl": "https://www.youtube.com/embed/ozniWle1BN4",
+    "isNew": true,
+    "summary": "Harvard Business School Online walks through the three sections of the cash flow statement and how to build one from opening balance to ending cash, using the direct or indirect method.",
+    "takeaways": [
+      "Cash flow has three sections: operating, investing and financing.",
+      "The indirect method starts from net income and adjusts for non-cash items.",
+      "Cash flow shows liquidity in a way the balance sheet cannot."
+    ],
+    "applyIt": "Ask Finance to present a simple monthly cash flow statement for each major contract alongside the P&L."
+  },
+  {
+    "id": "fin-019",
+    "title": "How to Read and Understand a Balance Sheet",
+    "department": "Finance",
+    "topic": "Financial Statements",
+    "level": "Foundation",
+    "source": "Professional Body",
+    "channel": "HBS Online (Harvard Business School)",
+    "publishDate": "2026-11-06",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/BfXhpe1XxdI",
+    "isNew": true,
+    "summary": "Explains the balance sheet equation, current and non-current assets and liabilities, and owner's equity, with a worked example of how managers and investors read it.",
+    "takeaways": [
+      "Assets always equal liabilities plus owner's equity.",
+      "Current items convert or fall due within a year.",
+      "The balance sheet is a snapshot of one date."
+    ],
+    "applyIt": "Review the receivables and payables lines on the company balance sheet each quarter to track how much cash is tied up."
+  },
+  {
+    "id": "fin-020",
+    "title": "What Is Return on Investment (ROI)?",
+    "department": "Finance",
+    "topic": "Investment Decisions",
+    "level": "Practitioner",
+    "source": "Professional Body",
+    "channel": "HBS Online (Harvard Business School)",
+    "publishDate": "2026-11-06",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/3tVTn7MCuRY",
+    "isNew": true,
+    "summary": "Defines anticipated and actual ROI, gives the standard formula, and shows how managers use it to justify, compare and review projects.",
+    "takeaways": [
+      "ROI = net profit ÷ cost of investment × 100.",
+      "Estimate ROI before a project and measure it after.",
+      "Use ROI to prioritise which initiatives to fund."
+    ],
+    "applyIt": "Require an anticipated-ROI line in every capex request, such as new tools, vehicles or software, and check actual ROI after six months."
+  },
+  {
+    "id": "fin-021",
+    "title": "Cash Flow vs. Profit: What's the Difference?",
+    "department": "Finance",
+    "topic": "Cash Flow",
+    "level": "Foundation",
+    "source": "Professional Body",
+    "channel": "HBS Online (Harvard Business School)",
+    "publishDate": "2026-11-06",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/lkEtgnhsV04",
+    "isNew": true,
+    "summary": "Explains why profit (on the income statement) and cash flow (on the cash flow statement) measure different things, and how a profitable company can still run short of cash.",
+    "takeaways": [
+      "Profit is revenue minus expenses; cash flow is money in and out.",
+      "A profitable business can still have negative cash flow.",
+      "Track both together to judge financial health."
+    ],
+    "applyIt": "On contracts with long client payment terms, report cash position next to profit so that 'profitable but cash-negative' sites are visible early."
+  },
+  {
+    "id": "proc-017",
+    "title": "Contract Management Masterclass: Roles, Responsibilities and Common Mistakes",
+    "department": "Procurement",
+    "topic": "Contract Management",
+    "level": "Practitioner",
+    "source": "Professional Body",
+    "channel": "CIPS (MENA)",
+    "publishDate": "2026-11-06",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/iDalWOpOEkQ",
+    "isNew": true,
+    "summary": "A CIPS Middle East masterclass on contract management roles, stakeholder and supplier relationship management, the Kraljic matrix and the common mistakes that cause contracts to fail.",
+    "takeaways": [
+      "Contract success starts with a clear scope and must-have vs nice-to-have needs.",
+      "Relationship management matters as much as the terms.",
+      "Use the Kraljic matrix to decide how much effort each supplier needs."
+    ],
+    "applyIt": "Hold a kick-off with each major subcontractor at award to agree scope, KPIs and escalation routes before work starts."
+  },
+  {
+    "id": "proc-018",
+    "title": "Middle East Conflict: Implications for Supplier Relationships and Contracts",
+    "department": "Procurement",
+    "topic": "Contract Risk",
+    "level": "Executive",
+    "source": "Professional Body",
+    "channel": "CIPS",
+    "publishDate": "2026-11-06",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/tmMXAsgfZVM",
+    "isNew": true,
+    "summary": "A CIPS expert panel, with Gulf-based lawyers and consultants, on force majeure versus hardship, price escalation, contract clauses and supplier relationships during the 2026 Middle East conflict.",
+    "takeaways": [
+      "Force majeure and hardship are different and treated differently by local law.",
+      "Check how your contracts handle price escalation and supply disruption.",
+      "Talk to suppliers early rather than waiting for disputes."
+    ],
+    "applyIt": "Review force majeure and price-escalation clauses in your top supplier and subcontractor contracts against UAE law."
+  },
+  {
+    "id": "proc-019",
+    "title": "The CIPS Contract Management Cycle",
+    "department": "Procurement",
+    "topic": "Contract Management",
+    "level": "Practitioner",
+    "source": "Professional Body",
+    "channel": "CIPS (Colin Linton, FCIPS)",
+    "publishDate": "2026-11-06",
+    "duration": "42:14",
+    "embedUrl": "https://www.youtube.com/embed/mlpfHcN2opg",
+    "isNew": true,
+    "summary": "A CIPS podcast presenting the phases of the CIPS contract management cycle, why problems still arise on contracts, and how to maintain important contracts throughout their life.",
+    "takeaways": [
+      "Most contract problems are created before award.",
+      "Important contracts need active management throughout their life.",
+      "Contract managers need commercial, legal and relationship skills."
+    ],
+    "applyIt": "Map each major FM subcontract to the contract management cycle and name who owns each phase."
+  },
+  {
+    "id": "proc-020",
+    "title": "7 Tips for Successful Supplier Relationship Management",
+    "department": "Procurement",
+    "topic": "Supplier Management",
+    "level": "Foundation",
+    "source": "Professional Body",
+    "channel": "CIPS",
+    "publishDate": "2026-11-06",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/Kvb_MFw2UQY",
+    "isNew": true,
+    "summary": "CIPS shares seven practical tips for building productive, long-term relationships with key suppliers.",
+    "takeaways": [
+      "Segment suppliers and focus SRM effort on the critical ones.",
+      "Agree shared goals and measures with key suppliers.",
+      "Review performance regularly and openly."
+    ],
+    "applyIt": "Pick your five most critical subcontractors and schedule a quarterly performance review with each."
+  },
+  {
+    "id": "proc-021",
+    "title": "3 Ways to Improve Supplier Collaboration",
+    "department": "Procurement",
+    "topic": "Supplier Management",
+    "level": "Practitioner",
+    "source": "Professional Body",
+    "channel": "CIPS",
+    "publishDate": "2026-11-06",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/jyY6Wosu8iw",
+    "isNew": true,
+    "summary": "CIPS outlines three ways buyers can move from transactional supplier dealings to genuine collaboration that improves resilience and value.",
+    "takeaways": [
+      "Share information and forecasts with key suppliers.",
+      "Collaborate on cost and improvement ideas, not just price.",
+      "Build trust through consistent, fair behaviour."
+    ],
+    "applyIt": "Share next quarter's planned PPM and project volumes with key material suppliers to secure better lead times and prices."
+  },
+  {
+    "id": "hr-018",
+    "title": "5 Key Success Factors of a Performance Appraisal",
+    "department": "HR",
+    "topic": "Performance Management",
+    "level": "Foundation",
+    "source": "Professional Body",
+    "channel": "AIHR - Academy to Innovate HR",
+    "publishDate": "2026-11-06",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/2Ww4KEnUhec",
+    "isNew": true,
+    "summary": "AIHR explains what a performance appraisal is and five best practices: use a clear outline, involve the employee, address difficult points early, give regular feedback and document carefully.",
+    "takeaways": [
+      "Employee participation drives buy-in and perceived fairness.",
+      "Use a structured form for every appraisal.",
+      "Document appraisals consistently for later decisions."
+    ],
+    "applyIt": "Introduce one standard appraisal form for all supervisors and require employee self-assessment before the meeting."
+  },
+  {
+    "id": "hr-019",
+    "title": "What Is Quiet Hiring? Gartner Expert Answers",
+    "department": "HR",
+    "topic": "Workforce Planning",
+    "level": "Executive",
+    "source": "Professional Body",
+    "channel": "Gartner (Emily Rose McRae)",
+    "publishDate": "2026-11-06",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/-rrALHQOiAI",
+    "isNew": true,
+    "summary": "A Gartner senior research director explains quiet hiring, gaining skills by redeploying and upskilling staff or using contractors instead of adding headcount, and its pros and cons.",
+    "takeaways": [
+      "Quiet hiring fills skill gaps without new full-time headcount.",
+      "Redeployed employees should be recognised and rewarded.",
+      "Be transparent so staff don't fear sudden role changes."
+    ],
+    "applyIt": "Before approving a new hire, check whether an existing technician or engineer could be upskilled into the role."
+  },
+  {
+    "id": "hr-020",
+    "title": "Behavioral Interviewing and Values-Based Hiring (Honest HR)",
+    "department": "HR",
+    "topic": "Recruitment",
+    "level": "Practitioner",
+    "source": "Professional Body",
+    "channel": "SHRM (David Cohen)",
+    "publishDate": "2026-11-06",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/c7qJJGjd4iI",
+    "isNew": true,
+    "summary": "SHRM's Honest HR podcast with author David Cohen on behavioural interviewing, values-based selection, panel interviews and the role and limits of AI in recruiting.",
+    "takeaways": [
+      "Define the behaviours behind your values before interviewing.",
+      "Panel interviews with structured debriefs improve accuracy.",
+      "Use AI to support, not replace, hiring judgement."
+    ],
+    "applyIt": "Agree three behaviours that reflect Al Bonian's values and build one behavioural question for each into supervisor interviews."
+  },
+  {
+    "id": "hr-021",
+    "title": "Rethinking Talent Management for Business Success",
+    "department": "HR",
+    "topic": "Talent Management",
+    "level": "Executive",
+    "source": "Professional Body",
+    "channel": "AIHR - Academy to Innovate HR",
+    "publishDate": "2026-11-06",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/TnMEfR6Iv8U",
+    "isNew": true,
+    "summary": "An AIHR HR Dialogues episode with practitioners on applying talent-experience principles to modern talent management.",
+    "takeaways": [
+      "Design talent processes around the employee experience.",
+      "Link talent management to business priorities.",
+      "Use practitioner experience to test new approaches."
+    ],
+    "applyIt": "Map the career path for site supervisors to engineers and share it with high performers."
+  },
+  {
+    "id": "qhse-018",
+    "title": "ISO 45001: Demystifying the Standard",
+    "department": "Quality & HSE",
+    "topic": "ISO 45001",
+    "level": "Practitioner",
+    "source": "Professional Body",
+    "channel": "IOSH",
+    "publishDate": "2026-11-06",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/ZO9uo7r62qo",
+    "isNew": true,
+    "summary": "An IOSH webinar walking through the structure and key requirements of ISO 45001, including context of the organisation, interested parties, leadership, worker participation and risk-based planning.",
+    "takeaways": [
+      "ISO 45001 shares the common structure of other ISO management systems.",
+      "Top management must lead and evidence a safety culture.",
+      "Worker consultation and participation are mandatory."
+    ],
+    "applyIt": "Run a gap analysis of the company's HSE system against ISO 45001 clauses 4–6 before any certification step."
+  },
+  {
+    "id": "qhse-019",
+    "title": "IOSH Model of Safety: Applying Cultural Maturity",
+    "department": "Quality & HSE",
+    "topic": "Safety Culture",
+    "level": "Executive",
+    "source": "Professional Body",
+    "channel": "IOSH",
+    "publishDate": "2026-11-06",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/f6-uKeflziE",
+    "isNew": true,
+    "summary": "An IOSH session on applying cultural maturity principles to safety, and why leadership and culture determine whether systems and procedures succeed.",
+    "takeaways": [
+      "Systems only work when the culture supports them.",
+      "Assess where your safety culture sits on a maturity scale.",
+      "Leaders set the pace of cultural improvement."
+    ],
+    "applyIt": "Run a short safety culture survey across sites to find where behaviours lag behind written procedures."
+  },
+  {
+    "id": "qhse-020",
+    "title": "Introduction to Incident Investigation",
+    "department": "Quality & HSE",
+    "topic": "Incident Investigation",
+    "level": "Foundation",
+    "source": "Professional Body",
+    "channel": "NEBOSH",
+    "publishDate": "2026-11-06",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/ZoTep65qQWY",
+    "isNew": true,
+    "summary": "NEBOSH introduces the purpose and basic method of investigating workplace incidents to find causes and prevent recurrence.",
+    "takeaways": [
+      "Investigate to learn, not to blame.",
+      "Look for immediate, underlying and root causes.",
+      "Track corrective actions to completion."
+    ],
+    "applyIt": "Use one standard incident investigation form across all sites and review open actions monthly."
+  },
+  {
+    "id": "qhse-021",
+    "title": "Why ISO 45003 Matters: Psychological Health and Safety",
+    "department": "Quality & HSE",
+    "topic": "Wellbeing",
+    "level": "Practitioner",
+    "source": "Regulator",
+    "channel": "Health and Safety Executive (Peter Kelly)",
+    "publishDate": "2026-11-06",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/ZR_tLcd0UdY",
+    "isNew": true,
+    "summary": "Peter Kelly of the UK Health and Safety Executive explains the importance of ISO 45003 guidance on managing psychosocial risks at work.",
+    "takeaways": [
+      "Psychosocial risks such as workload and stress are part of H&S.",
+      "ISO 45003 gives guidance within an ISO 45001 system.",
+      "Manage psychosocial hazards like any other risk."
+    ],
+    "applyIt": "Add workload, heat stress and fatigue for site teams to the HSE risk register with clear controls."
+  },
+  {
+    "id": "ai-014",
+    "title": "How the Midterm Results Change AI",
+    "department": "AI News",
+    "topic": "AI Policy",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "The AI Daily Brief",
+    "publishDate": "2026-11-06",
+    "duration": "24:41",
+    "embedUrl": "https://www.youtube.com/embed/rSzMJZEgYeU",
+    "isNew": true,
+    "summary": "The AI Daily Brief analyses what the 2026 US midterm results mean for AI regulation and data center build-out, drawing on Pew and exit-poll data, as the host's analysis.",
+    "takeaways": [
+      "Voter concern focused on data centers more than AI itself.",
+      "More AI rules are likely as model capabilities grow.",
+      "Infrastructure developers will need better deals with local communities."
+    ],
+    "applyIt": "Track how new US and UAE AI rules could affect the AI tools and cloud providers the company relies on.",
+    "videoDate": "2026-11-04"
+  },
+  {
+    "id": "ai-015",
+    "title": "How to Deslopify Your AI",
+    "department": "AI News",
+    "topic": "AI at Work",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "The AI Daily Brief (with Niloofar Razi Howe)",
+    "publishDate": "2026-11-06",
+    "duration": "43:00",
+    "embedUrl": "https://www.youtube.com/embed/QSZKZHeGZr4",
+    "isNew": true,
+    "summary": "An interview episode on spotting and removing low-quality, generic 'slop' from AI-generated work.",
+    "takeaways": [
+      "AI output needs human review before it is shared.",
+      "Clear instructions and context reduce generic output.",
+      "Quality checks should be built into AI workflows."
+    ],
+    "applyIt": "Set a rule that any AI-drafted client report or proposal is reviewed and edited by the responsible manager before sending.",
+    "videoDate": "2026-11-02"
+  },
+  {
+    "id": "ai-016",
+    "title": "AI Won't Make Our Minds Useless, According to 400 Years of History",
+    "department": "AI News",
+    "topic": "AI and Work",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "The AI Daily Brief",
+    "publishDate": "2026-11-06",
+    "duration": "27:00",
+    "embedUrl": "https://www.youtube.com/embed/9VHxHcU0uVY",
+    "isNew": true,
+    "summary": "The AI Daily Brief looks at past technology shifts to examine fears that AI will weaken human thinking skills.",
+    "takeaways": [
+      "New technologies have long raised fears about human skills.",
+      "How tools are used matters more than the tools themselves.",
+      "Keep people practising core judgement skills."
+    ],
+    "applyIt": "Pair AI tool adoption with training so staff still learn the underlying technical and commercial skills.",
+    "videoDate": "2026-11-01"
   }
 ];
