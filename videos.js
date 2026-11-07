@@ -2488,5 +2488,146 @@ window.ALBONIAN_MGMT_VIDEOS = [
     ],
     "applyIt": "Pair AI tool adoption with training so staff still learn the underlying technical and commercial skills.",
     "videoDate": "2026-11-01"
+  },
+  {
+    "publishDate": "2026-11-07",
+    "isNew": true,
+    "id": "fin-022",
+    "title": "Budgeting and Forecasting: From Strategy to Execution",
+    "department": "Finance",
+    "topic": "Budgeting & Forecasting",
+    "level": "Practitioner",
+    "source": "Professional Body",
+    "channel": "Corporate Finance Institute",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/HPDBgabluLM",
+    "summary": "A CFI course module that links budgets to strategy, covers budgeting methods and forecasting techniques, and explains variance analysis between budget and forecast.",
+    "takeaways": [
+      "Link the budget to the business plan and strategic targets so it funds execution.",
+      "Build forecasts from explicit drivers and compare them with the budget through variance analysis.",
+      "Track a small set of financial and non-financial KPIs to test whether the budget is working."
+    ],
+    "applyIt": "Use driver-based forecasts and monthly variance reviews on Al Bonian FM maintenance contracts to catch cost overruns early."
+  },
+  {
+    "publishDate": "2026-11-07",
+    "isNew": true,
+    "id": "lead-019",
+    "title": "In Uncertain Times, Ask This Question Before You Make a Decision",
+    "department": "Leadership",
+    "topic": "Decision-Making",
+    "level": "Executive",
+    "source": "Professional Body",
+    "channel": "Harvard Business Review",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/P9agz-KjGww",
+    "summary": "Decisive founder Cheryl Strauss Einhorn argues that persistent volatility calls for resilience-focused decisions and offers a guiding question leaders can ask before acting.",
+    "takeaways": [
+      "Treat volatility as a lasting condition rather than something to wait out.",
+      "Judge decisions by whether they build systems that can flex and endure, not only by fast recovery.",
+      "Test a decision against a concrete case, as the speaker does with a COO dealing with a repeatedly late vendor."
+    ],
+    "applyIt": "When Al Bonian FM faces repeated subcontractor delays, use the same question to choose between a short-term fix and a resilient supply arrangement."
+  },
+  {
+    "publishDate": "2026-11-07",
+    "isNew": true,
+    "id": "hr-022",
+    "title": "From Orientation to Connection: A New Approach to Onboarding",
+    "department": "HR",
+    "topic": "Onboarding",
+    "level": "Practitioner",
+    "source": "Professional Body",
+    "channel": "SHRM",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/kbZHbHKV2M8",
+    "summary": "A SHRM Honest HR episode in which Vanderbilt University staff describe redesigning onboarding from an administrative checklist into a structured experience that sets new hires up for engagement and retention.",
+    "takeaways": [
+      "Treat onboarding as a planned process that drives engagement and retention, not a paperwork checklist.",
+      "Have systems, access and the workspace ready so new hires can start the real work early.",
+      "Build connection and culture into the first days so new staff ask fewer basic questions."
+    ],
+    "applyIt": "Have supervisors at Al Bonian FM prepare access, PPE and a site induction before a new technician starts, so they can join live maintenance work quickly."
+  },
+  {
+    "publishDate": "2026-11-07",
+    "isNew": true,
+    "id": "bd-018",
+    "title": "How to Progress Customers Through the B2B Sales Funnel",
+    "department": "Business Development",
+    "topic": "B2B Sales Funnel",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "Gartner",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/2CUg-9ucDng",
+    "summary": "A Gartner sales-practice talk argues that B2B buyers complete six jobs across digital and in-person channels in a looping, non-linear path, so sellers should supply the information buyers need for each job.",
+    "takeaways": [
+      "Map the jobs buyers must complete and provide the specific information for each one.",
+      "Expect buyers to revisit earlier stages rather than move in a straight line through the funnel.",
+      "Align marketing and sales around buyer-enablement information that works in both digital and in-person channels."
+    ],
+    "applyIt": "Structure Al Bonian FM proposals and client pitches around what property owners, developers and government bodies need to decide at each stage."
+  },
+  {
+    "publishDate": "2026-11-07",
+    "isNew": true,
+    "id": "it-017",
+    "title": "Windows Server administration AZ-800 | Episode 4",
+    "department": "IT",
+    "topic": "Server Administration",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "Microsoft Learn",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/jFssZjDzuuk",
+    "summary": "A Microsoft Learn episode covering secure Windows Server administration, the main admin tools, post-installation configuration and Just Enough Administration.",
+    "takeaways": [
+      "Use secure administration practices and suitable tools when managing Windows Server remotely.",
+      "Complete post-installation configuration as a defined step before a server goes into service.",
+      "Use Just Enough Administration to limit privileged access to the tasks each role needs."
+    ],
+    "applyIt": "Apply least-privilege remote administration and documented post-install builds to the on-premise servers that support Al Bonian FM's CAFM and Zoho Creator integrations."
+  },
+  {
+    "publishDate": "2026-11-07",
+    "isNew": true,
+    "id": "fm-023",
+    "title": "Shifting from a reactive 'firefighting' culture to a proactive one",
+    "department": "Facilities Management",
+    "topic": "Proactive Maintenance Culture",
+    "level": "Executive",
+    "source": "Professional Body",
+    "channel": "Reliabilityweb TV",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/bAUQ_VVLVps",
+    "summary": "A Reliabilityweb TV discussion on moving an asset management team from reactive firefighting toward proactive maintenance, including how to win buy-in from a younger team.",
+    "takeaways": [
+      "Diagnose whether the team is in firefighting mode before setting proactive targets.",
+      "Build buy-in with the team, especially newer staff who have not yet worked with asset management concepts.",
+      "Name the roadblocks openly, then work through them one at a time."
+    ],
+    "applyIt": "Use the same diagnosis across Al Bonian FM site teams to move technicians from reactive call-outs toward planned preventive work tracked in CAFM."
+  },
+  {
+    "publishDate": "2026-11-07",
+    "isNew": true,
+    "id": "pv-024",
+    "title": "Detailed Home Inspection According to a Standard of Practice",
+    "department": "Property Inspection & Valuation",
+    "topic": "Inspection Standards of Practice",
+    "level": "Foundation",
+    "format": "Process",
+    "source": "Professional Body",
+    "channel": "InterNACHI",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/9fsjyXLg76o",
+    "summary": "An InterNACHI class that walks through a full residential inspection against the InterNACHI Standards of Practice, starting with the roof and using the standard as the outline for reporting.",
+    "takeaways": [
+      "Use a recognised standard of practice as the minimum scope and as the outline for the report.",
+      "Inspect in a fixed sequence so every component in scope is covered and recorded.",
+      "Report only what is visually observed, and state clearly what the inspection did not cover."
+    ],
+    "applyIt": "Use a standards-based checklist with visual-only reporting for Al Bonian FM snagging and property inspection reports so defects are recorded consistently."
   }
 ];
