@@ -1,4 +1,3 @@
-// =====================================================================
 // Al Bonian FM — Management Academy video library
 // ---------------------------------------------------------------------
 // index.html loads this file. Every entry below appears in the portal.
@@ -1466,7 +1465,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-31",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/YVWpipM-Rnw",
-    "isNew": true,
+    "isNew": false,
     "summary": "Stanford professor Lindred Greer explains why unmanaged team conflict spreads and hurts productivity and retention, and how leaders can contain and resolve it.",
     "takeaways": [
       "Unaddressed conflict spreads across a team and drives turnover",
@@ -1486,7 +1485,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-31",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/dCwcOhscDlY",
-    "isNew": true,
+    "isNew": false,
     "summary": "CIPD Middle East and law firm Clyde & Co walk employers through the federal UAE labour law reforms, covering fixed-term contracts, new work models, leave and working-hours rules.",
     "takeaways": [
       "All employment contracts must now be fixed-term under the federal law",
@@ -1506,7 +1505,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-10-31",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/F2TlSzmPmlc",
-    "isNew": true,
+    "isNew": false,
     "summary": "Zoho introduces how Creator’s drag-and-drop builders, templates, code snippets and integrations let teams build custom business apps quickly.",
     "takeaways": [
       "Visual builders and templates speed up form and report creation",
@@ -2629,5 +2628,26 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Report only what is visually observed, and state clearly what the inspection did not cover."
     ],
     "applyIt": "Use a standards-based checklist with visual-only reporting for Al Bonian FM snagging and property inspection reports so defects are recorded consistently."
+  },
+  {
+    "id": "ai-017",
+    "title": "Companies Are Spending 5x More on AI Now",
+    "department": "AI News",
+    "topic": "Enterprise AI Spend",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "The AI Daily Brief",
+    "publishDate": "2026-11-08",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/INC89yHLexM",
+    "isNew": true,
+    "summary": "The AI Daily Brief walks through Menlo Ventures' fourth State of Enterprise AI report, which estimates enterprise AI spend at almost $177 billion in 2026 as agents shift budgets from seats to tokens. The episode's headlines also cover the AI stock drawdown, doubts around the Anthropic IPO and METR's report on faster AI-led research.",
+    "takeaways": [
+      "Menlo estimates average spend per enterprise rose about 4.7x, roughly 2.5 times what companies had budgeted.",
+      "Budgets built around per-seat pricing are colliding with per-token costs driven by AI agents.",
+      "Buyers are choosing frontier-model capability over cost, with frontier models taking 63% of spend."
+    ],
+    "applyIt": "Review how Al Bonian FM budgets for AI tools and set usage-based cost tracking before rolling out any AI agents across the team.",
+    "videoDate": "2026-11-06"
   }
 ];
