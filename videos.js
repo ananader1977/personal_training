@@ -1525,7 +1525,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-01",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/-Tf-FhF1RVk",
-    "isNew": true,
+    "isNew": false,
     "summary": "Michael Timms explains how blame cycles undermine results and outlines three personal-accountability habits that leaders can model to build ownership across an organisation.",
     "takeaways": [
       "Blame protects egos but stops learning and improvement",
@@ -1545,7 +1545,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-01",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/SDvC53j7vTU",
-    "isNew": true,
+    "isNew": false,
     "summary": "A NEBOSH webinar on what effective health and safety leadership looks like in practice, drawing on the UK HSE's leadership model that underpins NEBOSH's leadership qualification.",
     "takeaways": [
       "Safety leadership is shown through visible behaviour, not slogans",
@@ -1565,7 +1565,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-01",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/v2FUxirOFyA",
-    "isNew": true,
+    "isNew": false,
     "summary": "A practical guide for facility managers on implementing a building automation system, from assessing needs and selecting a solution through commissioning, training and ongoing optimisation.",
     "takeaways": [
       "Define facility goals and needs before selecting a BAS",
@@ -1586,7 +1586,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-01",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/Y9P2aSYu-vM",
-    "isNew": true,
+    "isNew": false,
     "summary": "A BCIS expert panel explains underinsurance, why reinstatement cost differs from market value, and why rebuild cost assessments need regular updating for inflation and building changes.",
     "takeaways": [
       "Reinstatement cost is the rebuild cost, not market value",
@@ -1607,7 +1607,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "videoDate": "2026-10-09",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/9f3qnX6aiIE",
-    "isNew": true,
+    "isNew": false,
     "summary": "Wharton professor Ethan Mollick argues leaders should redesign their organisations around what AI makes possible, explains how AI agents change the manager's role, and names four capabilities leaders need: deep knowledge, wide knowledge, taste and agency.",
     "takeaways": [
       "Redesign work around AI, don't just automate old tasks.",
@@ -1628,7 +1628,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "videoDate": "2026-09-17",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/07JaHf4oW6I",
-    "isNew": true,
+    "isNew": false,
     "summary": "Tristan Harris reviews a week of AI news including rogue-agent hacking incidents, researcher warnings about the pace of development and calls from AI leaders to slow down, and suggests practical steps to reduce risks.",
     "takeaways": [
       "AI risks are growing alongside AI capabilities.",
@@ -1649,7 +1649,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "videoDate": "2025-12-04",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/5dgpcQXq1eo",
-    "isNew": true,
+    "isNew": false,
     "summary": "Gartner analysts present the top strategic technology trends for 2026 live from IT Symposium/Xpo, framed around building resilient foundations, orchestrating intelligent systems and protecting enterprise value.",
     "takeaways": [
       "Trends are grouped around foundations, intelligence and protection.",
@@ -2649,5 +2649,46 @@ window.ALBONIAN_MGMT_VIDEOS = [
     ],
     "applyIt": "Review how Al Bonian FM budgets for AI tools and set usage-based cost tracking before rolling out any AI agents across the team.",
     "videoDate": "2026-11-06"
+  },
+  {
+    "id": "lead-020",
+    "title": "Why Optimistic Leaders Get Better Results",
+    "department": "Leadership",
+    "topic": "Resilient Optimism",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "Harvard Business Review",
+    "publishDate": "2026-11-09",
+    "duration": "27:19",
+    "embedUrl": "https://www.youtube.com/embed/YLN930f7RE0",
+    "isNew": true,
+    "summary": "Michelle Gielan, author of Resilient Optimism, tells HBR that rational optimism means assessing reality realistically while believing your behaviour makes a difference. She cites an 11-year data set of more than 25,000 business professionals linking high optimism to higher productivity, stronger engagement and lower burnout.",
+    "takeaways": [
+      "Rational optimism combines a realistic read of the situation with the belief that your next action matters.",
+      "Highly optimistic professionals were reported as three times more likely to be highly engaged and five times less likely to burn out.",
+      "Managers can build it by being mindful of the information they take in and by giving specific recognition and gratitude to the team."
+    ],
+    "applyIt": "Open your next Al Bonian FM site team briefing by naming the real operational problem and then asking each supervisor for one action they will take this week."
+  },
+  {
+    "id": "ai-018",
+    "title": "How a Data Center Slowdown Benefits Big Tech",
+    "department": "AI News",
+    "topic": "AI Infrastructure and Policy",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "The AI Daily Brief",
+    "publishDate": "2026-11-09",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/ssEWGHjKHTM",
+    "isNew": true,
+    "summary": "The AI Daily Brief argues that a policy-driven slowdown in US data center build-out after the midterm elections may help hyperscalers lower capex forecasts without a market crash. It notes that Google, Meta, Amazon and Microsoft all came in under their Q3 capex targets, citing construction delays.",
+    "takeaways": [
+      "Markets rose after the midterms, with the S&P 500 up 1.6% and the Mag 7 adding about a trillion dollars in value.",
+      "Supply-chain, labour and power constraints were already slowing data center construction before any new regulation.",
+      "Democratic candidates are pushing data centers to pay for their own energy, recycle water and get community consent."
+    ],
+    "applyIt": "Ask Al Bonian FM's IT lead to check whether any planned AI or cloud tool purchases depend on vendors exposed to data center capacity or pricing changes.",
+    "videoDate": "2026-11-05"
   }
 ];
