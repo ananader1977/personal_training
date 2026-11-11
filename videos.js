@@ -1669,7 +1669,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-02",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/2B2fyub1ZTY",
-    "isNew": true,
+    "isNew": false,
     "summary": "A primer for managers on the principles of constructive feedback, using the Situation-Behaviour-Impact model and covering delivery and follow-up.",
     "takeaways": [
       "Describe the situation, the behaviour and its impact",
@@ -1689,7 +1689,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-02",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/EbTgFsKYYKo",
-    "isNew": true,
+    "isNew": false,
     "summary": "Former LinkedIn CHRO Steve Cadigan argues that retention strategies built for longer careers need updating, and discusses shorter tenures, skills development and staying connected with former employees.",
     "takeaways": [
       "Plan talent strategy around shorter tenures",
@@ -1710,7 +1710,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-02",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/Gm2WQtskYwc",
-    "isNew": true,
+    "isNew": false,
     "summary": "Certified inspector Rob Claus inspects a commercial roof, covering access and safety, the roof surface, water runoff, rooftop equipment openings, flashing and parapet walls.",
     "takeaways": [
       "Start with safe roof access",
@@ -1731,7 +1731,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "videoDate": "2026-10-26",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/R4yyk8JJc80",
-    "isNew": true,
+    "isNew": false,
     "summary": "The video reports on Anthropic's IPO filing, framing it as showing both rapid growth and uncertainty over AI demand and spending, and also covers wider markets and AI-driven debt.",
     "takeaways": [
       "The filing is a test of investor confidence in AI",
@@ -1751,7 +1751,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-03",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/hMBN6yTIDb0",
-    "isNew": true,
+    "isNew": false,
     "summary": "Walks through the three sections of the cash flow statement, the direct and indirect methods, and how the statement ties back to the balance sheet.",
     "takeaways": [
       "Separate cash from operations, investing and financing",
@@ -1771,7 +1771,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-03",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/__IruMEh7ZE",
-    "isNew": true,
+    "isNew": false,
     "summary": "Shows people leaders how to delegate with clear expectations and follow-up, matching the approach to each person's skills and readiness while avoiding micromanagement.",
     "takeaways": [
       "Set clear expectations and agree how you will follow up",
@@ -1791,7 +1791,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-03",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/fiXG9__L2Vk",
-    "isNew": true,
+    "isNew": false,
     "summary": "National Grid's VP of global procurement argues that category management is the foundation of procurement and that strategic sourcing works best when it starts from deep category analysis.",
     "takeaways": [
       "Treat category management as the foundation of procurement",
@@ -1811,7 +1811,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-03",
     "duration": "46:25",
     "embedUrl": "https://www.youtube.com/embed/bUi5R54Oqig",
-    "isNew": true,
+    "isNew": false,
     "summary": "Harvard Business School professor and Negotiation Genius co-author Deepak Malhotra sets out how to approach and win negotiations.",
     "takeaways": [
       "Prepare your approach before you negotiate",
@@ -1831,7 +1831,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-03",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/DtV5Ny50JMU",
-    "isNew": true,
+    "isNew": false,
     "summary": "UpKeep's founder explains why MTBF and MTTR matter, how they vary, how to calculate them and how to improve them.",
     "takeaways": [
       "Track MTBF and MTTR to see reliability trends",
@@ -1852,7 +1852,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-03",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/wZ_XlcVSTRM",
-    "isNew": true,
+    "isNew": false,
     "summary": "Explains the RICS professional standard on sustainability and ESG in commercial property valuation, including how these factors affect value and how it relates to Red Book and IVS compliance.",
     "takeaways": [
       "ESG factors can affect commercial property value",
@@ -2690,5 +2690,46 @@ window.ALBONIAN_MGMT_VIDEOS = [
     ],
     "applyIt": "Ask Al Bonian FM's IT lead to check whether any planned AI or cloud tool purchases depend on vendors exposed to data center capacity or pricing changes.",
     "videoDate": "2026-11-05"
+  },
+  {
+    "id": "it-018",
+    "title": "Can Your AI Use Sensitive Data Safely? 5 Capabilities You Need",
+    "department": "IT",
+    "topic": "AI Data Security",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "IBM Technology",
+    "publishDate": "2026-11-11",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/jnP9AgtX0qo",
+    "isNew": true,
+    "summary": "IBM's Jeff Crume sets out five controls for using sensitive data with AI systems: visibility, classification, residency and sovereignty, access control, and evidence. He explains the difference between data residency, sovereignty and localization, and the four As of identity and access management.",
+    "takeaways": [
+      "You cannot protect sensitive data you cannot see, so build a single view of where it lives.",
+      "Classify data automatically before AI consumes it, and know which jurisdiction's laws apply.",
+      "Keep immutable audit trails showing where data moved and which AI workloads used it."
+    ],
+    "applyIt": "Ask the IT lead to list which AI tools staff use at Al Bonian FM and confirm client and tenant data is classified and access-controlled before any tool can reach it."
+  },
+  {
+    "id": "ai-019",
+    "title": "Agentic Video is Real and Here's What You Should Try",
+    "department": "AI News",
+    "topic": "Agentic Video",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "The AI Daily Brief",
+    "publishDate": "2026-11-11",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/M-o7viCDaBw",
+    "isNew": true,
+    "summary": "The AI Daily Brief explains eight changes that now let AI agents edit, animate and produce video from plain-language instructions, including AI that can watch footage and connectors that pull in meeting and call recordings. It then outlines when video beats a document and three levels for getting started.",
+    "takeaways": [
+      "Video editing is becoming a conversation with an AI agent rather than a timeline task.",
+      "Video suits repeated explanations, onboarding and time-poor audiences who will not read a document.",
+      "Start by editing existing recordings, then move to animated updates and recurring video pipelines."
+    ],
+    "applyIt": "Pilot a short AI-edited highlight video of a toolbox talk or site-handover briefing for FM supervisors in Dubai instead of circulating another written update.",
+    "videoDate": "2026-11-09"
   }
 ];
