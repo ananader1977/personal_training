@@ -2731,5 +2731,46 @@ window.ALBONIAN_MGMT_VIDEOS = [
     ],
     "applyIt": "Pilot a short AI-edited highlight video of a toolbox talk or site-handover briefing for FM supervisors in Dubai instead of circulating another written update.",
     "videoDate": "2026-11-09"
+  },
+  {
+    "id": "it-019",
+    "title": "Spec-Driven Development vs. Waterfall: What's Different for AI Coding?",
+    "department": "IT",
+    "topic": "AI-Assisted Software Delivery",
+    "level": "Practitioner",
+    "source": "Training Academy",
+    "channel": "IBM Technology",
+    "publishDate": "2026-11-12",
+    "duration": "7:38",
+    "embedUrl": "https://www.youtube.com/embed/GpZ5T51jE4U",
+    "isNew": true,
+    "summary": "IBM's Cedric Clyburn compares spec-driven development with the waterfall method and explains that a spec kept in a short build-validate-refine loop gives AI coding agents the context they need. He notes specs can also carry security and governance requirements such as authentication, no personal data in logs and no hard-coded secrets.",
+    "takeaways": [
+      "A frozen up-front spec handed to an AI agent is just waterfall that fails faster; keep the spec iterative.",
+      "Version-control the spec beside the code so it guides implementation, testing and validation.",
+      "Write security and compliance requirements into the spec early, but skip specs for quick bug fixes."
+    ],
+    "applyIt": "Ask the IT lead to write a one-page spec, including access-control and data-handling rules, before any AI-assisted work on the Al Bonian FM work-order or tenant-portal tools."
+  },
+  {
+    "id": "ai-020",
+    "title": "Fable 5.2 vs Opus 5.5 and When to Use Each",
+    "department": "AI News",
+    "topic": "Frontier Model Release",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "The AI Daily Brief",
+    "publishDate": "2026-11-12",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/mJMKygU_G5g",
+    "isNew": true,
+    "summary": "The AI Daily Brief reviews Anthropic's Fable 5.2 release, covering its benchmark results, a 20% per-token price cut and the very high cost per task at max effort. It then weighs early user reactions on when Opus 5.5 remains the better everyday choice.",
+    "takeaways": [
+      "Fable 5.2 leads most benchmarks, but gains in agentic knowledge work are modest versus Opus 5.5.",
+      "Per-token prices fell 20%, yet max-effort runs cost far more per task than Opus 5.5.",
+      "Reserve the top model for ambitious tasks and use lower effort settings for routine work."
+    ],
+    "applyIt": "Have the IT lead check which AI model tier Al Bonian FM staff use and set a default of a cheaper tier for routine reporting, reserving the premium model for complex analysis.",
+    "videoDate": "2026-11-10"
   }
 ];
