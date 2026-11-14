@@ -1,4 +1,3 @@
-// Al Bonian FM — Management Academy video library
 // ---------------------------------------------------------------------
 // index.html loads this file. Every entry below appears in the portal.
 // To add a video, append a NEW entry at the end of the array with a
@@ -1872,7 +1871,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-05",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/cSohjlYQI2A",
-    "isNew": true,
+    "isNew": false,
     "summary": "Sound expert Julian Treasure explains why people are losing the habit of careful listening and offers five simple exercises to rebuild it.",
     "takeaways": [
       "People retain only part of what they hear",
@@ -1892,7 +1891,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-05",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/TRogoqdBBfQ",
-    "isNew": true,
+    "isNew": false,
     "summary": "The video presents a ten-part key account management model that follows the customer lifecycle from implementation to retention, built around mutual value and risk contingencies.",
     "takeaways": [
       "Treat key accounts as a full lifecycle, not one sale",
@@ -1912,7 +1911,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-05",
     "duration": "27:30",
     "embedUrl": "https://www.youtube.com/embed/OVRqrsR07dE",
-    "isNew": true,
+    "isNew": false,
     "summary": "Avertro CEO Ian Yip uses real examples of cybersecurity reporting to show what executives and boards care about and which metrics answer their \"why\" and \"so what\" questions.",
     "takeaways": [
       "Report cyber risk in terms leaders care about",
@@ -1933,7 +1932,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-05",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/QuL3GLwLaE4",
-    "isNew": true,
+    "isNew": false,
     "summary": "A surveying firm walks through a terminal dilapidations assessment on a commercial lease, covering the lease, the schedule of dilapidations and the inspection.",
     "takeaways": [
       "Start with the lease and its repair obligations",
@@ -1954,7 +1953,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "videoDate": "2026-11-03",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/lbKCC6njCVc",
-    "isNew": true,
+    "isNew": false,
     "summary": "The video reports on the financial figures and risk factors in Anthropic's S-1 filing, a lawsuit against OpenAI over chatbot medical advice, and research on how AI influences professional judgement.",
     "takeaways": [
       "Read vendor risk disclosures before relying on a tool",
@@ -1974,7 +1973,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-06",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/-MTsoOUsU0Y",
-    "isNew": true,
+    "isNew": false,
     "summary": "Explains why change programmes fade after a confident launch and how Kotter's eight steps give leaders a structured way to guide people through change.",
     "takeaways": [
       "Build urgency before announcing the plan",
@@ -1994,7 +1993,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-06",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/WjvHPdlKoEA",
-    "isNew": true,
+    "isNew": false,
     "summary": "A short introduction to what performance management is and how organisations put it into practice.",
     "takeaways": [
       "Treat performance management as a process, not a form",
@@ -2014,7 +2013,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-06",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/WJzsX32qMJY",
-    "isNew": true,
+    "isNew": false,
     "summary": "Explains the 3-2-1 backup approach, along with immutability and disaster recovery, as ways to protect data from loss.",
     "takeaways": [
       "Keep three copies of important data",
@@ -2034,7 +2033,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-06",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/U6xflqPW3QY",
-    "isNew": true,
+    "isNew": false,
     "summary": "Explains what failure modes and effects analysis is, the main types of FMEA and how the method is used.",
     "takeaways": [
       "List how each asset could fail and the effect",
@@ -2055,7 +2054,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-06",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/5-WCuEOzj_o",
-    "isNew": true,
+    "isNew": false,
     "summary": "Follows an HVAC inspection of a multi-tenant office, comparing a solo approach with a team approach across the roof units and the occupied spaces.",
     "takeaways": [
       "Record data-plate details for each unit",
@@ -2076,7 +2075,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "videoDate": "2026-11-04",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/Es59icF3nZg",
-    "isNew": true,
+    "isNew": false,
     "summary": "The video reports on Elon Musk's doubts about personal AI agents, an MIT paper in which a larger model edits a smaller model's weights, and how investors are weighing recursive self-improvement.",
     "takeaways": [
       "Recursive self-improvement means AI helping improve AI",
@@ -2096,7 +2095,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-06",
     "duration": "2:35",
     "embedUrl": "https://www.youtube.com/embed/ozniWle1BN4",
-    "isNew": true,
+    "isNew": false,
     "summary": "Harvard Business School Online walks through the three sections of the cash flow statement and how to build one from opening balance to ending cash, using the direct or indirect method.",
     "takeaways": [
       "Cash flow has three sections: operating, investing and financing.",
@@ -2116,7 +2115,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-06",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/BfXhpe1XxdI",
-    "isNew": true,
+    "isNew": false,
     "summary": "Explains the balance sheet equation, current and non-current assets and liabilities, and owner's equity, with a worked example of how managers and investors read it.",
     "takeaways": [
       "Assets always equal liabilities plus owner's equity.",
@@ -2136,7 +2135,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-06",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/3tVTn7MCuRY",
-    "isNew": true,
+    "isNew": false,
     "summary": "Defines anticipated and actual ROI, gives the standard formula, and shows how managers use it to justify, compare and review projects.",
     "takeaways": [
       "ROI = net profit ÷ cost of investment × 100.",
@@ -2156,7 +2155,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-06",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/lkEtgnhsV04",
-    "isNew": true,
+    "isNew": false,
     "summary": "Explains why profit (on the income statement) and cash flow (on the cash flow statement) measure different things, and how a profitable company can still run short of cash.",
     "takeaways": [
       "Profit is revenue minus expenses; cash flow is money in and out.",
@@ -2176,7 +2175,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-06",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/iDalWOpOEkQ",
-    "isNew": true,
+    "isNew": false,
     "summary": "A CIPS Middle East masterclass on contract management roles, stakeholder and supplier relationship management, the Kraljic matrix and the common mistakes that cause contracts to fail.",
     "takeaways": [
       "Contract success starts with a clear scope and must-have vs nice-to-have needs.",
@@ -2196,7 +2195,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-06",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/tmMXAsgfZVM",
-    "isNew": true,
+    "isNew": false,
     "summary": "A CIPS expert panel, with Gulf-based lawyers and consultants, on force majeure versus hardship, price escalation, contract clauses and supplier relationships during the 2026 Middle East conflict.",
     "takeaways": [
       "Force majeure and hardship are different and treated differently by local law.",
@@ -2216,7 +2215,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-06",
     "duration": "42:14",
     "embedUrl": "https://www.youtube.com/embed/mlpfHcN2opg",
-    "isNew": true,
+    "isNew": false,
     "summary": "A CIPS podcast presenting the phases of the CIPS contract management cycle, why problems still arise on contracts, and how to maintain important contracts throughout their life.",
     "takeaways": [
       "Most contract problems are created before award.",
@@ -2236,7 +2235,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-06",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/Kvb_MFw2UQY",
-    "isNew": true,
+    "isNew": false,
     "summary": "CIPS shares seven practical tips for building productive, long-term relationships with key suppliers.",
     "takeaways": [
       "Segment suppliers and focus SRM effort on the critical ones.",
@@ -2256,7 +2255,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-06",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/jyY6Wosu8iw",
-    "isNew": true,
+    "isNew": false,
     "summary": "CIPS outlines three ways buyers can move from transactional supplier dealings to genuine collaboration that improves resilience and value.",
     "takeaways": [
       "Share information and forecasts with key suppliers.",
@@ -2276,7 +2275,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-06",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/2Ww4KEnUhec",
-    "isNew": true,
+    "isNew": false,
     "summary": "AIHR explains what a performance appraisal is and five best practices: use a clear outline, involve the employee, address difficult points early, give regular feedback and document carefully.",
     "takeaways": [
       "Employee participation drives buy-in and perceived fairness.",
@@ -2296,7 +2295,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-06",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/-rrALHQOiAI",
-    "isNew": true,
+    "isNew": false,
     "summary": "A Gartner senior research director explains quiet hiring, gaining skills by redeploying and upskilling staff or using contractors instead of adding headcount, and its pros and cons.",
     "takeaways": [
       "Quiet hiring fills skill gaps without new full-time headcount.",
@@ -2316,7 +2315,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-06",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/c7qJJGjd4iI",
-    "isNew": true,
+    "isNew": false,
     "summary": "SHRM's Honest HR podcast with author David Cohen on behavioural interviewing, values-based selection, panel interviews and the role and limits of AI in recruiting.",
     "takeaways": [
       "Define the behaviours behind your values before interviewing.",
@@ -2336,7 +2335,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-06",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/TnMEfR6Iv8U",
-    "isNew": true,
+    "isNew": false,
     "summary": "An AIHR HR Dialogues episode with practitioners on applying talent-experience principles to modern talent management.",
     "takeaways": [
       "Design talent processes around the employee experience.",
@@ -2356,7 +2355,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-06",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/ZO9uo7r62qo",
-    "isNew": true,
+    "isNew": false,
     "summary": "An IOSH webinar walking through the structure and key requirements of ISO 45001, including context of the organisation, interested parties, leadership, worker participation and risk-based planning.",
     "takeaways": [
       "ISO 45001 shares the common structure of other ISO management systems.",
@@ -2376,7 +2375,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-06",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/f6-uKeflziE",
-    "isNew": true,
+    "isNew": false,
     "summary": "An IOSH session on applying cultural maturity principles to safety, and why leadership and culture determine whether systems and procedures succeed.",
     "takeaways": [
       "Systems only work when the culture supports them.",
@@ -2396,7 +2395,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-06",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/ZoTep65qQWY",
-    "isNew": true,
+    "isNew": false,
     "summary": "NEBOSH introduces the purpose and basic method of investigating workplace incidents to find causes and prevent recurrence.",
     "takeaways": [
       "Investigate to learn, not to blame.",
@@ -2416,7 +2415,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-06",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/ZR_tLcd0UdY",
-    "isNew": true,
+    "isNew": false,
     "summary": "Peter Kelly of the UK Health and Safety Executive explains the importance of ISO 45003 guidance on managing psychosocial risks at work.",
     "takeaways": [
       "Psychosocial risks such as workload and stress are part of H&S.",
@@ -2436,7 +2435,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-06",
     "duration": "24:41",
     "embedUrl": "https://www.youtube.com/embed/rSzMJZEgYeU",
-    "isNew": true,
+    "isNew": false,
     "summary": "The AI Daily Brief analyses what the 2026 US midterm results mean for AI regulation and data center build-out, drawing on Pew and exit-poll data, as the host's analysis.",
     "takeaways": [
       "Voter concern focused on data centers more than AI itself.",
@@ -2457,7 +2456,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-06",
     "duration": "43:00",
     "embedUrl": "https://www.youtube.com/embed/QSZKZHeGZr4",
-    "isNew": true,
+    "isNew": false,
     "summary": "An interview episode on spotting and removing low-quality, generic 'slop' from AI-generated work.",
     "takeaways": [
       "AI output needs human review before it is shared.",
@@ -2478,7 +2477,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-06",
     "duration": "27:00",
     "embedUrl": "https://www.youtube.com/embed/9VHxHcU0uVY",
-    "isNew": true,
+    "isNew": false,
     "summary": "The AI Daily Brief looks at past technology shifts to examine fears that AI will weaken human thinking skills.",
     "takeaways": [
       "New technologies have long raised fears about human skills.",
@@ -2772,5 +2771,26 @@ window.ALBONIAN_MGMT_VIDEOS = [
     ],
     "applyIt": "Have the IT lead check which AI model tier Al Bonian FM staff use and set a default of a cheaper tier for routine reporting, reserving the premium model for complex analysis.",
     "videoDate": "2026-11-10"
+  },
+  {
+    "id": "ai-021",
+    "title": "Jensen Huang Is Out. Everything in AI Is Now Up for Grabs.",
+    "department": "AI News",
+    "topic": "AI Industry Leadership & Policy",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "The AI Daily Brief",
+    "publishDate": "2026-11-14",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/Dt7Q_VQxGHc",
+    "isNew": true,
+    "summary": "The AI Daily Brief covers Nvidia's announcement that Jensen Huang is stepping down as CEO and leaving the board, with CFO Colette Kress named interim CEO and Harvey C. Jones its first chairman. The episode recaps the week of reporting that preceded it and looks at what changes for the AI industry, including China policy and the financing behind the AI build-out.",
+    "takeaways": [
+      "Nvidia named Colette Kress interim CEO and Harvey C. Jones its first-ever chairman.",
+      "Reporting had said Nvidia had no succession plan, highlighting key-person risk at a major AI supplier.",
+      "Chip export policy and AI financing commitments are the areas most likely to shift next."
+    ],
+    "applyIt": "Ask the IT lead whether any Al Bonian FM tools depend on a single AI or hardware vendor, and note a fallback option for each.",
+    "videoDate": "2026-11-12"
   }
 ];
