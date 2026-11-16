@@ -2639,7 +2639,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-08",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/INC89yHLexM",
-    "isNew": true,
+    "isNew": false,
     "summary": "The AI Daily Brief walks through Menlo Ventures' fourth State of Enterprise AI report, which estimates enterprise AI spend at almost $177 billion in 2026 as agents shift budgets from seats to tokens. The episode's headlines also cover the AI stock drawdown, doubts around the Anthropic IPO and METR's report on faster AI-led research.",
     "takeaways": [
       "Menlo estimates average spend per enterprise rose about 4.7x, roughly 2.5 times what companies had budgeted.",
@@ -2792,5 +2792,26 @@ window.ALBONIAN_MGMT_VIDEOS = [
     ],
     "applyIt": "Ask the IT lead whether any Al Bonian FM tools depend on a single AI or hardware vendor, and note a fallback option for each.",
     "videoDate": "2026-11-12"
+  },
+  {
+      "id": "ai-022",
+      "title": "Wall Street Has No Idea What Anthropic Is Worth",
+      "department": "AI News",
+      "topic": "AI Industry & Markets",
+      "level": "Executive",
+      "source": "Industry Expert",
+      "channel": "The AI Daily Brief",
+      "publishDate": "2026-11-16",
+      "duration": "",
+      "embedUrl": "https://www.youtube.com/embed/gCOMQPMhIL0",
+      "isNew": true,
+      "summary": "Covers Anthropic's IPO pricing, with a reported ask of $70-78 per share implying a $1.25-1.4 trillion valuation and a raise of roughly $57-64 billion. It also discusses the bull and bear arguments on valuation, including run-rate revenue reported at $81 billion and the disclosed compute commitments.",
+      "takeaways": [
+          "Anthropic's IPO paperwork reportedly implied a valuation of $1.25-1.4 trillion, and the FT reported banks considering a top-end of $1.5 trillion after strong demand.",
+          "Run-rate revenue was reported up $10 billion in October to $81 billion, driven mainly by coding-agent use.",
+          "Updated filings disclosed $10 billion in new Microsoft and Google compute commitments and a $35 billion Lambda deal that could be cancelled."
+      ],
+      "applyIt": "Ask the IT lead to list which AI vendors Al Bonian FM depends on and note a fallback for any that rely on a single provider.",
+      "videoDate": "2026-11-11"
   }
 ];
