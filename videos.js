@@ -2489,7 +2489,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
   },
   {
     "publishDate": "2026-11-07",
-    "isNew": true,
+    "isNew": false,
     "id": "fin-022",
     "title": "Budgeting and Forecasting: From Strategy to Execution",
     "department": "Finance",
@@ -2509,7 +2509,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
   },
   {
     "publishDate": "2026-11-07",
-    "isNew": true,
+    "isNew": false,
     "id": "lead-019",
     "title": "In Uncertain Times, Ask This Question Before You Make a Decision",
     "department": "Leadership",
@@ -2529,7 +2529,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
   },
   {
     "publishDate": "2026-11-07",
-    "isNew": true,
+    "isNew": false,
     "id": "hr-022",
     "title": "From Orientation to Connection: A New Approach to Onboarding",
     "department": "HR",
@@ -2549,7 +2549,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
   },
   {
     "publishDate": "2026-11-07",
-    "isNew": true,
+    "isNew": false,
     "id": "bd-018",
     "title": "How to Progress Customers Through the B2B Sales Funnel",
     "department": "Business Development",
@@ -2569,7 +2569,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
   },
   {
     "publishDate": "2026-11-07",
-    "isNew": true,
+    "isNew": false,
     "id": "it-017",
     "title": "Windows Server administration AZ-800 | Episode 4",
     "department": "IT",
@@ -2589,7 +2589,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
   },
   {
     "publishDate": "2026-11-07",
-    "isNew": true,
+    "isNew": false,
     "id": "fm-023",
     "title": "Shifting from a reactive 'firefighting' culture to a proactive one",
     "department": "Facilities Management",
@@ -2609,7 +2609,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
   },
   {
     "publishDate": "2026-11-07",
-    "isNew": true,
+    "isNew": false,
     "id": "pv-024",
     "title": "Detailed Home Inspection According to a Standard of Practice",
     "department": "Property Inspection & Valuation",
@@ -2660,7 +2660,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-09",
     "duration": "27:19",
     "embedUrl": "https://www.youtube.com/embed/YLN930f7RE0",
-    "isNew": true,
+    "isNew": false,
     "summary": "Michelle Gielan, author of Resilient Optimism, tells HBR that rational optimism means assessing reality realistically while believing your behaviour makes a difference. She cites an 11-year data set of more than 25,000 business professionals linking high optimism to higher productivity, stronger engagement and lower burnout.",
     "takeaways": [
       "Rational optimism combines a realistic read of the situation with the belief that your next action matters.",
@@ -2680,7 +2680,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-09",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/ssEWGHjKHTM",
-    "isNew": true,
+    "isNew": false,
     "summary": "The AI Daily Brief argues that a policy-driven slowdown in US data center build-out after the midterm elections may help hyperscalers lower capex forecasts without a market crash. It notes that Google, Meta, Amazon and Microsoft all came in under their Q3 capex targets, citing construction delays.",
     "takeaways": [
       "Markets rose after the midterms, with the S&P 500 up 1.6% and the Mag 7 adding about a trillion dollars in value.",
@@ -2813,5 +2813,25 @@ window.ALBONIAN_MGMT_VIDEOS = [
       ],
       "applyIt": "Ask the IT lead to list which AI vendors Al Bonian FM depends on and note a fallback for any that rely on a single provider.",
       "videoDate": "2026-11-11"
+  },
+  {
+    "id": "it-020",
+    "title": "The $6B Binance heist, Meta's AI bug tests and looming quantum deadlines",
+    "department": "IT",
+    "topic": "Cybersecurity",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "IBM Technology",
+    "publishDate": "2026-11-17",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/NuL5VFS8Prs",
+    "isNew": true,
+    "summary": "IBM's Security Intelligence panel discusses the Binance heist, in which about $6.34 billion was stolen after employee devices were compromised via an infected package manager and a fake job-interview assignment, with about $2.85 billion recovered or frozen. The panellists argue that attackers ignore organisational silos and that teams should automate containment, such as isolating devices and revoking tokens, rather than rely on human-paced playbooks.",
+    "takeaways": [
+      "Attackers researched the target and used believable pretexts to gain an initial foothold on employee devices.",
+      "Security teams work in silos (identity, secrets, SOC) while attackers do not, so coordination matters.",
+      "Detection should trigger containment automatically, with people then investigating what could come next."
+    ],
+    "applyIt": "Ask the IT lead to confirm that a compromised staff laptop at Al Bonian FM can be isolated and its sessions and tokens revoked within minutes, and to document who approves it."
   }
 ];
