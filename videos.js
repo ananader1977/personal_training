@@ -2833,5 +2833,46 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Detection should trigger containment automatically, with people then investigating what could come next."
     ],
     "applyIt": "Ask the IT lead to confirm that a compromised staff laptop at Al Bonian FM can be isolated and its sessions and tokens revoked within minutes, and to document who approves it."
+  },
+  {
+    "id": "it-021",
+    "title": "Is AI Really Superintelligence? ANI, AGI & ASI Explained",
+    "department": "IT",
+    "topic": "AI Fundamentals & Governance",
+    "level": "Foundation",
+    "source": "Industry Expert",
+    "channel": "IBM Technology",
+    "publishDate": "2026-11-18",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/0MvcuIrects",
+    "isNew": true,
+    "summary": "IBM's Jeff Crume defines intelligence as the ability to perceive, think, learn and act, then compares narrow AI (ANI), general AI (AGI) and superintelligence (ASI). He argues today's AI is still narrow and that more capable systems need security, testing, governance and human control.",
+    "takeaways": [
+      "Today's AI is narrow: very strong at some tasks and unreliable at others, including factual errors (hallucinations).",
+      "The video frames the risk as capability minus control, so guardrails must grow with capability.",
+      "Safeguards named include security, testing and evaluation, governance and keeping humans in the loop."
+    ],
+    "applyIt": "Ask the IT lead to define which tasks at Al Bonian FM an AI tool may perform unattended and which need human approval, and record this in a short AI-use policy."
+  },
+  {
+    "id": "ai-023",
+    "title": "Washington Fired Jensen Huang",
+    "department": "AI News",
+    "topic": "AI Policy & Chips",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "The AI Daily Brief",
+    "publishDate": "2026-11-18",
+    "duration": "26:06",
+    "embedUrl": "https://www.youtube.com/embed/1kf1QWG_YKQ",
+    "isNew": true,
+    "summary": "Examines the fallout from Jensen Huang's departure as Nvidia CEO and argues it marks the start of a new period in Washington in which China hawks are ascendant. Reports lawmakers' statements that AI chip export-control bills are likely to move in the lame-duck session, probably attached to the NDAA.",
+    "takeaways": [
+      "House Speaker Mike Johnson spoke of a developing consensus in Congress on chip export controls.",
+      "Senate Majority Leader John Thune said passing chip controls was becoming a high probability.",
+      "Chip export legislation was already expected on the lame-duck agenda, attached to the NDAA."
+    ],
+    "applyIt": "Ask the IT lead to list which AI and hardware suppliers Al Bonian FM relies on and flag any exposed to export-control or supply changes.",
+    "videoDate": "2026-11-14"
   }
 ];
