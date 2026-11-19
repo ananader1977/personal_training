@@ -2701,7 +2701,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-11",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/jnP9AgtX0qo",
-    "isNew": true,
+    "isNew": false,
     "summary": "IBM's Jeff Crume sets out five controls for using sensitive data with AI systems: visibility, classification, residency and sovereignty, access control, and evidence. He explains the difference between data residency, sovereignty and localization, and the four As of identity and access management.",
     "takeaways": [
       "You cannot protect sensitive data you cannot see, so build a single view of where it lives.",
@@ -2721,7 +2721,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-11",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/M-o7viCDaBw",
-    "isNew": true,
+    "isNew": false,
     "summary": "The AI Daily Brief explains eight changes that now let AI agents edit, animate and produce video from plain-language instructions, including AI that can watch footage and connectors that pull in meeting and call recordings. It then outlines when video beats a document and three levels for getting started.",
     "takeaways": [
       "Video editing is becoming a conversation with an AI agent rather than a timeline task.",
@@ -2874,5 +2874,27 @@ window.ALBONIAN_MGMT_VIDEOS = [
     ],
     "applyIt": "Ask the IT lead to list which AI and hardware suppliers Al Bonian FM relies on and flag any exposed to export-control or supply changes.",
     "videoDate": "2026-11-14"
+  },
+  {
+    "id": "ai-024",
+    "title": "How Business AI Use is Changing",
+    "department": "AI News",
+    "topic": "Enterprise AI Adoption",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "The AI Daily Brief",
+    "publishDate": "2026-11-19",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/YN4fId6Jn8k",
+    "isNew": true,
+    "summary": "Reviews three new studies of enterprise AI behaviour (Databricks, Arcana Research and the Ramp AI Index), which suggest leading companies are using price competition between models to grow usage faster than spend. Reports that Ramp saw token usage up 36% in a month against only 2% more spend, and that Databricks customers using two or more model providers rose to 72%.",
+    "takeaways": [
+      "Ramp found usage up 36% in a month while spend rose only 2%, as average token prices fell 21% across OpenAI and Anthropic in October.",
+      "Databricks reports 72% of companies on its gateway now use two or more model providers, so cost per successful task matters more than raw token price.",
+      "Arcana's survey found two-thirds of Global 2000 leaders lack visibility into what they spend on model and API usage."
+    ],
+    "applyIt": "Ask the IT lead to list every AI tool Al Bonian FM pays for and track its monthly cost against the tasks it completes, so spend is judged per outcome.",
+    "videoDate": "2026-11-17"
   }
 ];
+
