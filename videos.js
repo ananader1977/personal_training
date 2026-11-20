@@ -2742,7 +2742,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-12",
     "duration": "7:38",
     "embedUrl": "https://www.youtube.com/embed/GpZ5T51jE4U",
-    "isNew": true,
+    "isNew": false,
     "summary": "IBM's Cedric Clyburn compares spec-driven development with the waterfall method and explains that a spec kept in a short build-validate-refine loop gives AI coding agents the context they need. He notes specs can also carry security and governance requirements such as authentication, no personal data in logs and no hard-coded secrets.",
     "takeaways": [
       "A frozen up-front spec handed to an AI agent is just waterfall that fails faster; keep the spec iterative.",
@@ -2762,7 +2762,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-12",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/mJMKygU_G5g",
-    "isNew": true,
+    "isNew": false,
     "summary": "The AI Daily Brief reviews Anthropic's Fable 5.2 release, covering its benchmark results, a 20% per-token price cut and the very high cost per task at max effort. It then weighs early user reactions on when Opus 5.5 remains the better everyday choice.",
     "takeaways": [
       "Fable 5.2 leads most benchmarks, but gains in agentic knowledge work are modest versus Opus 5.5.",
@@ -2794,25 +2794,25 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "videoDate": "2026-11-12"
   },
   {
-      "id": "ai-022",
-      "title": "Wall Street Has No Idea What Anthropic Is Worth",
-      "department": "AI News",
-      "topic": "AI Industry & Markets",
-      "level": "Executive",
-      "source": "Industry Expert",
-      "channel": "The AI Daily Brief",
-      "publishDate": "2026-11-16",
-      "duration": "",
-      "embedUrl": "https://www.youtube.com/embed/gCOMQPMhIL0",
-      "isNew": true,
-      "summary": "Covers Anthropic's IPO pricing, with a reported ask of $70-78 per share implying a $1.25-1.4 trillion valuation and a raise of roughly $57-64 billion. It also discusses the bull and bear arguments on valuation, including run-rate revenue reported at $81 billion and the disclosed compute commitments.",
-      "takeaways": [
-          "Anthropic's IPO paperwork reportedly implied a valuation of $1.25-1.4 trillion, and the FT reported banks considering a top-end of $1.5 trillion after strong demand.",
-          "Run-rate revenue was reported up $10 billion in October to $81 billion, driven mainly by coding-agent use.",
-          "Updated filings disclosed $10 billion in new Microsoft and Google compute commitments and a $35 billion Lambda deal that could be cancelled."
-      ],
-      "applyIt": "Ask the IT lead to list which AI vendors Al Bonian FM depends on and note a fallback for any that rely on a single provider.",
-      "videoDate": "2026-11-11"
+    "id": "ai-022",
+    "title": "Wall Street Has No Idea What Anthropic Is Worth",
+    "department": "AI News",
+    "topic": "AI Industry & Markets",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "The AI Daily Brief",
+    "publishDate": "2026-11-16",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/gCOMQPMhIL0",
+    "isNew": true,
+    "summary": "Covers Anthropic's IPO pricing, with a reported ask of $70-78 per share implying a $1.25-1.4 trillion valuation and a raise of roughly $57-64 billion. It also discusses the bull and bear arguments on valuation, including run-rate revenue reported at $81 billion and the disclosed compute commitments.",
+    "takeaways": [
+      "Anthropic's IPO paperwork reportedly implied a valuation of $1.25-1.4 trillion, and the FT reported banks considering a top-end of $1.5 trillion after strong demand.",
+      "Run-rate revenue was reported up $10 billion in October to $81 billion, driven mainly by coding-agent use.",
+      "Updated filings disclosed $10 billion in new Microsoft and Google compute commitments and a $35 billion Lambda deal that could be cancelled."
+    ],
+    "applyIt": "Ask the IT lead to list which AI vendors Al Bonian FM depends on and note a fallback for any that rely on a single provider.",
+    "videoDate": "2026-11-11"
   },
   {
     "id": "it-020",
@@ -2895,6 +2895,26 @@ window.ALBONIAN_MGMT_VIDEOS = [
     ],
     "applyIt": "Ask the IT lead to list every AI tool Al Bonian FM pays for and track its monthly cost against the tasks it completes, so spend is judged per outcome.",
     "videoDate": "2026-11-17"
+  },
+  {
+    "id": "ai-025",
+    "title": "Why the AI Kids Hate Astra 6.2",
+    "department": "AI News",
+    "topic": "AI Model Releases",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "The AI Daily Brief",
+    "publishDate": "2026-11-20",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/uSzew8QPRX0",
+    "isNew": true,
+    "summary": "Reviews the first reactions to OpenAI's GPT-6.2 Astra and Sol releases, which drew harsh early impressions from some testers and a regression on the Artificial Analysis coding agent index. It also reports that Astra's cost per task fell 35% to $4, and argues OpenAI is tuning for efficiency and professional work beyond coding.",
+    "takeaways": [
+      "Artificial Analysis measured GPT-6.2 Astra at $4 per task versus $6.24 for GPT-6 Astra, a 35% cost reduction.",
+      "Both new models regressed on the AA coding agent index, which shaped the negative early narrative.",
+      "The host's advice is to test new models on your own workflows rather than rely on first-day reviews."
+    ],
+    "applyIt": "Ask the IT lead to run a small side-by-side trial of the new model on two routine Al Bonian FM tasks, such as drafting work-order summaries, and compare cost and quality before changing tools.",
+    "videoDate": "2026-11-18"
   }
 ];
-
