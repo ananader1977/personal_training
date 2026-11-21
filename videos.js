@@ -2916,5 +2916,46 @@ window.ALBONIAN_MGMT_VIDEOS = [
     ],
     "applyIt": "Ask the IT lead to run a small side-by-side trial of the new model on two routine Al Bonian FM tasks, such as drafting work-order summaries, and compare cost and quality before changing tools.",
     "videoDate": "2026-11-18"
+  },
+  {
+    "id": "it-022",
+    "title": "Software Supply Chain Security: What AI Coding Changes",
+    "department": "IT",
+    "topic": "Cybersecurity",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "IBM Technology",
+    "publishDate": "2026-11-21",
+    "duration": "9:39",
+    "embedUrl": "https://www.youtube.com/embed/iv32wI3MBpw",
+    "isNew": true,
+    "summary": "IBM Technology explains that most of an application's code comes from dependencies, container images, build pipelines and now AI-generated code, using Log4j and SolarWinds as examples of supply chain attacks. It sets out four practical steps: know what is in your software with an SBOM, check early and automatically, verify independently, and prove provenance.",
+    "takeaways": [
+      "An SBOM (software bill of materials) lets you quickly see which components and versions are affected when a new critical vulnerability appears.",
+      "Automated early checks for vulnerable dependencies and exposed secrets are cheaper than finding problems near release.",
+      "AI agents should be treated like a fast new supplier: review their output with a separate model or session."
+    ],
+    "applyIt": "Ask the IT lead to request an SBOM or dependency list from each software vendor behind Al Bonian FM's CAFM and work-order systems and record who patches what."
+  },
+  {
+    "id": "ai-026",
+    "title": "5 Questions Shaping AI This Week",
+    "department": "AI News",
+    "topic": "AI Industry & Markets",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "The AI Daily Brief",
+    "publishDate": "2026-11-21",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/X8Nfe1smEYI",
+    "isNew": true,
+    "summary": "Host NLW frames the week around Anthropic's IPO, with a reported valuation target of $1.25 to $1.4 trillion and a raise of $57 to $64 billion plus a $26 billion private placement. He also covers Anthropic's disclosed compute commitments of over $900 billion, the campaign to bring Jensen Huang back to Nvidia, and three export control bills headed into NDAA negotiations.",
+    "takeaways": [
+      "Anthropic's disclosed compute commitments exceed $900 billion over a decade, with $71 billion due in the next year.",
+      "Once Anthropic is public, quarterly results will give fresh evidence on whether AI demand justifies its cost.",
+      "Three chip export control bills are set for NDAA negotiations, which must pass by year-end."
+    ],
+    "applyIt": "Ask the IT lead to note which AI vendors Al Bonian FM depends on and to check each contract for price-change and supply-continuity terms before year-end renewals.",
+    "videoDate": "2026-11-16"
   }
 ];
