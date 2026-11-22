@@ -2783,7 +2783,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-14",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/Dt7Q_VQxGHc",
-    "isNew": true,
+    "isNew": false,
     "summary": "The AI Daily Brief covers Nvidia's announcement that Jensen Huang is stepping down as CEO and leaving the board, with CFO Colette Kress named interim CEO and Harvey C. Jones its first chairman. The episode recaps the week of reporting that preceded it and looks at what changes for the AI industry, including China policy and the financing behind the AI build-out.",
     "takeaways": [
       "Nvidia named Colette Kress interim CEO and Harvey C. Jones its first-ever chairman.",
@@ -2957,5 +2957,66 @@ window.ALBONIAN_MGMT_VIDEOS = [
     ],
     "applyIt": "Ask the IT lead to note which AI vendors Al Bonian FM depends on and to check each contract for price-change and supply-continuity terms before year-end renewals.",
     "videoDate": "2026-11-16"
+  },
+  {
+    "id": "lead-021",
+    "title": "Block's Jack Dorsey on Building a Company Around Intelligence",
+    "department": "Leadership",
+    "topic": "Organisation Design",
+    "level": "Executive",
+    "source": "Professional Body",
+    "channel": "Harvard Business Review",
+    "publishDate": "2026-11-22",
+    "duration": "34:36",
+    "embedUrl": "https://www.youtube.com/embed/H2qTWKS8cm0",
+    "isNew": true,
+    "summary": "Block cofounder Jack Dorsey tells HBR's Alison Beard why he reorganised the company around functions and then around an 'intelligence', arguing that a company is itself a technology for moving information and accountability. He describes a flatter structure of individual contributors, directly responsible individuals and coaches instead of command and control.",
+    "takeaways": [
+      "A company's hierarchy is a technology for information flow, and it can be redesigned when information becomes easier to query.",
+      "Roles can be simplified to individual contributors, directly responsible individuals and coaches who help people master their craft.",
+      "When building is easy, good judgment about what to ship and maintain becomes the scarce skill."
+    ],
+    "applyIt": "Ask each Al Bonian FM department head to name one recurring approval or report chain that slows site decisions and test giving the supervisor direct access to the data to decide."
+  },
+  {
+    "id": "it-023",
+    "title": "4 Types of AI Agent Loops: From Human-Led to Autonomous",
+    "department": "IT",
+    "topic": "AI Agents",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "IBM Technology",
+    "publishDate": "2026-11-22",
+    "duration": "9:08",
+    "embedUrl": "https://www.youtube.com/embed/4LINhsEZEDI",
+    "isNew": true,
+    "summary": "IBM Technology explains that every AI agent works in a loop of goal, action, observation and adjustment, and that loops differ in who starts them and who judges them. It compares interactive, delegated, scheduled and event-driven loops, with human review shrinking to exceptions in the most autonomous type.",
+    "takeaways": [
+      "Interactive loops keep a person starting and judging each turn, which suits fuzzy tasks without a clear finish line.",
+      "Delegated and scheduled loops add a stopping condition and a clock, with a human reviewing the finished result.",
+      "Event-driven loops are triggered by events and reviewed by another agent, so people only see the exceptions."
+    ],
+    "applyIt": "Ask the IT lead to list two repetitive IT tasks, such as overdue work-order reports, and decide which loop type fits each before any agent tool is trialled."
+  },
+  {
+    "id": "ai-027",
+    "title": "The 10 Biggest Days in AI History",
+    "department": "AI News",
+    "topic": "AI Industry & Markets",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "The AI Daily Brief",
+    "publishDate": "2026-11-22",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/xskAzAc_0ws",
+    "isNew": true,
+    "summary": "On the day Anthropic began trading, host NLW counts down ten dates that shaped generative AI, from OpenAI's founding and the launch of ChatGPT to the DeepSeek sell-off and the shift to agents. He argues the IPO ends AI's private era and starts a more public, transparent one.",
+    "takeaways": [
+      "ChatGPT reached a million users in five days and 100 million within five weeks.",
+      "DeepSeek's release erased about $589 billion of Nvidia's value in one day on 27 January 2025.",
+      "Anthropic priced its IPO at $83, above its $70 to $78 range, giving the public direct exposure to AI builders."
+    ],
+    "applyIt": "Ask the IT lead to brief the management team in ten minutes on which AI vendors Al Bonian FM relies on and how dependent each tool is on a single provider.",
+    "videoDate": "2026-11-19"
   }
 ];
