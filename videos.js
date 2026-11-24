@@ -2804,7 +2804,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-16",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/gCOMQPMhIL0",
-    "isNew": true,
+    "isNew": false,
     "summary": "Covers Anthropic's IPO pricing, with a reported ask of $70-78 per share implying a $1.25-1.4 trillion valuation and a raise of roughly $57-64 billion. It also discusses the bull and bear arguments on valuation, including run-rate revenue reported at $81 billion and the disclosed compute commitments.",
     "takeaways": [
       "Anthropic's IPO paperwork reportedly implied a valuation of $1.25-1.4 trillion, and the FT reported banks considering a top-end of $1.5 trillion after strong demand.",
@@ -3018,5 +3018,65 @@ window.ALBONIAN_MGMT_VIDEOS = [
     ],
     "applyIt": "Ask the IT lead to brief the management team in ten minutes on which AI vendors Al Bonian FM relies on and how dependent each tool is on a single provider.",
     "videoDate": "2026-11-19"
+  },
+  {
+    "id": "fin-023",
+    "title": "Citigroup CEO Jane Fraser at Bloomberg Newsmakers Event",
+    "department": "Finance",
+    "topic": "AI Financing & Banking Risk",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "Bloomberg Television",
+    "publishDate": "2026-11-24",
+    "duration": "46:00",
+    "embedUrl": "https://www.youtube.com/embed/WjEktpP4P6E",
+    "isNew": true,
+    "summary": "Citi CEO Jane Fraser discusses the Anthropic IPO, the financing risks of the AI build-out, and why rate hikes or credit card rate caps would not fix affordability driven by supply constraints. She also describes how Citi manages AI financing exposure and expects tokenization to win over stablecoins over time.",
+    "takeaways": [
+      "Banks must manage the largest capital-intensive build-out in modern history with limit structures, underwriting and collateral review.",
+      "Fraser sees the $1.7 trillion private credit market as manageable and not systemic today, but wants more granularity on retail exposure.",
+      "Rate hikes will not fix inflation driven by diesel and housing supply shortages."
+    ],
+    "applyIt": "Ask the finance manager to review the largest subcontractor and client payment concentrations at Al Bonian FM and set exposure limits for each, as banks do for large credit risks."
+  },
+  {
+    "id": "lead-022",
+    "title": "How to Fix a Broken Hierarchy | Nir Halevy on Level Up",
+    "department": "Leadership",
+    "topic": "Psychological Safety & Hierarchy",
+    "level": "Practitioner",
+    "source": "Training Academy",
+    "channel": "Stanford Graduate School of Business",
+    "publishDate": "2026-11-24",
+    "duration": "58:59",
+    "embedUrl": "https://www.youtube.com/embed/MT6cMeg_eb4",
+    "isNew": true,
+    "summary": "Stanford GSB professor Nir Halevy discusses his book Level Up and argues that hierarchies are not inherently good or bad, with psychological safety separating those that succeed from those that harm people. He presents the CPR repair framework of common value, pluralism and relatedness.",
+    "takeaways": [
+      "Broken hierarchies show three symptoms: ultra-competitive, unjust and unstable.",
+      "Psychological safety is what lets people raise safety and quality concerns without fear of punishment.",
+      "Two quick actions: write a handwritten gratitude letter and ask to co-lead an assignment."
+    ],
+    "applyIt": "At the next site supervisors' meeting, ask each supervisor to name one concern they hesitated to raise with their manager and agree a simple way to raise it without blame."
+  },
+  {
+    "id": "it-024",
+    "title": "Why AI Agents Need RAG + Observability",
+    "department": "IT",
+    "topic": "AI Agents & Observability",
+    "level": "Practitioner",
+    "source": "Industry Expert",
+    "channel": "IBM Technology",
+    "publishDate": "2026-11-24",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/hvnPWgfmvyI",
+    "isNew": true,
+    "summary": "IBM Technology's Matt Aiken explains how retrieval-augmented generation gives AI agents documented knowledge while observability adds live metrics, logs and traces. He walks through investigating a hybrid transaction with both, and stresses keeping human operators in control.",
+    "takeaways": [
+      "RAG grounds an agent in documented system knowledge.",
+      "Observability adds live logs, metrics and traces so the agent works from current evidence.",
+      "Combining both turns AI context into evidence, impact and next steps, with humans still in control."
+    ],
+    "applyIt": "Ask the IT lead to list which systems at Al Bonian FM have usable documentation and live monitoring before any AI agent is trialled on incident investigation."
   }
 ];
