@@ -2825,7 +2825,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-17",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/NuL5VFS8Prs",
-    "isNew": true,
+    "isNew": false,
     "summary": "IBM's Security Intelligence panel discusses the Binance heist, in which about $6.34 billion was stolen after employee devices were compromised via an infected package manager and a fake job-interview assignment, with about $2.85 billion recovered or frozen. The panellists argue that attackers ignore organisational silos and that teams should automate containment, such as isolating devices and revoking tokens, rather than rely on human-paced playbooks.",
     "takeaways": [
       "Attackers researched the target and used believable pretexts to gain an initial foothold on employee devices.",
@@ -2845,7 +2845,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-18",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/0MvcuIrects",
-    "isNew": true,
+    "isNew": false,
     "summary": "IBM's Jeff Crume defines intelligence as the ability to perceive, think, learn and act, then compares narrow AI (ANI), general AI (AGI) and superintelligence (ASI). He argues today's AI is still narrow and that more capable systems need security, testing, governance and human control.",
     "takeaways": [
       "Today's AI is narrow: very strong at some tasks and unreliable at others, including factual errors (hallucinations).",
@@ -2865,7 +2865,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-18",
     "duration": "26:06",
     "embedUrl": "https://www.youtube.com/embed/1kf1QWG_YKQ",
-    "isNew": true,
+    "isNew": false,
     "summary": "Examines the fallout from Jensen Huang's departure as Nvidia CEO and argues it marks the start of a new period in Washington in which China hawks are ascendant. Reports lawmakers' statements that AI chip export-control bills are likely to move in the lame-duck session, probably attached to the NDAA.",
     "takeaways": [
       "House Speaker Mike Johnson spoke of a developing consensus in Congress on chip export controls.",
@@ -3078,5 +3078,66 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Combining both turns AI context into evidence, impact and next steps, with humans still in control."
     ],
     "applyIt": "Ask the IT lead to list which systems at Al Bonian FM have usable documentation and live monitoring before any AI agent is trialled on incident investigation."
+  },
+  {
+    "id": "it-025",
+    "title": "What Is Sovereign AI? Data, Models & AI Agents Explained",
+    "department": "IT",
+    "topic": "AI Governance",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "IBM Technology",
+    "publishDate": "2026-11-26",
+    "duration": "8:42",
+    "embedUrl": "https://www.youtube.com/embed/OX9-zSfT4xI",
+    "isNew": true,
+    "summary": "IBM Technology's Sam Anthony explains that AI sovereignty goes beyond data residency to cover models, infrastructure, inference location, governance and AI agents. He argues policies must become continuously enforced controls and that a fast, governed path keeps teams from bypassing oversight.",
+    "takeaways": [
+      "Data sovereignty alone does not give sovereign AI; the full AI lifecycle must be governed.",
+      "Sovereignty is a spectrum: sensitive workloads may stay in-house while others use public cloud.",
+      "Agents need clear limits on what they may do, with actions that can be reconstructed and audited."
+    ],
+    "applyIt": "Ask the IT lead to list every AI tool currently used by Al Bonian FM teams and note where each processes data, before approving any further AI trials."
+  },
+  {
+    "id": "ai-028",
+    "title": "Jensen is Back as CEO After White House Advocacy",
+    "department": "AI News",
+    "topic": "AI Industry & Governance",
+    "level": "Executive",
+    "source": "Industry Expert",
+    "channel": "The AI Daily Brief: Artificial Intelligence News",
+    "publishDate": "2026-11-26",
+    "videoDate": "2026-11-23",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/3m3nnfJfAxA",
+    "isNew": true,
+    "summary": "The AI Daily Brief reports that Nvidia's board reinstated Jensen Huang as CEO on 23 November, 11 days after his resignation, citing input from senior US government levels. The episode discusses the market reaction and the wider question of the relationship between state and private power.",
+    "takeaways": [
+      "Nvidia's board said it received input from senior US government levels before reinstating its CEO.",
+      "Markets reacted sharply, with Nvidia shares rising strongly on the news.",
+      "The episode frames the event as a test of how state and private power interact around AI."
+    ],
+    "applyIt": "Ask IT and Procurement at Al Bonian FM to note which AI vendors the company depends on and whether any single-supplier concentration needs a fallback plan."
+  },
+  {
+    "id": "qhse-022",
+    "title": "RIPE for Change: Remote Isolation of Process Equipment",
+    "department": "Quality & HSE",
+    "topic": "Process Safety & Emergency Isolation",
+    "level": "Practitioner",
+    "source": "Regulator",
+    "channel": "U.S. Chemical Safety Board",
+    "publishDate": "2026-11-26",
+    "duration": "",
+    "embedUrl": "https://www.youtube.com/embed/8lkIFYpI0p8",
+    "isNew": true,
+    "summary": "The US Chemical Safety Board's safety video, released 12 November 2026, reviews three major fires in which manual or locally controlled valves could not be safely reached, so fires burned from several days to over a month. It repeats the Board's recommendations that remote isolation be used where appropriate.",
+    "takeaways": [
+      "Hazardous releases escalate when isolation valves can only be operated manually near the hazard.",
+      "Remote isolation lets workers stop the flow of fuel to a fire from a safe place.",
+      "Existing industry guidance on remote isolation has not been consistently followed."
+    ],
+    "applyIt": "Walk the plant rooms and fuel or gas supply points at one Al Bonian FM client site and confirm each emergency shut-off can be reached safely during a fire."
   }
 ];
