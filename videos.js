@@ -2886,7 +2886,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-19",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/YN4fId6Jn8k",
-    "isNew": true,
+    "isNew": false,
     "summary": "Reviews three new studies of enterprise AI behaviour (Databricks, Arcana Research and the Ramp AI Index), which suggest leading companies are using price competition between models to grow usage faster than spend. Reports that Ramp saw token usage up 36% in a month against only 2% more spend, and that Databricks customers using two or more model providers rose to 72%.",
     "takeaways": [
       "Ramp found usage up 36% in a month while spend rose only 2%, as average token prices fell 21% across OpenAI and Anthropic in October.",
@@ -3139,5 +3139,46 @@ window.ALBONIAN_MGMT_VIDEOS = [
       "Existing industry guidance on remote isolation has not been consistently followed."
     ],
     "applyIt": "Walk the plant rooms and fuel or gas supply points at one Al Bonian FM client site and confirm each emergency shut-off can be reached safely during a fire."
+  },
+  {
+      "id": "lead-023",
+      "title": "FedEx's Raj Subramaniam on Innovating at the Speed of Global Commerce",
+      "department": "Leadership",
+      "topic": "Leading Transformation",
+      "level": "Executive",
+      "source": "Professional Body",
+      "channel": "Harvard Business Review",
+      "publishDate": "2026-11-27",
+      "duration": "28:50",
+      "embedUrl": "https://www.youtube.com/embed/k4bA82LtyVk",
+      "isNew": true,
+      "summary": "Recorded at HBR's Innovation Summit, FedEx CEO Raj Subramaniam tells Adi Ignatius how FedEx is transforming its network, digital capabilities and organisation around the customer. He says AI transformation must be CEO-led and is a business play rather than a technology play.",
+      "takeaways": [
+          "Transformation at FedEx combines network redesign, digital and AI capability, and a single 'One FedEx' organisation.",
+          "AI works best when structured in layers (efficiency, customer value, supply chain orchestration) rather than chasing individual use cases.",
+          "AI transformation has to be led from the top because business and technology boundaries are disappearing."
+      ],
+      "applyIt": "Ask each Al Bonian FM department head to name one process where data could predict problems before clients see them, and sponsor it personally rather than delegating it to IT."
+  },
+{
+      "id": "ai-029",
+      "title": "How to Talk About AI at Thanksgiving",
+      "department": "AI News",
+      "topic": "AI in Society",
+      "level": "Foundation",
+      "source": "Industry Expert",
+      "channel": "The AI Daily Brief",
+      "publishDate": "2026-11-27",
+      "videoDate": "2026-11-25",
+      "duration": "",
+      "embedUrl": "https://www.youtube.com/embed/9DrvWVeBZEM",
+      "isNew": true,
+      "summary": "The AI Daily Brief walks through about 15 common questions sceptics ask about AI, including jobs, children's use, environmental impact, the bubble debate and who is in charge. The host gives his own view on each and argues that wider society should have a say in how AI develops.",
+      "takeaways": [
+          "So far AI job disruption is not clearly visible in employment statistics, though entry-level hiring is a concern worth watching.",
+          "The bubble question comes down to demand growth and pricing versus how infrastructure build-out is funded.",
+          "Showing people practical uses of AI persuades more than arguing the case."
+      ],
+      "applyIt": "Run a short team huddle at Al Bonian FM where staff share one practical AI use and one concern, so adoption planning starts from real questions."
   }
 ];
