@@ -2907,7 +2907,7 @@ window.ALBONIAN_MGMT_VIDEOS = [
     "publishDate": "2026-11-20",
     "duration": "",
     "embedUrl": "https://www.youtube.com/embed/uSzew8QPRX0",
-    "isNew": true,
+    "isNew": false,
     "summary": "Reviews the first reactions to OpenAI's GPT-6.2 Astra and Sol releases, which drew harsh early impressions from some testers and a regression on the Artificial Analysis coding agent index. It also reports that Astra's cost per task fell 35% to $4, and argues OpenAI is tuning for efficiency and professional work beyond coding.",
     "takeaways": [
       "Artificial Analysis measured GPT-6.2 Astra at $4 per task versus $6.24 for GPT-6 Astra, a 35% cost reduction.",
@@ -3180,5 +3180,66 @@ window.ALBONIAN_MGMT_VIDEOS = [
           "Showing people practical uses of AI persuades more than arguing the case."
       ],
       "applyIt": "Run a short team huddle at Al Bonian FM where staff share one practical AI use and one concern, so adoption planning starts from real questions."
-  }
+  },
+{
+  "id": "lead-024",
+  "title": "Amazon's Andy Jassy on What Amazon Looks For in Future Leaders",
+  "department": "Leadership",
+  "topic": "Leadership Qualities",
+  "level": "Foundation",
+  "source": "Training Academy",
+  "channel": "Harvard Business School",
+  "publishDate": "2026-11-28",
+  "duration": "1:56",
+  "embedUrl": "https://www.youtube.com/embed/p3IUitcmbNk",
+  "isNew": true,
+  "summary": "Amazon CEO Andy Jassy explains the qualities Amazon looks for when hiring: smart people with high judgment and comfort in ambiguity, who are both strategic and willing to work in the details. He adds that attitude and a strong capacity to keep learning matter more than many expect.",
+  "takeaways": [
+    "Leaders who operate in ambiguity need high judgment and comfort with uncertainty.",
+    "Good ideas on a whiteboard are not enough; you must solve the details when things do not work.",
+    "Attitude and reliability (hard work, humility, teamwork, doing what you said) carry a large share of success, as does willingness to keep learning."
+  ],
+  "applyIt": "In your next Al Bonian FM hiring or promotion round, add one question on how the candidate handled an ambiguous situation and followed through on the details."
+},
+{
+  "id": "it-026",
+  "title": "Vibe Coding vs. Agentic Coding: Which Should You Use?",
+  "department": "IT",
+  "topic": "AI-Assisted Development",
+  "level": "Practitioner",
+  "source": "Industry Expert",
+  "channel": "IBM Technology",
+  "publishDate": "2026-11-28",
+  "duration": "8:37",
+  "embedUrl": "https://www.youtube.com/embed/h4tHDFCPmQE",
+  "isNew": true,
+  "summary": "IBM's Grace Ableidinger compares vibe coding with agentic coding across context, planning, testing, validation and security. The video explains which approach suits prototypes, production features and complex code changes.",
+  "takeaways": [
+    "Vibe coding suits rapid prototypes but carries risks in AI-generated code.",
+    "Agentic coding adds planning, testing and validation for production work.",
+    "Give coding agents focused context and secure them with guardrails."
+  ],
+  "applyIt": "Ask your IT team to set a simple rule for Al Bonian FM: vibe coding only for throwaway prototypes, agentic workflows with testing and review for anything touching live systems."
+},
+{
+  "id": "ai-030",
+  "title": "When AI Labs Rival Nations",
+  "department": "AI News",
+  "topic": "AI Power and Governance",
+  "level": "Executive",
+  "source": "Industry Expert",
+  "channel": "The AI Daily Brief",
+  "publishDate": "2026-11-28",
+  "videoDate": "2026-11-22",
+  "duration": "",
+  "embedUrl": "https://www.youtube.com/embed/_KDnFZ3uuC8",
+  "isNew": true,
+  "summary": "This Long Read Sunday episode covers the 'Misanthropic Statement' signed by safety advocates and accelerationists after Anthropic's IPO, and the debate over whether AI labs now hold state-like influence. It also looks at the idea of 'handoverism' and why many AI startups are converging on enterprise AI transformation services.",
+  "takeaways": [
+    "Signers disagree on motives but share concern about concentrated power in a single AI lab.",
+    "The host argues large AI firms may warrant governance norms closer to those applied to governments.",
+    "Several AI infrastructure companies are moving up the value chain toward selling business outcomes."
+  ],
+  "applyIt": "Add an AI supplier-concentration check to Al Bonian FM's vendor reviews so you know which critical tools depend on a single AI provider."
+}
 ];
